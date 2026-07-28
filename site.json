@@ -1,0 +1,20 @@
+{
+ "domain": "sellyourgasroyalties.com",
+ "keyword": "sell gas royalties",
+ "segment": "national-royalty",
+ "intent": "seller",
+ "tier": "Strong test",
+ "available": true,
+ "voice": "Pittsburgh gas-netback desk: title, decimal, well, netback, transfer; institutional third person only",
+ "angle": "gas-weighted underwriting; basis, NGL, deduction, decline, title, and transfer evidence kept separate",
+ "taxonomyCounts": {
+  "locations": 24,
+  "basins": 6,
+  "situations": 10,
+  "interest-types": 6,
+  "resources": 10,
+  "pages": 7
+ },
+ "totalPages": 63,
+ "status": "scaffold"
+}

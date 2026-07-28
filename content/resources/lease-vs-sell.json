@@ -1,0 +1,73 @@
+{
+  "slug": "lease-vs-sell",
+  "title": "Lease vs. Sell: Which Is Right?",
+  "type": "resource",
+  "status": "written",
+  "metaTitle": "Lease vs. Sell Your Gas Mineral Rights",
+  "metaDescription": "Leasing keeps the upside and the risk; selling trades both for certainty. How to think through the choice for a gas-weighted mineral interest.",
+  "heroLead": "Leasing and selling aren't a better-or-worse choice. They're two different bets on where gas prices go from here.",
+  "intro": [
+    "Every owner who calls the gas royalty desk asking about a sale has usually already leased, or is deciding between leasing and selling for the first time. The honest starting point is that these aren't competing versions of the same decision - a lease is you keeping the asset and taking royalty income as it comes, and a sale is you trading the whole future stream, decline curve and all, for one payment today.",
+    "For gas-weighted minerals specifically, that trade carries a wrinkle oil owners don't deal with as sharply - gas prices move on a wider band, seasonally and cyclically, which makes the future income stream harder to forecast and, for some owners, harder to live with."
+  ],
+  "sections": [
+    {
+      "heading": "What leasing actually keeps you exposed to",
+      "paragraphs": [
+        "Staying leased means your income moves with volume decline and gas pricing every single month, for as long as the well produces. On a well early in its life, that can mean strong checks for a few years followed by a steep taper - normal gas decline behavior, not a problem, but something a lot of owners don't fully picture until they're three years in and the check is a fraction of what it was.",
+        "It also means carrying the deduction and price-differential exposure indefinitely - if gathering or processing costs climb, or your basin's differential to Henry Hub widens, that shows up in your check every month, not as a one-time hit."
+      ]
+    },
+    {
+      "heading": "What selling actually trades away",
+      "paragraphs": [
+        "A sale converts an uncertain, declining, multi-year income stream into one certain number today. You give up any upside if gas prices rise sharply, if the operator drills additional wells on the unit, or if the well simply outperforms typical decline. You also give up the downside - price crashes, unexpected shut-ins, rising deductions become someone else's risk, not yours.",
+        "This is the actual trade, and it's a legitimate one either direction. Owners who need certainty now - medical bills, an estate to settle among multiple heirs, a small fractional interest not worth managing - often value the certainty more than the theoretical upside. Owners confident in the well's remaining life and comfortable with price volatility sometimes prefer to stay in."
+      ]
+    },
+    {
+      "heading": "Where a partial sale fits",
+      "paragraphs": [
+        "A middle option worth knowing about: selling a portion of the interest - a percentage of the royalty, or the interest under one well while keeping others - and keeping the rest. This lets an owner take some certainty off the table now while staying exposed to the remaining upside and downside on what's kept. It's more paperwork than an all-or-nothing sale, but it's a real option, not a niche one."
+      ]
+    },
+    {
+      "heading": "Questions worth answering before you decide",
+      "paragraphs": [
+        "How many years of production life is left on the well, realistically, given its current decline stage? How would a sustained low-gas-price stretch affect your household if you stayed leased? Is the interest small and fractional enough that the annual paperwork and tax reporting outweigh the income? Answering these honestly does more for the decision than any single number a buyer quotes you."
+      ]
+    },
+    {
+      "heading": "How the decision looks different across a lifetime",
+      "paragraphs": [
+        "A younger owner with decades of runway may be comfortable riding out a weak gas-price stretch, betting the well or a future well on the same acreage outperforms over time. An owner nearing retirement, or already living on fixed income, often weighs the certainty of a lump sum differently, even against the same well and the same decline curve - neither read is wrong, they're just answering different questions with the same numbers.",
+        "Estate planning changes the calculus too. Minerals split among several heirs after a death can turn into an ongoing coordination problem - every heir getting their own small check, their own tax reporting, their own division order to track - that a sale before or during estate settlement can simplify considerably, independent of what the well itself is doing."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can you lease and sell at the same time?",
+      "answer": "Yes - a leased mineral interest can be sold; the buyer typically becomes the new lessor and steps into your royalty position under the existing lease, with the lease terms carrying over."
+    },
+    {
+      "question": "Is selling always a worse deal than staying leased?",
+      "answer": "No. It depends on the well's remaining life, your tolerance for price and decline risk, and what certainty is worth to your situation right now. Both paths are legitimate depending on the owner and the interest."
+    },
+    {
+      "question": "What happens if you sell and the operator drills a new well nearby later?",
+      "answer": "If you've sold the mineral interest outright, the buyer - now the owner - receives royalty on any future production from that acreage, including new wells. That upside transfers with the sale."
+    },
+    {
+      "question": "Does a small fractional interest make selling more sensible?",
+      "answer": "Often, yes - very small fractional interests can generate modest income relative to the annual tax reporting and paperwork involved, which is one honest reason owners of small shares choose to sell rather than hold."
+    }
+  ],
+  "wordCount": 870,
+  "image": {
+    "src": "/images/resources/mineral-rights-resources-lease-vs-sell-sellyourgasroyalties-com.jpg",
+    "alt": "Lease vs. Sell: Which Is Right? mineral rights",
+    "width": 1600,
+    "height": 1000
+  }
+}

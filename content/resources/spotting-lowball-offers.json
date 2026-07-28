@@ -1,0 +1,73 @@
+{
+  "slug": "spotting-lowball-offers",
+  "title": "How to Spot a Lowball Offer",
+  "type": "resource",
+  "status": "written",
+  "metaTitle": "How to Spot a Lowball Gas Royalty Offer",
+  "metaDescription": "The tells behind a low mailbox offer on gas mineral rights - stale pricing, thin math, pressure tactics - from a working landman's view.",
+  "heroLead": "A lowball offer rarely announces itself. It shows up looking reasonable, dressed in urgency, with no math behind it you're invited to check.",
+  "intro": [
+    "Most owners' first offer on gas minerals arrives unsolicited - a letter or postcard with a number on it, sometimes tied to a short deadline. Some of these are honest starting offers from real buyers. Some are priced deliberately low against owners who have no easy way to check the math. Telling the two apart isn't about distrust; it's about knowing the specific tells.",
+    "None of this means every quick or unsolicited offer is bad. It means the same handful of checks apply whether the offer is your first or your fifth."
+  ],
+  "sections": [
+    {
+      "heading": "No math you can check",
+      "paragraphs": [
+        "A legitimate offer can be explained - what trailing royalty period it's based on, what multiple or discounted cash flow assumption produced the number, how the buyer accounted for the well's decline stage and current gas pricing. If you ask how they got to the number and the answer is vague or the buyer gets impatient with the question, that's the single most reliable tell there is.",
+        "A number with real math behind it doesn't need to be defended with urgency - it can be explained calmly, and it holds up if you ask the same question twice, in different words."
+      ]
+    },
+    {
+      "heading": "Pricing against stale or cherry-picked statements",
+      "paragraphs": [
+        "Gas prices and well volume both move, so an offer built off a single low-price month, or a statement from a temporary shut-in period, can undervalue the interest relative to its real trailing trend. A buyer working in good faith asks for twelve to thirty-six months of statements, not one. If a buyer is working off a single old statement you handed them once, or off public production data alone without asking for your actual royalty history, the resulting number is built on thinner ground than it should be."
+      ]
+    },
+    {
+      "heading": "Artificial urgency",
+      "paragraphs": [
+        "A short response window - forty-eight or seventy-two hours, sometimes framed as a one-time price - is a pressure tactic more than a real market condition. Gas mineral value doesn't expire in two days; it moves with the gas price cycle over weeks and months, not hours. A legitimate buyer can hold a number, or something close to it, for the time it takes you to get a second opinion.",
+        "Be equally cautious of an offer that requires you to sign before you're told which specific interest, well, or unit it applies to - vague scope paired with tight deadlines is a combination worth slowing down on, not speeding through."
+      ]
+    },
+    {
+      "heading": "The comparison that actually protects you",
+      "paragraphs": [
+        "The single best defense against a lowball offer is a second offer. Getting even one more opinion, with the same statements and documents in hand, tells you within a conversation or two whether the first number was fair, generous, or thin. Buyers who are confident in their own math don't discourage you from doing this - the ones who push hardest against a second opinion are usually the ones with the most to lose from you getting one."
+      ]
+    },
+    {
+      "heading": "A note on the gas-specific version of this",
+      "paragraphs": [
+        "Gas ownership has its own flavor of lowball offer worth naming specifically - an offer that quietly prices off gross volume without accounting for the basin's typical differential, or one that treats a temporary NGL price dip as the permanent state of the well. Because gas pricing swings wider than oil, there's more room for an offer built on an unfavorable snapshot to look reasonable at first glance than there would be on a more stable commodity.",
+        "Asking specifically how a gas offer treated the differential and, if applicable, NGL revenue separately from dry gas revenue is a fair, direct question, and a legitimate buyer will have a specific answer rather than a shrug. If the answer boils down to a single flat multiple with no mention of either factor, that's worth treating as a starting point for negotiation, not a final number."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is every unsolicited mailer offer a lowball offer?",
+      "answer": "No - some are legitimate starting offers from real buyers reaching owners the same way courthouse records reach anyone. The mailer format isn't the tell; the lack of explainable math and the pressure tactics around it are."
+    },
+    {
+      "question": "How do you know if a quoted multiple is reasonable?",
+      "answer": "Ask what trailing period it's based on and how gas-price cycle timing factored in, then compare against at least one other offer. A reasonable multiple holds up when you ask about it a second time in different words."
+    },
+    {
+      "question": "Should you be worried if an offer has a deadline at all?",
+      "answer": "A soft deadline tied to a buyer's own internal process isn't unusual. A hard, short deadline paired with pressure not to seek a second opinion is the combination worth being cautious about."
+    },
+    {
+      "question": "What's the fastest way to check if an offer is fair?",
+      "answer": "Get a second offer using the same royalty statements and documents. Two independent numbers, close together, tell you the range is fair. A wide gap between them is worth understanding before you sign anything."
+    }
+  ],
+  "wordCount": 877,
+  "image": {
+    "src": "/images/resources/mineral-rights-resources-spotting-lowball-offers-sellyourgasroyalties-com.jpg",
+    "alt": "How to Spot a Lowball Offer mineral rights",
+    "width": 1600,
+    "height": 1000
+  }
+}

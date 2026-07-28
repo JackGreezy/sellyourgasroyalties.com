@@ -1,0 +1,72 @@
+{
+  "slug": "taxes-when-selling-minerals",
+  "title": "Taxes When You Sell Mineral Rights",
+  "type": "resource",
+  "status": "written",
+  "metaTitle": "Taxes When You Sell Gas Mineral Rights",
+  "metaDescription": "Capital gains basics, inherited-minerals step-up, and depletion recapture explained plainly - always confirm specifics with your own CPA.",
+  "heroLead": "Selling minerals is usually a capital transaction, not ordinary income - but the details of your situation decide the real number, not a general rule.",
+  "intro": [
+    "This is not tax advice, and it isn't meant to replace a conversation with your CPA or tax advisor about your specific situation - it's meant to give you the vocabulary and the general shape of the tax questions before that conversation, so you walk in with better questions.",
+    "The tax treatment of a mineral sale depends heavily on how you acquired the interest, how long you've held it, and whether you've been taking depletion deductions against royalty income along the way. Those three facts drive most of what happens on your return."
+  ],
+  "sections": [
+    {
+      "heading": "Capital gains, generally",
+      "paragraphs": [
+        "Selling a mineral or royalty interest you've held for longer than a year is typically treated as a long-term capital gain, taxed at capital gains rates rather than ordinary income rates - generally more favorable. The gain is calculated as your sale price minus your basis in the interest, which is where the next section matters a great deal.",
+        "Short-term treatment, and the higher ordinary-income-rate exposure that comes with it, can apply if you acquired and sold the interest within a year - worth knowing if you recently inherited or purchased minerals and are considering a quick sale."
+      ]
+    },
+    {
+      "heading": "Basis, and why inherited minerals are different",
+      "paragraphs": [
+        "If you purchased your mineral interest, your basis is generally what you paid for it. If you inherited it, the basis typically steps up to the fair market value as of the date of death (or an alternate valuation date, in some estates) - which often means a much smaller taxable gain on inherited minerals than the same sale would generate for a longtime purchaser, since a lot of the underlying value accrued before you ever owned it.",
+        "Establishing that stepped-up basis accurately, especially for minerals that weren't producing at the time of inheritance, can require documentation - this is a place where a CPA experienced in mineral or estate matters earns their fee, because getting the basis right directly changes the tax owed."
+      ]
+    },
+    {
+      "heading": "Depletion recapture, if you've claimed it",
+      "paragraphs": [
+        "If you've owned a producing interest and claimed percentage depletion or cost depletion against your royalty income over the years, that depletion generally reduced your basis in the interest over time. When you sell, that history can affect the calculation of your gain - it's one more reason your basis isn't necessarily a simple, static number, and one more thing worth having your CPA walk through against your specific filing history."
+      ]
+    },
+    {
+      "heading": "State-level considerations",
+      "paragraphs": [
+        "Depending on which state the minerals sit in, there may be state income tax implications on top of federal, and some states have their own rules or withholding requirements tied to real property and mineral transactions. This varies enough by state that a blanket statement here wouldn't be reliable - another good, specific question for your tax advisor before you close."
+      ]
+    },
+    {
+      "heading": "Timing a sale around your own tax year",
+      "paragraphs": [
+        "Some owners choose to time a closing deliberately - deferring into a lower-income year, or pairing the sale with a year that already has offsetting losses or deductions from something unrelated. Others split a larger interest into two closings across two tax years rather than one, to manage the size of a single year's gain. Whether either approach makes sense depends entirely on your broader financial picture, which is exactly the kind of planning question worth bringing to your CPA well before a closing date is set, not after. None of this changes the underlying value of the interest - it's purely about how and when the resulting gain lands on your return, and getting that timing conversation started early gives your CPA room to actually plan around it."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Will you owe tax on the full sale price?",
+      "answer": "No - generally you owe capital gains tax on the sale price minus your basis in the interest, not the full price. For inherited minerals, that basis is often stepped up to fair market value at inheritance, which can meaningfully reduce the taxable gain."
+    },
+    {
+      "question": "Is selling mineral rights taxed differently than selling a house?",
+      "answer": "The general capital gains framework is similar, but minerals don't get the primary-residence exclusion a home sale can. Depletion history, if you've claimed it, is also specific to mineral and royalty interests. Talk to your CPA about how these interact for your filing."
+    },
+    {
+      "question": "Do you need to report the sale even if you do not owe much tax?",
+      "answer": "Generally yes - the sale is a reportable transaction regardless of the size of the gain. Your CPA can confirm exactly what reporting applies to your situation and any forms the buyer or closing agent may issue."
+    },
+    {
+      "question": "Can you do a like-kind exchange with mineral rights to defer tax?",
+      "answer": "This is a real strategy some owners use, generally involving a 1031 exchange into other qualifying real property, but the rules are strict and time-sensitive. Confirm eligibility and mechanics with a qualified intermediary and your tax advisor well before you sell."
+    }
+  ],
+  "wordCount": 862,
+  "image": {
+    "src": "/images/resources/mineral-rights-resources-taxes-when-selling-minerals-sellyourgasroyalties-com.jpg",
+    "alt": "Taxes When You Sell Mineral Rights mineral rights",
+    "width": 1600,
+    "height": 1000
+  }
+}

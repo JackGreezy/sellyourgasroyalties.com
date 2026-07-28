@@ -1,0 +1,80 @@
+{
+  "slug": "probate-and-estate-minerals",
+  "title": "Minerals in Probate & Estates",
+  "type": "situation",
+  "note": "executor/estate sale mechanics",
+  "metaTitle": "Selling Gas Mineral Rights During Probate or Estate Settlement",
+  "metaDescription": "Executors settling an estate with gas royalties face title, valuation, and multi-heir headaches. See how the sale process works alongside probate.",
+  "heroLead": "Somewhere on the estate inventory sits a line item for mineral rights, and figuring out what to do with it usually falls to whoever agreed to be executor.",
+  "intro": [
+    "Settling an estate that includes gas mineral rights adds a layer most executors haven't dealt with before. It's not like liquidating a bank account or selling a house through a realtor. There's a decimal interest to confirm, a title chain to establish through the probate itself, and often several heirs who each need to weigh in or sign, sometimes with different opinions about whether to keep the interest or sell it.",
+    "This page covers how mineral rights typically move through probate, what an executor needs before a sale can close, and where multiple heirs fit into the process."
+  ],
+  "sections": [
+    {
+      "heading": "Where Minerals Sit in the Probate Process",
+      "paragraphs": [
+        "Mineral rights are real property and get treated that way in most states, meaning they pass through probate the same way a house or land would, either by will, by intestate succession if there's no will, or through a trust if the interest was already placed in one before death. Until probate is complete or an heirship affidavit is filed, the title chain from the deceased to the heirs isn't fully established, and that gap matters to anyone buying the interest.",
+        "Executors sometimes assume a mineral interest with an active gas royalty can be sold immediately because checks are still coming in. Checks continuing to arrive doesn't mean title has transferred; the operator will keep paying the estate's account until a new division order is filed showing the heirs, which typically requires the probate to be at least substantially resolved."
+      ]
+    },
+    {
+      "heading": "What a Buyer Needs to See Before Closing",
+      "paragraphs": [
+        "A completed probate order, letters testamentary showing the executor's authority, and a clear deed or affidavit establishing who the heirs are, that's the paper trail we look for before an estate sale can close. If probate is still open, we can often begin the valuation and offer process in parallel, so there's no delay once the legal side clears.",
+        "For smaller estates, some states allow a simplified small estate affidavit process instead of full probate, which can move faster. Whether that applies depends on your state's threshold and the estate's total value, a question for the estate's attorney, not us."
+      ]
+    },
+    {
+      "heading": "When There Are Multiple Heirs",
+      "paragraphs": [
+        "It's common for mineral rights to pass to several children or grandchildren in equal shares. Once the estate distributes the interest, each heir typically holds their own undivided fraction and can decide independently whether to keep or sell it. Some families want the interest sold as one package with proceeds split according to the will; others prefer each heir handle their own share separately.",
+        "We can work either way, closing a single transaction with all heirs' signatures, or handling each heir's portion as its own sale on their own timeline. If the family disagrees about selling at all, that's worth sorting out before anyone signs anything, since we won't pressure one heir to sell against the wishes of siblings still deciding."
+      ]
+    },
+    {
+      "heading": "Valuing the Interest for Estate Purposes",
+      "paragraphs": [
+        "Estates sometimes need a valuation of the mineral interest for the estate inventory or for equalizing distributions among heirs, separate from an actual sale. We can provide a written offer that serves as a market-based reference point for that purpose, even if the family ultimately decides not to sell. That said, a formal appraisal from a qualified appraiser may be required depending on the estate's size and your state's rules, which is a question for the estate's attorney or CPA. Gas royalties are harder to value for estate purposes than most assets because the checks the deceased was receiving reflect a price and decline stage that may have already shifted by the date of death, so a valuation dated to that specific point matters more here than for a bank account or a house."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can we sell the mineral rights before probate is finished?",
+      "answer": "Usually the sale can't officially close until probate has established clear title, but we can start the valuation and paperwork process while probate is still underway."
+    },
+    {
+      "question": "Do all the heirs have to agree to sell?",
+      "answer": "If the estate distributes the interest as one asset held jointly, typically everyone with a share needs to sign off. If it's divided into separate shares first, each heir can decide independently."
+    },
+    {
+      "question": "The estate has minerals in two different counties. Is that a problem?",
+      "answer": "No, we regularly handle estates with interests spread across multiple counties or states, though title work is done separately for each."
+    },
+    {
+      "question": "Will you provide documentation the executor can show the court or other heirs?",
+      "answer": "Yes, a written offer with the basis for the number is standard, useful for estate records or for showing other heirs how the figure was reached."
+    },
+    {
+      "question": "What if the estate owes debts and needs cash before everything else is settled?",
+      "answer": "That's a common reason estates sell mineral interests early. Talk to the estate's attorney about whether a partial sale can proceed while other matters are still pending."
+    },
+    {
+      "question": "The decedent owned minerals in a state where they never lived. Does that complicate probate?",
+      "answer": "It can. Some states require ancillary probate for real property, including minerals, located outside the primary probate state. The estate attorney handling the main probate should be able to advise whether that applies here."
+    },
+    {
+      "question": "Do you need the well's production history or just the deed to make an offer?",
+      "answer": "Both help. The deed or division order establishes the interest itself, while recent check history or operator statements let us price it against actual production and current gas price rather than a rough estimate."
+    }
+  ],
+  "status": "written",
+  "wordCount": 965,
+  "image": {
+    "src": "/images/situations/mineral-rights-situations-probate-and-estate-minerals-sellyourgasroyalties-com.jpg",
+    "alt": "Minerals in Probate & Estates mineral rights",
+    "width": 1600,
+    "height": 1000
+  }
+}

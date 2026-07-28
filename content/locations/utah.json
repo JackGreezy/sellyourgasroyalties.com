@@ -1,0 +1,74 @@
+{
+  "slug": "utah",
+  "title": "Sell Mineral Rights in Utah",
+  "type": "state",
+  "group": "Uinta basin",
+  "primaryKeyword": "mineral rights utah",
+  "seo": {
+    "vol": 170,
+    "cpc": 5.81
+  },
+  "status": "written",
+  "metaTitle": "Sell Mineral Rights in Utah | Uinta Basin Royalties",
+  "metaDescription": "Uinta basin mineral owner? Waxy crude, trucking bottlenecks, and associated gas make Utah a unique market. Get a straight cash offer for your interest.",
+  "heroLead": "The Uinta basin is one of the only oil plays in the country where the crude itself is famous for the wrong reason — it's waxy enough to solidify at room temperature, and that single fact has shaped everything about how the play gets developed and how minerals there get valued.",
+  "intro": [
+    "Duchesne and Uintah counties hold the core of Utah's Uinta basin production, an isolated basin ringed by mountains with limited pipeline connectivity to outside markets. Because the crude is paraffinic — waxy — it can't simply be piped like conventional light crude without special heating or blending, and for years producers relied heavily on truck and rail transport to move it to refineries, which is a meaningfully more expensive and logistically constrained path to market than a basin with direct pipeline access.",
+    "Associated gas comes up alongside that oil, and it faces its own version of the same isolation problem — limited local gathering infrastructure and a small in-basin market, which has made gas economics in the Uinta secondary to oil for most operators. We factor all of that into how we price a Utah interest, because a basin with real takeaway constraints doesn't value the same way as one with open pipeline access."
+  ],
+  "sections": [
+    {
+      "heading": "Why logistics matter more here than almost anywhere else",
+      "paragraphs": [
+        "In most basins, the main variable in royalty value is production volume and commodity price. In the Uinta, a third variable carries real weight: how the crude physically gets to market. Trucking capacity, rail terminal access, and pipeline projects that have come and gone over the years all directly affect the netback price an operator can realize, and that netback flows straight through to your royalty check. A well producing the same volume in two different years can show different royalty economics purely because takeaway options changed in between.",
+        "This is also why Uinta basin activity has run in cycles more visibly than some other plays — when takeaway costs are high relative to oil price, drilling slows; when a new transport option opens up, activity can pick back up."
+      ]
+    },
+    {
+      "heading": "Gas in the Uinta: real but secondary",
+      "paragraphs": [
+        "Associated gas royalty in the Uinta tends to run modest relative to the oil side of the check, both because gas volumes are smaller relative to oil here than in a gas-weighted play and because in-basin gas infrastructure hasn't seen the same investment as oil transport has. If your statement shows a gas line that looks thin compared to your oil line, that's typical for this basin rather than a red flag specific to your well."
+      ]
+    },
+    {
+      "heading": "What we check on a Uinta basin tract",
+      "paragraphs": [
+        "We pull Utah Division of Oil, Gas and Mining production and well records for your specific unit, confirm current operator and status, and look at how recently nearby permits have been filed, since Uinta drilling activity has moved in visible waves tied to both oil price and transport economics rather than a steady year-over-year pace. Older Uinta interests, some tracing to homestead-era severances on land that later became tribal or federal checkerboard acreage in parts of the basin, sometimes carry more complex title histories than a typical state, and we're used to working through that.",
+        "Federal minerals also make up a real share of the Uinta basin, administered through the Bureau of Land Management rather than a private lease, and that's a different transaction structure than a straightforward private mineral deed — worth confirming early which category your interest falls under, since it changes both the paperwork and the timeline."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why is Uinta basin crude called waxy oil?",
+      "answer": "Uinta crude is paraffinic, meaning it has a high wax content that causes it to solidify at room temperature, which historically required trucking, rail, or specialized pipeline heating and blending to move to market rather than standard pipeline transport."
+    },
+    {
+      "question": "Does pipeline access affect your Utah royalty check?",
+      "answer": "Yes, directly. Takeaway logistics in the Uinta basin have historically added real cost compared to basins with open pipeline access, and that cost affects the netback price operators realize, which flows through to royalty value."
+    },
+    {
+      "question": "Is associated gas worth much in the Uinta basin?",
+      "answer": "It's real value but typically secondary to oil, both because gas volumes run smaller relative to oil here and because in-basin gas infrastructure has seen less investment than oil transport."
+    },
+    {
+      "question": "What counties make up the core Uinta basin play?",
+      "answer": "Duchesne and Uintah counties hold the core productive acreage, with activity extending into surrounding areas depending on the specific formation and depth."
+    },
+    {
+      "question": "Do older Utah mineral tracts have complicated title issues?",
+      "answer": "Some do, particularly tracts tracing to homestead-era severances or land near tribal and federal checkerboard acreage in parts of the basin. We're used to working through more complex title histories on Uinta basin tracts specifically."
+    },
+    {
+      "question": "Are Uinta basin minerals private or federal?",
+      "answer": "Both exist in the basin. A meaningful share of Uinta basin minerals are federal, administered through the Bureau of Land Management, which is a different transaction structure than a private mineral deed. Confirming which applies to your interest is one of the first things we check."
+    }
+  ],
+  "wordCount": 875,
+  "image": {
+    "src": "/images/locations/sell-mineral-rights-utah.jpg",
+    "alt": "Replacement Minerals in Utah location",
+    "width": 1600,
+    "height": 1000
+  }
+}

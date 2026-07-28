@@ -1,0 +1,80 @@
+{
+  "slug": "pennsylvania",
+  "title": "Sell Mineral Rights in Pennsylvania",
+  "type": "state",
+  "group": "Marcellus",
+  "primaryKeyword": "mineral rights pennsylvania",
+  "seo": {
+    "vol": 110,
+    "cpc": 7.56
+  },
+  "status": "written",
+  "metaTitle": "Sell Marcellus Gas Royalties in Pennsylvania | PA Minerals",
+  "metaDescription": "Pennsylvania Marcellus mineral owner fighting post-production deductions? We know the dry-gas northeast and wet-gas southwest. Get a real cash offer.",
+  "heroLead": "If you're a Pennsylvania Marcellus royalty owner, there's a decent chance you've already had a fight with your operator over post-production deductions eating more of your check than you expected — that dispute is practically part of the Pennsylvania playbook by now.",
+  "intro": [
+    "Pennsylvania's Marcellus play runs in two distinct flavors. The northeast — Susquehanna, Bradford, Tioga, Wyoming, and Lycoming counties — produces dry gas, some of the most prolific dry-gas wells in the country, sold on volume with no natural gas liquids to add value. The southwest — Washington, Greene, and parts of Fayette county — sits in wetter gas territory closer to the Utica trend, with condensate and liquids mixed in. Both regions have seen aggressive post-production deduction practices, and Pennsylvania has been ground zero for royalty owner litigation over exactly how those deductions get calculated.",
+    "We know both flavors of Pennsylvania Marcellus production, and we know what a deduction-heavy statement looks like versus a clean one. When we make an offer, we're pricing the interest you actually have, deductions and all, not an idealized version of it."
+  ],
+  "sections": [
+    {
+      "heading": "The post-production deduction fight, plainly",
+      "paragraphs": [
+        "Pennsylvania's Guaranteed Minimum Royalty Act sets a 12.5% royalty floor, but it doesn't prohibit post-production deductions from being taken before that floor is calculated, and that gap has been the center of years of litigation and dispute across the state. Some Marcellus leases were written broadly enough to let operators deduct gathering, compression, dehydration, treating, and even a share of transportation costs to distant markets, and net-back pricing on a well selling gas hundreds of miles from the wellhead can shrink a royalty check considerably compared to the raw wellhead value.",
+        "If your statement shows deductions eating what feels like an outsized share of gross revenue, you're not imagining it — this has been a documented, litigated issue in Pennsylvania specifically, not a one-off complaint. It's also exactly the kind of thing we factor into an offer rather than pricing your interest as if deductions were minimal."
+      ]
+    },
+    {
+      "heading": "Northeast PA: dry gas, high volume, thin margin per unit",
+      "paragraphs": [
+        "Susquehanna and Bradford county wells rank among the highest-volume dry-gas producers in the country, but dry gas alone sells for less per unit than a wet-gas stream with liquids attached, and Appalachian basis pricing has often traded at a discount to Henry Hub because takeaway pipeline capacity out of the region has struggled to keep pace with production growth. High volume helps, but it doesn't fully offset a weak regional price and a full slate of post-production deductions."
+      ]
+    },
+    {
+      "heading": "Southwest PA: wetter gas, closer to Utica economics",
+      "paragraphs": [
+        "Washington and Greene county Marcellus production runs wetter, picking up natural gas liquids value similar to the Ohio Utica wet window just across the border. That adds a real revenue line beyond the raw gas price, but it also adds its own processing deduction, so the net effect on your check depends on liquids prices as much as gas prices in a given period."
+      ]
+    },
+    {
+      "heading": "What we verify before quoting a Pennsylvania interest",
+      "paragraphs": [
+        "We pull well records through the Pennsylvania Department of Environmental Protection's production reporting, confirm your unit and operator, and review whatever statements you can share to see exactly how deductions are being calculated on your specific lease. Older Pennsylvania leases, especially pre-Marcellus-boom leases signed before landmen understood what the play would become, sometimes carry royalty language that's genuinely worse than what's standard today — worth flagging if that's your situation, since it directly affects value.",
+        "We'll also check whether your tract was force-pooled or voluntarily unitized, since Pennsylvania's pooling framework has changed over the life of the Marcellus play and older leases sometimes predate the unit your interest currently sits inside."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can operators legally deduct post-production costs in Pennsylvania?",
+      "answer": "Generally yes, if your lease allows it, even with the state's 12.5% minimum royalty floor in place. The floor applies before certain deduction calculations, which is exactly what's driven years of litigation across Pennsylvania Marcellus country."
+    },
+    {
+      "question": "Why does Appalachian gas price lower than Henry Hub?",
+      "answer": "Pipeline takeaway capacity out of the northeast Marcellus region has historically lagged behind production growth, which has pushed regional basis prices below the national Henry Hub benchmark at various points."
+    },
+    {
+      "question": "What's the difference between northeast and southwest PA Marcellus gas?",
+      "answer": "Northeast Pennsylvania (Susquehanna, Bradford, Tioga) produces dry gas at high volume. Southwest Pennsylvania (Washington, Greene) produces wetter gas with natural gas liquids, similar to the neighboring Ohio Utica window."
+    },
+    {
+      "question": "Should you sell if you are in a deduction dispute with your operator?",
+      "answer": "It depends on your specific situation, and we'll price the interest as it actually performs today. Selling doesn't require resolving an ongoing dispute first, but it's worth telling us about it so we can value the interest accurately."
+    },
+    {
+      "question": "Do older Pennsylvania leases pay worse royalties than newer ones?",
+      "answer": "Sometimes, yes. Leases signed before the Marcellus boom was fully understood occasionally carry royalty and deduction language less favorable to the owner than what became standard once operators and landowners both knew what the play was worth."
+    },
+    {
+      "question": "Does your Pennsylvania tract need to be pooled to generate royalty?",
+      "answer": "In most cases yes, since modern Marcellus wells are horizontal and drain acreage across multiple ownership tracts pooled into a single unit. Confirming your tract is properly included in its producing unit is one of the first things we check."
+    }
+  ],
+  "wordCount": 909,
+  "image": {
+    "src": "/images/locations/sell-mineral-rights-pennsylvania.jpg",
+    "alt": "Replacement Minerals in Pennsylvania location",
+    "width": 1600,
+    "height": 1000
+  }
+}

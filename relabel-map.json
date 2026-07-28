@@ -1,0 +1,1075 @@
+{
+  "refhost": "nanoavionics-com",
+  "templates": {
+    "home": "home.html.ref",
+    "about": "about.html.ref",
+    "contact": "contact.html.ref",
+    "index": "index.html.ref",
+    "slug": "slug.html.ref"
+  },
+  "scripts": "strip",
+  "external_css_images": "strip",
+  "approved_image_pool": [
+    "/ours/pages/mineral-rights-pages-home-sellyourgasroyalties-com.jpg",
+    "/ours/pages/mineral-rights-pages-about-sellyourgasroyalties-com.jpg",
+    "/ours/pages/mineral-rights-pages-contact-sellyourgasroyalties-com.jpg",
+    "/ours/locations/sell-mineral-rights-pennsylvania.jpg",
+    "/ours/locations/sell-mineral-rights-west-virginia.jpg",
+    "/ours/locations/sell-mineral-rights-ohio.jpg",
+    "/ours/basins/mineral-rights-basins-marcellus-shale-sellyourgasroyalties-com.jpg",
+    "/ours/basins/mineral-rights-basins-utica-shale-sellyourgasroyalties-com.jpg",
+    "/ours/basins/mineral-rights-basins-haynesville-shale-sellyourgasroyalties-com.jpg",
+    "/ours/resources/mineral-rights-resources-royalty-statements-guide-sellyourgasroyalties-com.jpg",
+    "/ours/resources/mineral-rights-resources-documents-checklist-sellyourgasroyalties-com.jpg",
+    "/ours/resources/mineral-rights-resources-spotting-lowball-offers-sellyourgasroyalties-com.jpg",
+    "/ours/situations/mineral-rights-situations-inherited-mineral-rights-sellyourgasroyalties-com.jpg",
+    "/ours/situations/mineral-rights-situations-unsolicited-offer-received-sellyourgasroyalties-com.jpg",
+    "/ours/interest-types/mineral-rights-interest-types-royalty-interests-sellyourgasroyalties-com.jpg",
+    "/ours/investing/mineral-rights-investing-how-to-evaluate-a-mineral-package-sellyourgasroyalties-com.jpg",
+    "/ours/exchange-1031/mineral-rights-exchange-1031-is-a-1031-right-for-you-sellyourgasroyalties-com.jpg"
+  ],
+  "chrome": {
+    "header": {
+      "selector": ".header",
+      "tag": "header",
+      "wrap_header": false,
+      "strip": [
+        ".sub-menu"
+      ],
+      "strip_global": [
+        "#modal-platform",
+        "#modal-contact",
+        "body > noscript",
+        "body > iframe"
+      ],
+      "transparent_classes": [],
+      "logo_slot": ".logo > a",
+      "nav_link_selector": ".menu-nav-bar-container > .nav-hold > li > a",
+      "nav_append_slot": ".header .menu-nav-bar-container > .nav-hold",
+      "nav_append_class": "menu-item",
+      "mobile_menu_slot": ".mob-nav-hold",
+      "burger_selector": ".nav-trigger",
+      "burger_slot": ".row-full",
+      "utility_links": {
+        "selector": "#contact-link",
+        "keep": [
+          ["Request a Gas Royalty Review", "/contact"]
+        ]
+      },
+      "repair_css": "header.header{position:relative!important;z-index:1000!important;width:100%!important}header.header .row-full{display:flex!important;align-items:center!important;min-height:78px!important}header.header .bread-c-list{display:none!important}header.header .rr-wordmark{display:inline-flex!important;flex-direction:column!important;gap:1px!important;color:#101010!important;text-decoration:none!important;line-height:1!important;letter-spacing:.01em!important}header.header.white .rr-wordmark,header.header.template-dark .rr-wordmark{color:#fff!important}header.header .rr-wm-1{font-size:17px!important;font-weight:500!important}header.header .rr-wm-2{font-size:11px!important;letter-spacing:.18em!important;text-transform:uppercase!important}header.header .nav-wrap{display:flex!important;align-items:center!important;justify-content:flex-end!important}header.header #contact-link{white-space:nowrap!important}@media(min-width:1024px){header.header .logo{flex:0 0 150px!important;width:150px!important}header.header .nav{flex:1 1 auto!important;width:auto!important;min-width:0!important}header.header .nav-wrap{width:100%!important}header.header .menu-nav-bar-container>.nav-hold{display:flex!important;align-items:center!important;justify-content:flex-end!important;margin:0!important}header.header .menu-nav-bar-container>.nav-hold>li{margin-right:clamp(12px,1.4vw,22px)!important}header.header .menu-nav-bar-container>.nav-hold>li>a,header.header #contact-link{font-size:13px!important}header.header #contact-link{padding-left:clamp(12px,1.2vw,20px)!important}}@media(max-width:1023px){header.header .row-full{padding-inline:22px!important}.mob-nav-hold[data-rr-mobile]{background:#090909!important;color:#fff!important}.mob-nav-hold[data-rr-mobile] .rr-m-link{color:#fff!important}}"
+    },
+    "footer": {
+      "selector": ".footer",
+      "tag": "footer",
+      "strip": [
+        ".newsletter-form",
+        ".footer-soc",
+        ".iso-white-wrap",
+        "form",
+        "svg",
+        "img",
+        "picture",
+        "video",
+        "canvas",
+        "iframe",
+        "source"
+      ],
+      "link_map": {
+        "about": ["About", "/about"],
+        "satellite buses": ["Owner Situations", "/situations"],
+        "mission services": ["Royalty Interests", "/interest-types"],
+        "cubesat subsystems": ["Gas Basins", "/basins"],
+        "careers": ["Gas Royalty States", "/locations"],
+        "news": ["Owner Resources", "/resources"],
+        "events": ["Buyer Underwriting", "/investing"],
+        "terms & conditions": ["Terms", "/terms"],
+        "environmental policy": ["Mineral 1031 Guides", "/exchange-1031"],
+        "see open positions": ["Request a Gas Royalty Review", "/contact"]
+      },
+    "text_map": {
+      "Submit your e-mail for our news and announcements": "Title. Decimal. Well. Netback. Transfer.",
+      "At NanoAvionics we are always looking for talented people to join our professional team. Sounds like you?": "A Pittsburgh gas-royalty desk connecting title, owner decimals, wells, realized netbacks, complete offer terms, and the recorded transfer."
+      },
+      "regex_text_map": {
+        "At NanoAvionics we are always looking.*Sounds like you\\?": "A Pittsburgh gas-royalty desk connecting title, owner decimals, wells, realized netbacks, complete offer terms, and the recorded transfer."
+      },
+      "drop_link_pattern": "Facebook|LinkedIn|Twitter|X|Instagram|ISO",
+      "ensure_ia": true,
+      "copyright_year": 2026,
+      "repair_css": "footer.footer{background:#d9dcdf!important;color:#101010!important}footer.footer .footer-bottom{display:block!important;padding-block:clamp(2rem,5vw,4rem)!important;border-bottom:1px solid rgba(10,10,10,.18)!important}footer.footer .newsletter-text{width:100%!important;max-width:30ch!important;font-size:clamp(1.25rem,2.5vw,2rem)!important}footer.footer .footer-top{display:grid!important;grid-template-columns:minmax(220px,.7fr) minmax(0,1.3fr)!important;gap:clamp(2rem,7vw,7rem)!important}footer.footer .footer-top-left{width:100%!important}footer.footer .footer-nav-hold{width:100%!important}footer.footer .footer.top-left-text{font-size:clamp(1.35rem,2.8vw,2.4rem)!important;line-height:1.2!important;max-width:24ch!important}footer.footer .footer.top-left-button{margin-top:2rem!important}@media(max-width:767px){footer.footer .footer-top{grid-template-columns:1fr!important}footer.footer .footer-nav-hold{display:grid!important;grid-template-columns:1fr 1fr!important}}"
+    }
+  },
+  "purge": {
+    "brand": [
+      "NanoAvionics",
+      "Nano Avionics",
+      "Kongsberg",
+      "KONGSBERG"
+    ],
+    "content": [
+      "The New Space performance standard",
+      "Small Satellite Technology",
+      "Small Satellite Buses",
+      "CubeSat",
+      "Cubesat",
+      "SmallSat",
+      "Microsatellite",
+      "MP42",
+      "M16P",
+      "M12P",
+      "M8P",
+      "M6P",
+      "NinjaSat",
+      "OQ Technology",
+      "LituanicaSAT",
+      "Configurator",
+      "spacecraft",
+      "satellite",
+      "orbital",
+      "payload",
+      "mission"
+    ],
+    "strip_selectors": [
+      "php",
+      "#modal-platform",
+      "#modal-contact",
+      "[class*=cookie]",
+      "[id*=cookie]",
+      "[class*=consent]",
+      ".cky-consent-container",
+      ".cky-btn-revisit-wrapper",
+      ".wpcf7-spinner",
+      ".wpcf7-response-output",
+      ".screen-reader-response",
+      ".btn-w-icon img",
+      "svg",
+      "iframe[id^=universal_pixel]",
+      "img[src*=facebook]",
+      "img[src*=linkedin]",
+      "img[src*=doubleclick]"
+    ],
+    "script_markers": [
+      "dataLayer",
+      "gtag",
+      "googletagmanager",
+      "cookieyes",
+      "recaptcha",
+      "facebook",
+      "linkedin",
+      "doubleclick"
+    ],
+    "social_pattern": "facebook\\.com/NanoAvionics|linkedin\\.com/company/nanoavionika|twitter\\.com/NanoAvionics"
+  },
+  "buttons": {
+    "class": "btn-blue"
+  },
+  "forms": {
+    "form_class": "wpcf7-form",
+    "group_class": "blue-form-element",
+    "input_class": "wpcf7-form-control wpcf7-text"
+  },
+  "pages": {
+    "home": {
+      "signature": [
+        ".section-homepage-v2-intro",
+        ".section-homepage-v2-development",
+        ".section-homepage-v2-info",
+        ".section-homepage-v2-needs",
+        ".section-homepage-v2-latest-news"
+      ],
+      "strip": [
+        ".section-homepage-v2-intro-video video",
+        ".section-homepage-v2-intro-video source",
+        ".section-homepage-v2-customers",
+        ".section-homepage-v2-performance-box",
+        ".section-homepage-v2-info-slider",
+        ".section-homepage-v2-needs-slider"
+      ],
+      "sections": [
+        {
+          "selector": ".section-homepage-v2-intro",
+          "action": "hero-all",
+          "canonical_h1": true,
+          "fields": {
+            "heading": ".title-84",
+            "eyebrow": ".intro-content-model span",
+            "body": ".text-18-lgrey.show-for-large",
+            "cta": ".section-homepage-v2-intro-btns a:first-child",
+            "background": ".section-homepage-v2-intro-video"
+          }
+        },
+        {
+          "selector": ".section-homepage-v2-intro",
+          "action": "relabel",
+          "ops": [
+            {
+              "sel": ".text-18-lgrey.hide-for-large",
+              "text": "A gas-royalty sale should connect recorded title, the owner decimal, well performance, the actual netback, and the exact interest transferred."
+            },
+        {
+          "sel": ".section-homepage-v2-intro-btns span.link-blue-lighter",
+          "tag": "a",
+          "attr": {
+            "href": "/about"
+          },
+          "text": "See the review process"
+        }
+          ]
+        },
+      {
+        "selector": ".section-homepage-v2-development",
+        "action": "card-grid",
+          "source": "situations",
+          "limit": 4,
+          "heading": ".title-48-36",
+          "card": ".hv2-development-owl > .item",
+          "kill_in_card": [
+            "video",
+            "source"
+          ],
+          "card_fields": {
+            "title": ".hv2-development-owl-textbox",
+            "image": ".hv2-development-owl-img",
+          "_link_card": true
+        }
+      },
+      {
+        "selector": ".section-homepage-v2-development",
+        "action": "relabel",
+        "ops": [
+          {
+            "sel": ".hv2-development-owl-dots > ul > li",
+            "nth": 0,
+            "html": "Inherited mineral rights <span><span></span></span>"
+          },
+          {
+            "sel": ".hv2-development-owl-dots > ul > li",
+            "nth": 1,
+            "html": "Unsolicited gas royalty offers <span><span></span></span>"
+          },
+          {
+            "sel": ".hv2-development-owl-dots > ul > li",
+            "nth": 2,
+            "html": "Fractional and small interests <span><span></span></span>"
+          },
+          {
+            "sel": ".hv2-development-owl-dots > ul > li",
+            "nth": 3,
+            "html": "Probate and estate minerals <span><span></span></span>"
+          }
+        ]
+      },
+        {
+          "selector": ".section-homepage-v2-performance",
+          "action": "card-grid",
+          "source": "interest-types",
+          "limit": 4,
+          "heading": ".title-48-36",
+          "card": ".hv2-performance-owl > .item",
+          "card_fields": {
+            "title": ".hv2-performance-owl-title",
+            "sub": ".hv2-performance-owl-text",
+            "_link_card": true,
+            "summary_chars": 170
+          }
+        },
+        {
+          "selector": ".section-homepage-v2-info",
+          "action": "relabel",
+          "ops": [
+            {
+              "sel": ".title-48-36",
+              "text": "Title, Decimal, Well, Netback, Transfer"
+            },
+            {
+              "sel": ".section-homepage-v2-info-list > ul > li .title-22",
+              "nth": 0,
+              "text": "Title"
+            },
+            {
+              "sel": ".section-homepage-v2-info-list > ul > li .text-18-gray-new",
+              "nth": 0,
+              "text": "Trace the record owner, deed chain, lease, unit, reservations, and curative questions."
+            },
+            {
+              "sel": ".section-homepage-v2-info-list > ul > li img",
+              "nth": 0,
+              "img": "/ours/resources/mineral-rights-resources-documents-checklist-sellyourgasroyalties-com.jpg",
+              "alt": "Gas royalty title records"
+            },
+            {
+              "sel": ".section-homepage-v2-info-list > ul > li .title-22",
+              "nth": 1,
+              "text": "Decimal"
+            },
+            {
+              "sel": ".section-homepage-v2-info-list > ul > li .text-18-gray-new",
+              "nth": 1,
+              "text": "Reconcile tract share, ownership fraction, lease royalty, unit allocation, and payor setup."
+            },
+            {
+              "sel": ".section-homepage-v2-info-list > ul > li img",
+              "nth": 1,
+              "img": "/ours/resources/mineral-rights-resources-division-orders-explained-sellyourgasroyalties-com.jpg",
+              "alt": "Division order and owner decimal"
+            },
+            {
+              "sel": ".section-homepage-v2-info-list > ul > li .title-22",
+              "nth": 2,
+              "text": "Well"
+            },
+            {
+              "sel": ".section-homepage-v2-info-list > ul > li .text-18-gray-new",
+              "nth": 2,
+              "text": "Separate producing history, decline, downtime, workovers, permits, and future inventory."
+            },
+            {
+              "sel": ".section-homepage-v2-info-list > ul > li img",
+              "nth": 2,
+              "img": "/ours/basins/mineral-rights-basins-marcellus-shale-sellyourgasroyalties-com.jpg",
+              "alt": "Producing gas wells"
+            },
+            {
+              "sel": ".section-homepage-v2-info-list > ul > li .title-22",
+              "nth": 3,
+              "text": "Netback"
+            },
+            {
+              "sel": ".section-homepage-v2-info-list > ul > li .text-18-gray-new",
+              "nth": 3,
+              "text": "Bridge benchmark gas to realized price through basis, NGLs, deductions, taxes, and adjustments."
+            },
+            {
+              "sel": ".section-homepage-v2-info-list > ul > li img",
+              "nth": 3,
+              "img": "/ours/resources/mineral-rights-resources-royalty-statements-guide-sellyourgasroyalties-com.jpg",
+              "alt": "Gas royalty netback review"
+            },
+            {
+              "sel": ".section-homepage-v2-info-list > ul > li .title-22",
+              "nth": 4,
+              "text": "Transfer"
+            },
+            {
+              "sel": ".section-homepage-v2-info-list > ul > li .text-18-gray-new",
+              "nth": 4,
+              "text": "Compare price with the exact property schedule, effective date, adjustments, warranties, and retained rights."
+            },
+            {
+              "sel": ".section-homepage-v2-info-list > ul > li img",
+              "nth": 4,
+              "img": "/ours/resources/mineral-rights-resources-mineral-deed-transfer-sellyourgasroyalties-com.jpg",
+              "alt": "Gas royalty conveyance"
+            },
+        {
+          "sel": ".section-homepage-v2-info-list-last > .text-18-gray-new",
+          "text": "Carry the same five lines through title review, settlement, recording, funding, and payor notice."
+        },
+            {
+              "sel": ".section-homepage-v2-info-list-last a",
+              "text": "About the desk",
+              "href": "/about"
+            }
+          ]
+        },
+        {
+          "selector": ".section-homepage-v2-needs",
+          "action": "relabel",
+          "ops": [
+            {
+              "sel": ".title-48-36",
+              "text": "Start With the Owner's Actual Question"
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li .text-12-gray",
+              "nth": 0,
+              "text": "Something changed?"
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li .title-32-m26",
+              "nth": 0,
+              "text": "Owner situations"
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li .text-18-gray-new",
+              "nth": 0,
+              "text": "Inheritance, trust, family division, low production, liquidity, and unsolicited offers."
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li a",
+              "nth": 0,
+              "text": "Explore situations",
+              "href": "/situations"
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li .text-12-gray",
+              "nth": 1,
+              "text": "What is actually owned?"
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li .title-32-m26",
+              "nth": 1,
+              "text": "Royalty interests"
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li .text-18-gray-new",
+              "nth": 1,
+              "text": "Minerals, lease royalties, NPRIs, overrides, working interests, and estate boundaries."
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li a",
+              "nth": 1,
+              "text": "Compare interests",
+              "href": "/interest-types"
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li .text-12-gray",
+              "nth": 2,
+              "text": "Which market surrounds the tract?"
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li .title-32-m26",
+              "nth": 2,
+              "text": "Gas basins"
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li .text-18-gray-new",
+              "nth": 2,
+              "text": "Products, takeaway, basis, operator pace, decline behavior, and development evidence."
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li a",
+              "nth": 2,
+              "text": "Review gas basins",
+              "href": "/basins"
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li .text-12-gray",
+              "nth": 3,
+              "text": "Need a document translated?"
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li .title-32-m26",
+              "nth": 3,
+              "text": "Owner resources"
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li .text-18-gray-new",
+              "nth": 3,
+              "text": "Statements, division orders, deeds, appraisals, taxes, offer checks, and closing steps."
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li a",
+              "nth": 3,
+              "text": "Read owner resources",
+              "href": "/resources"
+            },
+            {
+              "sel": ".title-22-w-line",
+              "text": "Every path returns to the same five-line ledger: title, decimal, well, netback, and transfer."
+            }
+          ]
+        },
+        {
+          "selector": ".section-homepage-v2-configurator",
+          "action": "relabel",
+          "ops": [
+            {
+              "sel": ".hv2-configurator-img",
+              "bg": "/ours/pages/mineral-rights-pages-about-sellyourgasroyalties-com.jpg"
+            },
+            {
+              "sel": ".intro-content-model span",
+              "text": "Gas royalty review"
+            },
+            {
+              "sel": ".title-48-36",
+              "text": "Build the five-line ledger"
+            },
+            {
+              "sel": ".text-18-gray-new",
+              "copy": "home_intro"
+            },
+            {
+              "sel": "a.btn-blue",
+              "text": "Request a review",
+              "href": "/contact"
+            }
+          ]
+        },
+        {
+          "selector": ".section-homepage-v2-latest-news",
+          "action": "card-grid",
+          "source": "resources",
+          "limit": 3,
+          "heading": ".title-48-36",
+          "heading_eyebrow": "Owner library",
+          "card": ".hv2-latest-news-owl > .hv2-latest-news-item",
+          "card_fields": {
+            "title": ".news-title",
+            "category": ".news-cat",
+            "image": ".news-list-image",
+            "_link_card": true,
+            "summary_chars": 150
+          },
+          "view_all": ["View all owner resources", "/resources"],
+          "view_all_selector": ".hv2-latest-news-slider-bottom a"
+        }
+      ],
+      "carousels": [
+        {
+          "selector": ".hv2-development-owl",
+          "type": "direct",
+          "slides": ".item",
+          "visible": 1,
+          "autoplay": 6500
+        },
+        {
+          "selector": ".hv2-performance-owl",
+          "type": "direct",
+          "slides": ".item",
+          "visible": 1,
+          "autoplay": 6500
+        },
+        {
+          "selector": ".hv2-latest-news-owl",
+          "type": "direct",
+          "slides": ".hv2-latest-news-item",
+          "visible": 3,
+          "autoplay": 7000
+        }
+      ],
+      "semantic_title_selector": ".section-homepage-v2-intro .title-84",
+    "repair_css": "header.header{position:absolute!important;top:0!important;left:0!important;background:linear-gradient(90deg,rgba(0,0,0,.72),rgba(0,0,0,.38))!important}header.header .rr-wordmark,header.header.white .rr-wordmark,header.header .menu-nav-bar-container>.nav-hold>li>a{color:#fff!important;text-shadow:0 1px 8px rgba(0,0,0,.3)!important}header.header .nav-trigger span{background:#fff!important}.section-homepage-v2-intro{position:relative!important;min-height:clamp(720px,92vh,1120px)!important;background:#050505!important;color:#fff!important;overflow:hidden!important}.section-homepage-v2-intro-video{position:absolute!important;inset:0!important;display:block!important;background-position:center!important;background-size:cover!important;background-repeat:no-repeat!important;opacity:.42!important}.section-homepage-v2-intro>.row{position:relative!important;z-index:2!important}.section-homepage-v2-intro .title-84{color:#fff!important}.section-homepage-v2-development .hv2-development-owl-img{display:block!important;min-height:clamp(360px,56vw,760px)!important;background-position:center!important;background-size:cover!important}.section-homepage-v2-development .hv2-development-owl-textbox{display:block!important;color:#111!important;font-size:clamp(1.2rem,2.3vw,2rem)!important;line-height:1.2!important;margin-top:1rem!important}.section-homepage-v2-performance .hv2-performance-owl>.item{display:block!important}.section-homepage-v2-info-list.show-for-large,.section-homepage-v2-needs-list.show-for-large{display:block!important}.section-homepage-v2-configurator .hv2-configurator-img{display:block!important;min-height:clamp(380px,48vw,680px)!important;background-position:center!important;background-size:cover!important}.hv2-latest-news-owl{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:clamp(1rem,2vw,2rem)!important}.hv2-latest-news-item{width:auto!important}.hv2-latest-news-item .news-list-image{display:block!important;min-height:280px!important;background-position:center!important;background-size:cover!important}.section-homepage-v2-needs-list a,.section-homepage-v2-info-list a{text-decoration:none!important}@media(max-width:767px){.section-homepage-v2-intro{min-height:760px!important}.section-homepage-v2-intro-box{padding-inline:22px!important}.section-homepage-v2-info-list>ul,.section-homepage-v2-needs-list>ul{display:grid!important;grid-template-columns:1fr!important}.hv2-latest-news-owl{grid-template-columns:1fr!important}.section-homepage-v2-development .hv2-development-owl-img{min-height:430px!important}}"
+    },
+    "index": {
+      "signature": [
+        ".section-products-v2-intro",
+        ".products-page-products-section",
+        ".products-page-products-list",
+        ".section-homepage-v2-configurator"
+      ],
+      "strip": [
+        ".products-page-products-filter",
+        ".products-page-form-section",
+        ".section-homepage-v2-needs-slider"
+      ],
+      "sections": [
+        {
+          "selector": ".section-products-v2-intro",
+          "action": "relabel",
+          "ops": [
+            {
+              "sel": ".intro-content-model span",
+              "text": "{tax_title}"
+            },
+            {
+              "sel": ".title-48-36",
+              "text": "{tax_title}",
+              "tag": "h1"
+            },
+            {
+              "sel": ".text-18-lgrey",
+              "text": "{meta160}"
+            },
+            {
+              "sel": "a.btn-blue-lighter",
+              "text": "Explore {tax_title}",
+              "href": "{tax_route}"
+            }
+          ]
+        },
+        {
+          "selector": ".section-homepage-v2-configurator",
+          "action": "relabel",
+          "ops": [
+            {
+              "sel": ".hv2-configurator-img",
+              "bg": "{img1}"
+            },
+            {
+              "sel": ".intro-content-model span",
+              "text": "Five-line review"
+            },
+            {
+              "sel": ".title-48-36",
+              "text": "Place the file on one ledger"
+            },
+            {
+              "sel": ".text-18-gray-new",
+              "text": "Connect title, the owner decimal, wells, realized netback, and transfer terms before comparing a sale."
+            },
+            {
+              "sel": "a.btn-blue",
+              "text": "Request a gas royalty review",
+              "href": "/contact"
+            }
+          ]
+        },
+        {
+          "selector": ".section-homepage-v2-needs",
+          "action": "relabel",
+          "ops": [
+            {
+              "sel": ".title-48-36",
+              "text": "Continue Through the Gas Royalty Library"
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li .text-12-gray",
+              "nth": 0,
+              "text": "Something changed for the owner?"
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li .title-32-m26",
+              "nth": 0,
+              "text": "Owner situations"
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li .text-18-gray-new",
+              "nth": 0,
+              "text": "Start with what changed for the owner."
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li a",
+              "nth": 0,
+              "text": "Explore",
+              "href": "/situations"
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li .text-12-gray",
+              "nth": 1,
+              "text": "Which economic right is involved?"
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li .title-32-m26",
+              "nth": 1,
+              "text": "Royalty interests"
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li .text-18-gray-new",
+              "nth": 1,
+              "text": "Name the economic right and its burdens."
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li a",
+              "nth": 1,
+              "text": "Explore",
+              "href": "/interest-types"
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li .text-12-gray",
+              "nth": 2,
+              "text": "How would a buyer frame the risk?"
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li .title-32-m26",
+              "nth": 2,
+              "text": "Buyer underwriting"
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li .text-18-gray-new",
+              "nth": 2,
+              "text": "See how production, price, deductions, and uncertainty are modeled."
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li a",
+              "nth": 2,
+              "text": "Explore",
+              "href": "/investing"
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li .text-12-gray",
+              "nth": 3,
+              "text": "Does the sale connect to another property?"
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li .title-32-m26",
+              "nth": 3,
+              "text": "Mineral 1031 guides"
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li .text-18-gray-new",
+              "nth": 3,
+              "text": "Coordinate transaction facts with qualified tax advisers."
+            },
+            {
+              "sel": ".section-homepage-v2-needs-list > ul > li a",
+              "nth": 3,
+              "text": "Explore",
+              "href": "/exchange-1031"
+            },
+            {
+              "sel": ".title-22-w-line",
+              "text": "Every guide returns to title, decimal, well, netback, and transfer evidence."
+            }
+          ]
+        }
+      ],
+      "hero_heading": ".section-products-v2-intro .title-48-36",
+      "hero_meta": ".section-products-v2-intro .text-18-lgrey",
+      "hero_image": ".section-products-v2-intro-bg img",
+      "grid": ".products-page-products-list > ul",
+      "card": "li",
+      "card_fields": {
+        "title": ".subsystem-title",
+        "more": ".link-blue",
+        "image": ".subsystem-image img",
+        "_link_card": true,
+        "summary_chars": 145
+      },
+      "semantic_title_selector": ".section-products-v2-intro .title-48-36",
+      "repair_css": "header.header{position:absolute!important;top:0!important;left:0!important;background:linear-gradient(90deg,rgba(0,0,0,.72),rgba(0,0,0,.38))!important}header.header .rr-wordmark,header.header.white .rr-wordmark,header.header .menu-nav-bar-container>.nav-hold>li>a{color:#fff!important;text-shadow:0 1px 8px rgba(0,0,0,.3)!important}header.header .nav-trigger span{background:#fff!important}.section-products-v2-intro{min-height:clamp(560px,68vw,820px)!important}.section-products-v2-intro-bg img{display:block!important;width:100%!important;height:100%!important;object-fit:cover!important;opacity:1!important}.section-products-v2-intro>.row{position:relative!important;z-index:2!important}.products-page-products-list>ul{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:clamp(1rem,2vw,2rem)!important}.products-page-products-list>ul>li{width:auto!important;margin:0!important}.products-page-products-list .subsystem-image{display:block!important;min-height:280px!important;overflow:hidden!important}.products-page-products-list .subsystem-image img{display:block!important;width:100%!important;height:280px!important;object-fit:cover!important;opacity:1!important;visibility:visible!important}.section-homepage-v2-configurator .hv2-configurator-img{display:block!important;min-height:clamp(380px,48vw,680px)!important;background-position:center!important;background-size:cover!important}.section-homepage-v2-needs-list.show-for-large{display:block!important}@media(max-width:900px){.products-page-products-list>ul{grid-template-columns:repeat(2,minmax(0,1fr))!important}}@media(max-width:620px){.products-page-products-list>ul{grid-template-columns:1fr!important}.products-page-products-list .subsystem-image,.products-page-products-list .subsystem-image img{height:240px!important;min-height:240px!important}.section-homepage-v2-needs-list>ul{display:grid!important;grid-template-columns:1fr!important}}"
+    },
+    "slug": {
+      "signature": [
+        ".single-product-intro",
+        ".single-product-gallery",
+        ".single-product-list-section",
+        ".section-single-product-configurator"
+      ],
+      "title": ".single-product-intro h1",
+      "tax_heading": ".single-product-intro .intro-content-model span",
+      "hero_meta": ".single-product-intro-textbox-text > .text-14-dgray",
+      "hero_image": ".single-product-intro-gallery-owl > .item:nth-of-type(1) img",
+      "body_images": [
+        ".single-product-intro-gallery-owl > .item:nth-of-type(2) img",
+        ".single-product-intro-gallery-owl > .item:nth-of-type(3) img"
+      ],
+      "body_image": ".single-product-gallery .item:first-of-type img",
+      "body_image_distinct": true,
+      "simple_prose": ".single-product-list",
+      "simple_strip": [
+        ".single-product-intro-btns",
+        ".single-product-gallery",
+        ".single-product-table-section",
+        ".single-product-gray-sections",
+        ".bread-c-list",
+        ".section-single-product-configurator",
+        ".section-homepage-v2-configurator",
+        ".section-homepage-v2-needs"
+      ],
+      "not_found_slot": ".single-product-list",
+      "strip": [
+        ".single-product-table-section",
+        ".single-product-gray-sections",
+        ".single-product-intro-gallery-bottom",
+        ".single-product-gallery .platform-image-counter",
+        ".read-more-text-hold",
+        ".single-product-intro-more",
+        ".bread-c-list",
+        ".section-homepage-v2-configurator",
+        ".section-homepage-v2-needs"
+      ],
+      "strip_after_first": [
+        ".single-product-gallery .item"
+      ],
+      "prose": ".single-product-list",
+      "after_sections": [
+        {
+          "selector": ".single-product-intro",
+          "action": "relabel",
+          "ops": [
+            {
+              "sel": ".intro-content-model span",
+              "text": "{tax_title}"
+            },
+            {
+              "sel": ".single-product-intro-btns .btn-blue",
+              "text": "{cta.label}",
+              "tag": "a",
+              "attr": {
+                "href": "{cta.href}"
+              }
+            },
+            {
+              "sel": ".single-product-intro-btns .link-blue",
+              "text": "View all {tax_title}",
+              "href": "{tax_route}"
+            }
+          ]
+        },
+        {
+          "selector": ".single-product-list-section",
+          "action": "relabel",
+          "ops": [
+            {
+              "sel": ".intro-content-model span",
+              "text": "{name} field guide"
+            }
+          ]
+        },
+        {
+          "selector": ".section-single-product-configurator",
+          "action": "relabel",
+          "ops": [
+            {
+              "sel": ".hv2-configurator-img",
+              "bg": "{img3}"
+            },
+            {
+              "sel": ".intro-content-model span",
+              "text": "Five-line review"
+            },
+            {
+              "sel": ".title-48-36",
+              "text": "Put {name} on one ledger"
+            },
+            {
+              "sel": ".text-18-gray-new",
+              "text": "Connect title, the owner decimal, wells, realized netback, and transfer terms before comparing a sale."
+            },
+            {
+              "sel": "a.btn-blue",
+              "text": "{cta.label}",
+              "href": "{cta.href}"
+            }
+          ]
+        }
+      ],
+      "semantic_title_selector": ".single-product-intro h1",
+      "repair_css": ".single-product-intro-gallery-owl{display:grid!important;grid-template-columns:1fr!important}.single-product-intro-gallery-owl>.item{display:none!important}.single-product-intro-gallery-owl>.item:first-child{display:block!important}.single-product-intro-gallery-owl>.item:first-child img{display:block!important;width:100%!important;height:clamp(430px,66vw,860px)!important;object-fit:cover!important;opacity:1!important;visibility:visible!important}.single-product-gallery .owl-carousel{display:block!important}.single-product-gallery .item{display:block!important}.single-product-gallery .item img{display:block!important;width:100%!important;height:clamp(400px,62vw,760px)!important;object-fit:cover!important;opacity:1!important;visibility:visible!important}.single-product-list-section .single-product-list{display:block!important;max-width:920px!important}.single-product-list-section .single-product-list h2{font-size:clamp(1.65rem,3.2vw,2.7rem)!important;line-height:1.12!important;margin:2.4em 0 .7em!important}.single-product-list-section .single-product-list h3{font-size:clamp(1.15rem,2vw,1.55rem)!important;line-height:1.25!important;margin:1.8em 0 .5em!important}.single-product-list-section .single-product-list p,.single-product-list-section .single-product-list li{font-size:clamp(1rem,1.3vw,1.15rem)!important;line-height:1.75!important;max-width:74ch!important}.single-product-list-section .rr-related-grid{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:1rem!important}.section-single-product-configurator .hv2-configurator-img{display:block!important;min-height:clamp(380px,48vw,680px)!important;background-position:center!important;background-size:cover!important}@media(max-width:767px){.single-product-intro-textbox,.single-product-intro-imagebox{width:100%!important;left:auto!important;right:auto!important}.single-product-list-section .rr-related-grid{grid-template-columns:1fr!important}}"
+    },
+    "about": {
+      "signature": [
+        ".intro-about-v2",
+        ".about-features-section",
+        ".about-history-section",
+        ".about-history-carousel"
+      ],
+      "strip": [
+        ".section-homepage-v2-customers",
+        ".quote-about-v2",
+        ".section-team-about-v2",
+        ".video-section",
+        ".location-about-v2",
+        ".facilities-about-v2",
+        ".form-about-v2",
+        "body > h1.is-hidden"
+      ],
+      "sections": [
+        {
+          "selector": ".intro-about-v2",
+          "action": "relabel",
+          "ops": [
+            {
+              "sel": ".intro-content-model span",
+              "text": "About the gas royalty desk"
+            },
+            {
+              "sel": ".section-products-v2-intro-bg img",
+              "img": "/ours/pages/mineral-rights-pages-about-sellyourgasroyalties-com.jpg",
+              "alt": "Gas royalty review in Pittsburgh"
+            },
+            {
+              "sel": ".text-14-black p",
+              "nth": 1,
+              "copy": "about_p2"
+            },
+            {
+              "sel": ".text-14-black p",
+              "nth": 2,
+              "text": "The desk serves Pittsburgh, the Appalachian Basin, and gas-royalty owners nationwide."
+            },
+            {
+              "sel": "a.btn-blue",
+              "text": "Request a gas royalty review",
+              "href": "/contact"
+            }
+          ]
+        },
+        {
+          "selector": ".about-features-section",
+          "action": "relabel",
+          "ops": [
+            {
+              "sel": ".about-features-image img",
+              "img": "/ours/resources/mineral-rights-resources-royalty-statements-guide-sellyourgasroyalties-com.jpg",
+              "alt": "Gas royalty statement and title review"
+            },
+            {
+              "sel": ".about-features-item-nr",
+              "nth": 0,
+              "text": "Title"
+            },
+            {
+              "sel": ".about-features-item-text",
+              "nth": 0,
+              "text": "County record and deed chain"
+            },
+            {
+              "sel": ".about-features-item-nr",
+              "nth": 1,
+              "text": "Decimal"
+            },
+            {
+              "sel": ".about-features-item-text",
+              "nth": 1,
+              "text": "Owner share and unit allocation"
+            },
+            {
+              "sel": ".about-features-item-nr",
+              "nth": 2,
+              "text": "Well"
+            },
+            {
+              "sel": ".about-features-item-text",
+              "nth": 2,
+              "text": "Production and development evidence"
+            },
+            {
+              "sel": ".about-features-item-nr",
+              "nth": 3,
+              "text": "Netback"
+            },
+            {
+              "sel": ".about-features-item-text",
+              "nth": 3,
+              "text": "Realized price and deductions"
+            },
+            {
+              "sel": ".about-features-item-nr",
+              "nth": 4,
+              "text": "Transfer"
+            },
+            {
+              "sel": ".about-features-item-text",
+              "nth": 4,
+              "text": "Offer terms and recorded deed"
+            }
+          ]
+        },
+        {
+          "selector": ".about-history-section",
+          "action": "relabel",
+          "ops": [
+            {
+              "sel": ".title-48-36",
+              "text": "The Five-Line Ledger, Carried Through Closing"
+            }
+          ]
+        }
+      ],
+      "title": ".intro-about-v2 .title-84",
+      "title_as_h1": true,
+      "intro": ".intro-about-v2 .text-14-black p:first-child",
+      "intro_copy": "about_p1",
+      "block_template": ".about-history-carousel-item",
+      "block_host": ".about-history-carousel",
+      "block_remove_selector": ".about-history-carousel-item",
+      "block_heading": ".about-history-carousel-item-year",
+      "block_body": ".about-history-carousel-item-text",
+      "block_image": ".about-history-carousel-item-image img",
+      "block_image_tax": "basins",
+      "carousels": [
+        {
+          "selector": ".about-history-carousel",
+          "type": "direct",
+          "slides": ".about-history-carousel-item",
+          "visible": 2,
+          "autoplay": 7500
+        }
+      ],
+      "repair_css": ".intro-about-v2 .section-products-v2-intro-bg img{display:block!important;width:100%!important;height:100%!important;object-fit:cover!important;opacity:1!important}.about-features-section .about-features-image img{display:block!important;width:100%!important;height:100%!important;object-fit:cover!important;opacity:1!important}.about-history-carousel{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:clamp(1.2rem,3vw,3rem)!important}.about-history-carousel-item{width:auto!important}.about-history-carousel-item-image img{display:block!important;width:100%!important;height:clamp(300px,40vw,520px)!important;object-fit:cover!important;opacity:1!important}.about-history-carousel-item-year{font-size:clamp(1.5rem,2.6vw,2.4rem)!important;line-height:1.15!important;margin-top:1rem!important}.about-history-carousel-item-text{font-size:clamp(1rem,1.3vw,1.15rem)!important;line-height:1.7!important}@media(max-width:720px){.about-history-carousel{grid-template-columns:1fr!important}}"
+    },
+    "contact": {
+      "signature": [
+        ".intro-about-v2",
+        ".location-about-v2",
+        ".form-about-v2",
+        ".blue-form-wrap-v2"
+      ],
+      "strip": [
+        ".about-features-section",
+        ".section-homepage-v2-customers",
+        ".about-history-section",
+        ".quote-about-v2",
+        ".section-team-about-v2",
+        ".video-section",
+        ".facilities-about-v2",
+        "body > h1.is-hidden",
+        ".form-about-v2 fieldset.hidden-fields-container",
+        ".form-about-v2 .form-checkbox"
+      ],
+      "sections": [
+        {
+          "selector": ".intro-about-v2",
+          "action": "relabel",
+          "ops": [
+            {
+              "sel": ".intro-content-model span",
+              "text": "Contact"
+            },
+            {
+              "sel": ".title-84",
+              "copy": "contact_title",
+              "tag": "h1"
+            },
+            {
+              "sel": ".section-products-v2-intro-bg img",
+              "img": "/ours/pages/mineral-rights-pages-contact-sellyourgasroyalties-com.jpg",
+              "alt": "Contact Sell Gas Royalties"
+            },
+            {
+              "sel": ".text-14-black p",
+              "nth": 0,
+              "copy": "contact_intro"
+            },
+            {
+              "sel": ".text-14-black p",
+              "nth": 1,
+              "text": "The first review separates recorded ownership, payor evidence, well history, realized gas-and-liquids revenue, and the proposed transfer."
+            },
+            {
+              "sel": ".text-14-black p",
+              "nth": 2,
+              "text": "Questions are welcome before a complete document package is available."
+            },
+            {
+              "sel": "a.btn-blue",
+              "text": "Go to the review form",
+              "href": "#form"
+            }
+          ]
+        },
+        {
+          "selector": ".location-about-v2",
+          "action": "relabel",
+          "ops": [
+            {
+              "sel": ".section-subtitle-line span",
+              "text": "Pittsburgh contact map"
+            },
+            {
+              "sel": ".locations-wrap",
+              "html": "<iframe title=\"Google Maps location for Sell Gas Royalties\" src=\"https://www.google.com/maps?q=600%20Grant%20St%2C%20Pittsburgh%2C%20PA%2015219&amp;output=embed\" width=\"100%\" height=\"520\" loading=\"eager\" style=\"border:0\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+            }
+          ]
+        },
+        {
+          "selector": ".form-about-v2",
+          "action": "relabel",
+          "ops": [
+            {
+              "sel": ".intro-content-model span",
+              "text": "Title, decimal, well, netback, transfer"
+            },
+            {
+              "sel": ".title-48-36",
+              "copy": "contact_title"
+            },
+            {
+              "sel": ".blue-form-button-text p",
+              "text": "Sending this form permits Sell Gas Royalties to respond about this inquiry. Sensitive identifiers and bank credentials should stay outside the form."
+            }
+          ]
+        }
+      ],
+      "form_slot": ".form-about-v2 form",
+      "reuse_form": true,
+      "control_selector": "input:not([type='hidden']):not([type='submit']):not([type='checkbox']),select,textarea",
+      "submit_label": "Request a Gas Royalty Review",
+      "repair_css": ".intro-about-v2 .section-products-v2-intro-bg img{display:block!important;width:100%!important;height:100%!important;object-fit:cover!important;opacity:1!important}.location-about-v2{padding-block:clamp(3rem,7vw,7rem)!important}.location-about-v2 .locations-wrap{display:block!important;width:100%!important}.location-about-v2 iframe{display:block!important;width:100%!important;min-height:520px!important;border:0!important}.form-about-v2 .blue-form-hold{display:grid!important;grid-template-columns:1fr 1fr!important;gap:0 clamp(1rem,2vw,2rem)!important}.form-about-v2 .blue-form-left,.form-about-v2 .blue-form-right{width:100%!important}.form-about-v2 .blue-form-element{width:100%!important;padding:0!important;margin-bottom:12px!important}.form-about-v2 input,.form-about-v2 textarea{display:block!important;width:100%!important;min-width:0!important;box-sizing:border-box!important}.form-about-v2 textarea{min-height:250px!important;resize:vertical!important}.form-about-v2 .blue-form-button{grid-column:1/-1!important}.form-about-v2 .blue-form-button-text{max-width:60ch!important;color:#fff!important;text-align:left!important}@media(max-width:767px){.form-about-v2>.row{width:calc(100% - 40px)!important;max-width:calc(100% - 40px)!important;margin-left:auto!important;margin-right:auto!important}.form-about-v2 .blue-form-wrap-v2,.form-about-v2 .blue-form,.form-about-v2 .blue-form-hold,.form-about-v2 .blue-form-left,.form-about-v2 .blue-form-right,.form-about-v2 .blue-form-element,.form-about-v2 .blue-form-button,.form-about-v2 .blue-form-button-text{width:100%!important;max-width:100%!important;margin-left:0!important;margin-right:0!important;padding-left:0!important;padding-right:0!important;box-sizing:border-box!important}.form-about-v2 .blue-form-hold{grid-template-columns:minmax(0,1fr)!important}.form-about-v2 .blue-form-button{grid-column:1!important;display:flex!important;flex-direction:column!important;align-items:flex-start!important}.form-about-v2 .blue-form-button-text{display:block!important;float:none!important;position:static!important;transform:none!important;margin-top:18px!important;text-align:left!important}.location-about-v2 iframe{min-height:420px!important}}"
+    },
+    "legal_template": "slug"
+  }
+}

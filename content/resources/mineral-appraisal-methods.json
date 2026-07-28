@@ -1,0 +1,74 @@
+{
+  "slug": "mineral-appraisal-methods",
+  "title": "How Minerals Are Appraised",
+  "type": "resource",
+  "status": "written",
+  "metaTitle": "How Gas Mineral Rights Are Appraised",
+  "metaDescription": "Discounted cash flow, comparable sales, and decline-curve analysis - the real methods used to value gas mineral and royalty interests.",
+  "heroLead": "Appraisal sounds like one method. It's actually three, and knowing which one applies to your interest tells you what documentation to bring.",
+  "intro": [
+    "We're not licensed appraisers, and nothing here is a formal appraisal - it's an explanation of the methods buyers and, when it's a bigger transaction, professional appraisers actually use to arrive at a number for gas mineral and royalty interests. Knowing the method that fits your situation helps you understand why a quoted number looks the way it does, and what would move it.",
+    "Which method applies depends almost entirely on one fact: is the interest producing, or not."
+  ],
+  "sections": [
+    {
+      "heading": "Discounted cash flow, for producing interests",
+      "paragraphs": [
+        "For a producing gas well, the core method is discounted cash flow - projecting the well's remaining royalty income year by year based on its decline curve, applying a forecast gas price and differential, subtracting expected deductions, and then discounting those future dollars back to a present value using a discount rate that reflects the risk in the forecast.",
+        "Gas wells decline in a fairly predictable curve mathematically, but the price assumption is where real disagreement happens between buyers - a conservative gas-price forecast produces a lower present value than an optimistic one on the identical well. This is why two buyers can look at the same statements and land on different numbers, both reasonably."
+      ]
+    },
+    {
+      "heading": "Comparable sales, for both producing and non-producing acreage",
+      "paragraphs": [
+        "The second method looks at recent sales or lease bonuses paid for similar mineral or royalty interests nearby - same county, similar play position, similar producing status. This method is especially important for non-producing acreage, where there's no royalty history to build a cash flow model against, so comparable lease-bonus and permit activity becomes the primary evidence of value.",
+        "Comparable sales data in mineral transactions is less publicly available than home sale comps, since most mineral deeds don't record the price on the document itself - which is part of why getting more than one opinion matters before accepting a number."
+      ]
+    },
+    {
+      "heading": "Decline-curve analysis - the engineering behind the cash flow number",
+      "paragraphs": [
+        "Underneath a discounted cash flow appraisal sits decline-curve analysis - fitting a mathematical curve to the well's actual production history to project how volume falls off over the remaining life of the well. Gas wells commonly show a steep initial decline followed by a longer, flatter tail, and where a given well sits on that curve right now materially changes the projection.",
+        "This is one more reason multiple months of royalty statements matter more than any single one - decline-curve analysis needs a real trend line, not one data point, to project honestly."
+      ]
+    },
+    {
+      "heading": "What this means for you as a seller",
+      "paragraphs": [
+        "You don't need to run these calculations yourself. What's worth doing is asking a buyer which method they used and what assumptions went into it - gas price forecast, discount rate, comparable sales they're referencing. A buyer able to answer that plainly is worth more trust than one who quotes a round number with no math behind it."
+      ]
+    },
+    {
+      "heading": "Where gas complicates the picture further",
+      "paragraphs": [
+        "Gas-weighted appraisal carries an extra layer oil-heavy interests don't - the price differential and, where applicable, NGL revenue both need their own forecast assumptions, separate from the raw gas-price forecast itself. A basin with tightening pipeline takeaway can see its differential widen over a projection period even if the national gas price forecast looks flat, which lowers the present value independent of anything happening at the wellhead.",
+        "This is one more reason a local, basin-specific read matters more for gas than a generic national number - two wells with identical decline curves in different basins can appraise to different values purely on differential and takeaway assumptions. Ask any buyer quoting a number whether their assumption is basin-specific or a national average, since the gap between the two can be meaningful, especially in a basin where new pipeline capacity or added export demand is actively changing the outlook."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Do you need a formal, licensed appraisal to sell?",
+      "answer": "Not typically for a private sale - buyers run their own valuation using these methods. A formal appraisal becomes more relevant for estate, tax, or legal purposes, where you'd want a credentialed appraiser, not a buyer's internal number."
+    },
+    {
+      "question": "Why did two buyers give you different numbers for the same interest?",
+      "answer": "Usually a different gas-price forecast, discount rate, or comparable sales data going into the model. Ask each buyer to explain their assumptions - the gap usually makes sense once you see the math."
+    },
+    {
+      "question": "How is non-producing acreage valued without a cash flow to discount?",
+      "answer": "Mainly through comparable sales and lease-bonus data nearby, plus permit and drilling activity as a signal of near-term producing potential. It's a different method than a producing well, not a lesser one."
+    },
+    {
+      "question": "Does the discount rate really change the number that much?",
+      "answer": "Yes, meaningfully - a higher discount rate (reflecting more perceived risk in the forecast) produces a noticeably lower present value on the same projected income than a lower one. It's one of the biggest levers in the whole calculation."
+    }
+  ],
+  "wordCount": 863,
+  "image": {
+    "src": "/images/resources/mineral-rights-resources-mineral-appraisal-methods-sellyourgasroyalties-com.jpg",
+    "alt": "How Minerals Are Appraised mineral rights",
+    "width": 1600,
+    "height": 1000
+  }
+}

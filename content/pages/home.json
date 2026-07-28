@@ -1,0 +1,76 @@
+{
+  "slug": "home",
+  "title": "Home",
+  "type": "page",
+  "status": "written",
+  "metaTitle": "Sell Your Gas Royalties - Direct Buyer",
+  "metaDescription": "Sell gas mineral or royalty rights direct, no broker commission. We read your statement, explain the deductions, and give you a documented offer.",
+  "heroLead": "Send us your gas royalty statement. We'll read it the way an operator does, tell you what it actually says, and put a number on the table - no obligation to sell.",
+  "intro": [
+    "We buy gas-weighted mineral and royalty interests direct - no broker commission, no middleman marking up an offer before it gets to you. This site exists because most gas owners have never had anyone walk them through their own check stub, and a check stub is exactly what a fair offer should be built from.",
+    "Gas is priced differently than oil, and it's checked differently too. Volume in MCF, a price that trades at a differential to Henry Hub rather than matching the headline number, NGL revenue on liquids-rich gas, and a deduction line for gathering, compression, and processing that moves with the well's age and the basin's pipeline capacity. If your statement has never made sense to you, that's normal - most people's first offer arrives before anyone's explained the math behind it."
+  ],
+  "sections": [
+    {
+      "heading": "The check is the starting point, not the offer",
+      "paragraphs": [
+        "Before we quote anything, we ask for your recent royalty statements - twelve to thirty-six months, if you have them. One month can be a seasonal high or a shut-in low; a trend across a year or more tells us the real story of the well's decline stage and how the price differential in your basin has been running. We'll walk you through what each line means before we talk numbers, whether or not you end up selling to us.",
+        "If you don't have statements handy, or the interest has never produced, that's fine too - we can usually identify the operator from courthouse records and work from there."
+      ]
+    },
+    {
+      "heading": "Deduction honesty",
+      "paragraphs": [
+        "Gathering, compression, dehydration, processing, transportation - these are legitimate post-production costs, and depending on your lease language they may be charged against your royalty. We won't tell you a rising deduction line is automatically wrong, because most of the time it isn't. We will tell you when it's worth a second look, and we'll price the interest against what your statements actually show, deductions included, not against a rosier number that ignores them."
+      ]
+    },
+    {
+      "heading": "Price-cycle timing, said plainly",
+      "paragraphs": [
+        "Gas prices move on a wider band than oil, seasonally and over multi-year cycles tied to storage levels, weather demand, and export capacity. That means the same interest can price differently three months apart, and it means a mailbox offer with a forty-eight-hour deadline is usually more about pressure than about the market actually moving that fast. We'll tell you honestly where current pricing sits relative to the trailing year before you decide anything, and we'll never pretend a number is fixed for longer than it actually is."
+      ]
+    },
+    {
+      "heading": "How the process runs",
+      "paragraphs": [
+        "Send your statements and, if you have it, your deed or division order. We review your volume, price, deductions, and decline stage, and put together a documented offer - the trailing period we used, the assumptions behind it, explained in plain terms, not a flat number with no math attached. There's no obligation at that stage; take it, sit with it, or get a second opinion, which we'd genuinely rather you do than sign something you're unsure about.",
+        "If you accept, we handle the title work and the closing paperwork - a notarized mineral deed recorded at the county courthouse, with funds disbursed at or near closing. You keep 100% of the agreed price at closing; there's no broker commission coming out of your number, because you're selling to us directly."
+      ]
+    },
+    {
+      "heading": "What we're not",
+      "paragraphs": [
+        "We're a direct buyer, not a licensed appraiser, attorney, or CPA - anything here about value, title, or taxes is general information, and for your specific tax situation we'd tell you the same thing your CPA would: get specific advice before you close. We'll tell you plainly which kind of buyer we are and answer straight questions about how we arrived at a number, because a documented offer holds up to scrutiny and a padded one usually doesn't."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Do you buy non-producing gas minerals too?",
+      "answer": "Yes. Non-producing acreage gets valued differently - against lease-bonus comparables and nearby permit or drilling activity rather than royalty history - but it's still worth a conversation even without a producing well."
+    },
+    {
+      "question": "How fast can you get an offer?",
+      "answer": "Typically within a few business days of receiving your statements, depending on how quickly title and well information can be confirmed. Closings commonly run two to six weeks depending on how clean the title is."
+    },
+    {
+      "question": "Do you have to sell your whole interest?",
+      "answer": "No - we buy full interests, fractional interests, and partial interests (a percentage of the royalty, or minerals under one well while you keep others). Whole or fractional, producing or non-producing, it's worth asking."
+    },
+    {
+      "question": "What if you only own a small fractional interest inherited from family land?",
+      "answer": "That's common, especially where minerals were divided informally among heirs generations back. We work with small fractional interests regularly and can help identify what documentation is needed to establish clean title."
+    },
+    {
+      "question": "Is there any cost or commission to you?",
+      "answer": "No broker commission - you're selling direct, and you keep the agreed price at closing. Standard closing costs are handled as part of the transaction and disclosed before you sign anything."
+    }
+  ],
+  "wordCount": 903,
+  "image": {
+    "src": "/images/pages/mineral-rights-pages-home-sellyourgasroyalties-com.jpg",
+    "alt": "Home mineral rights",
+    "width": 1600,
+    "height": 1000
+  }
+}

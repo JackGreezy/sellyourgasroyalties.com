@@ -1,0 +1,81 @@
+{
+  "slug": "contact",
+  "title": "Contact",
+  "type": "page",
+  "status": "written",
+  "metaTitle": "Contact - Sell Your Gas Royalties",
+  "metaDescription": "Reach us with questions about a gas royalty statement, a mineral interest, or an offer you've received. One point of contact, plain answers.",
+  "heroLead": "Questions before you send anything are welcome. You don't need a file ready to ask us something.",
+  "intro": [
+    "Reach out with a question about your own statement, a mineral interest you're not sure how to value, or an offer you've already received from someone else that you want a second read on. You don't need to be ready to sell to contact us - a lot of owners start with a question and decide from there.",
+    "One person will handle your file from the first message forward, so you're not repeating your situation to a different voice every time you call."
+  ],
+  "sections": [
+    {
+      "heading": "What to include",
+      "paragraphs": [
+        "The county and state where the minerals are located, roughly how you came to own the interest (purchased, inherited, original owner), and whether it's currently producing helps us give you a useful answer quickly. If you already have a royalty statement or an offer from another buyer, mention that too - we can often speak more specifically with even one document in hand.",
+        "If you're just trying to understand a line on your statement and aren't thinking about selling at all, that's a fine reason to reach out. Understanding your own paperwork doesn't obligate you to anything."
+      ]
+    },
+    {
+      "heading": "Response time",
+      "paragraphs": [
+        "We typically respond within a few business days. If your question is time-sensitive - an offer with a short deadline from someone else, for instance - say so, and we'll prioritize getting back to you with what we can based on what you've shared."
+      ]
+    },
+    {
+      "heading": "What we won't do",
+      "paragraphs": [
+        "We won't pressure you toward a decision on a call, and we won't ask for sensitive financial or identifying information before there's a real reason to - that comes later, at the closing stage, if you decide to sell. Early conversations are about your situation and your questions, not about getting a signature."
+      ]
+    },
+    {
+      "heading": "If you're comparing an offer you already have",
+      "paragraphs": [
+        "A lot of the contacts we get aren't a first inquiry at all - they're someone holding an offer from a mailer or another buyer, wanting a second read before they sign. Send along the number and whatever backs it up, if anything does, and we'll tell you plainly whether it looks reasonable given what we can see about the well and the current gas-price environment. We'd rather give you that honest read, even if it points you away from us, than watch you sign something that wasn't explained to you.",
+        "This kind of question doesn't need to lead anywhere. Some owners take the read and go back to the original buyer with better questions; some decide to explore a sale with us instead. Either outcome is fine - the point of reaching out is a clearer decision, not a particular answer."
+      ]
+    },
+    {
+      "heading": "If you're not sure where to start",
+      "paragraphs": [
+        "Some owners contact us holding nothing more than a memory that a grandparent owned minerals somewhere in a particular county, with no deed, no statement, and no idea whether anything is even still producing. That's a legitimate starting point too. Tell us what you know - even just a county and a family name - and we can often help point you toward where to start looking in the courthouse record, whether or not it ever turns into a transaction with us.",
+        "This kind of inquiry doesn't need to be urgent. Some owners spend months slowly confirming an old family interest exists before they're ready to think about what to do with it, and that pace is fine - the courthouse record isn't going anywhere, and neither is our willingness to help you make sense of it."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Do you need to have your documents ready before you contact you?",
+      "answer": "No. Reach out with just a question if that's where you are - we can point you toward what documentation would help once we understand your situation."
+    },
+    {
+      "question": "Will contacting you commit you to anything?",
+      "answer": "No. Asking a question or requesting information doesn't create any obligation to sell or to continue the conversation further."
+    },
+    {
+      "question": "Can you ask about an offer you received from a different buyer?",
+      "answer": "Yes - this is a common reason people reach out. Send along what you're comparing, and we'll give you an honest read on whether it looks reasonable for your interest."
+    },
+    {
+      "question": "Do you handle interests in every state?",
+      "answer": "Coverage depends on the play and basin - reach out with your county and state and we can tell you quickly whether it's an area we're active in."
+    },
+    {
+      "question": "You are not sure you actually own mineral rights anywhere - can you still help?",
+      "answer": "Yes. Tell us what you know, even a county and a family name from an old deed you vaguely remember, and we can often point you toward where to start checking courthouse records to confirm or rule it out."
+    },
+    {
+      "question": "Can you get a second opinion on an offer without it feeling like a sales pitch?",
+      "answer": "That's genuinely how we'd prefer that conversation go. Send us the offer and whatever supports it, and we'll give you a straight read, whether that points you toward accepting it, negotiating it, or looking elsewhere."
+    }
+  ],
+  "wordCount": 872,
+  "image": {
+    "src": "/images/pages/mineral-rights-pages-contact-sellyourgasroyalties-com.jpg",
+    "alt": "Contact mineral rights",
+    "width": 1600,
+    "height": 1000
+  }
+}

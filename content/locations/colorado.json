@@ -1,0 +1,71 @@
+{
+  "slug": "colorado",
+  "title": "Sell Mineral Rights in Colorado",
+  "type": "state",
+  "group": "DJ basin, Piceance",
+  "primaryKeyword": "mineral rights colorado",
+  "seo": {
+    "vol": 260,
+    "cpc": 8.49
+  },
+  "metaTitle": "Sell Gas Royalties in Colorado | DJ Basin & Piceance Owners",
+  "metaDescription": "Colorado gas royalty owner in the DJ basin or Piceance? We buy Weld, Garfield, and Rio Blanco County gas interests. Send your statement for a written offer.",
+  "heroLead": "Colorado runs two very different gas stories depending on which side of the Continental Divide your minerals sit on, and knowing which one you're in changes everything about how your interest should be valued.",
+  "intro": [
+    "Weld County and the rest of the Denver-Julesburg basin northeast of Denver is where most of the state's drilling activity has happened over the last fifteen years, and it's a liquids-rich play — operators there are chasing oil and natural gas liquids as much as dry gas, which means your royalty check likely carries a meaningful NGL component alongside the gas. Front Range population growth has also put real regulatory pressure on Weld County drilling, with setback rules and permitting fights shaping how fast new wells get added.",
+    "Cross the mountains to Garfield and Rio Blanco counties and you're in the Piceance basin, which is a different animal entirely — deep, tight, dry-gas-dominant production with a long history going back to the 1990s Mesaverde and Williams Fork drilling. Piceance gas has gone through boom-and-bust cycles tied almost entirely to gas price, since there's little liquids revenue to soften the swings out there."
+  ],
+  "sections": [
+    {
+      "heading": "The DJ basin: liquids cushion the gas price swings",
+      "paragraphs": [
+        "If your royalty comes out of Weld County, look at your statement closely — a decent share of the value is probably coming from NGLs, not the raw gas price line. That's generally good news for an owner, since NGL pricing doesn't always move in lockstep with Henry Hub, which means a rough month for gas price doesn't necessarily wreck your whole check.",
+        "The DJ basin has also seen real regulatory turbulence in the last several years around setbacks from homes and schools, which has slowed some permitting timelines. That affects new drilling more than it affects royalty on wells already producing, but it's worth knowing if you're wondering why activity near your tract has quieted down. Existing production keeps paying under its original lease terms regardless of how the permitting picture looks for future wells nearby."
+      ]
+    },
+    {
+      "heading": "The Piceance: dry gas, deep wells, real basis differentials",
+      "paragraphs": [
+        "Piceance gas has to travel a good distance to reach a major delivery point, and that shows up as a real basis differential deduction on your statement — the gas is often sold at a discount to Henry Hub to reflect the cost of getting it out of that part of the state to market. When national gas prices spike, Piceance owners don't always see the full benefit, because the differential can widen along with it.",
+        "These are also generally deeper, more expensive wells to drill than DJ basin wells, which means Piceance drilling activity is more sensitive to sustained higher gas prices before operators commit new capital there. A lot of Piceance production today comes from wells drilled in earlier, more active cycles, which puts many current owners further along the decline curve than they might assume from looking at a recent statement alone."
+      ]
+    },
+    {
+      "heading": "What we ask for before we quote a Colorado interest",
+      "paragraphs": [
+        "Tell us your county first — Weld versus Garfield or Rio Blanco changes the whole conversation. Then send a recent statement or division order so we can see whether you're liquids-weighted or dry-gas-weighted, and we'll price against current market conditions for that specific play rather than a blended statewide number that wouldn't reflect either basin accurately.",
+        "Colorado interests vary enough basin to basin that a one-size number isn't honest, and we'd rather take the extra step of confirming your basin than give you a figure that doesn't hold up once we see the real production data."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is your Colorado royalty from the DJ basin or the Piceance?",
+      "answer": "Check your county. Weld County and the surrounding Front Range area is DJ basin, liquids-rich. Garfield and Rio Blanco counties on the Western Slope are Piceance basin, dry-gas-dominant."
+    },
+    {
+      "question": "Why is there such a big deduction on your Piceance gas statement?",
+      "answer": "Piceance gas often sells at a discount to Henry Hub to account for the distance and pipeline capacity needed to move it to major market delivery points, which shows up as a basis differential line item."
+    },
+    {
+      "question": "Do drilling setback rules affect your existing royalty?",
+      "answer": "Setback and permitting rules mainly affect new well approvals, not production or royalty payments on wells already drilled and producing, though they can slow the pace of new development near your tract."
+    },
+    {
+      "question": "Why does your DJ basin check hold up better in a gas price slump than you would expect?",
+      "answer": "A meaningful share of DJ basin value typically comes from natural gas liquids rather than raw gas price, and NGL pricing doesn't always fall in lockstep with a gas price dip."
+    },
+    {
+      "question": "Does a wide basis differential mean your Piceance interest is worth less?",
+      "answer": "It's one factor among several. We weigh the differential against production volume and where the well sits on its decline curve, so a wide differential doesn't automatically mean a low offer if the underlying volumes are still solid."
+    }
+  ],
+  "status": "written",
+  "wordCount": 855,
+  "image": {
+    "src": "/images/locations/sell-mineral-rights-colorado.jpg",
+    "alt": "Replacement Minerals in Colorado location",
+    "width": 1600,
+    "height": 1000
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "louisiana",
+  "title": "Sell Mineral Rights in Louisiana",
+  "type": "state",
+  "group": "Haynesville, Tuscaloosa Marine Shale, Gulf Coast",
+  "primaryKeyword": "mineral rights louisiana",
+  "seo": {
+    "vol": 170,
+    "cpc": 7.18
+  },
+  "metaTitle": "Sell Gas Royalties in Louisiana | Haynesville Shale Owners",
+  "metaDescription": "Haynesville Shale gas owner in Caddo, De Soto, Bossier or Red River Parish? We buy Louisiana gas royalties near the Henry Hub. Get a written offer today.",
+  "heroLead": "Henry Hub, the pricing point every gas trader in the country watches, sits in Erath, Louisiana — which means if you own Louisiana gas, you're about as close to the source of the national price as an owner can get, and that's worth understanding before anyone quotes you a number.",
+  "intro": [
+    "The Haynesville Shale in northwest Louisiana — Caddo, De Soto, Bossier, and Red River parishes — is one of the biggest dry gas plays in the country, and it's stayed active longer than a lot of other shale gas plays because it sits close to Gulf Coast LNG export terminals that have created steady demand for the gas. When LNG export capacity ramps up, Haynesville operators tend to feel it first, and so do the royalty owners on top of that acreage.",
+    "That proximity to Henry Hub cuts both ways for pricing. Louisiana gas often trades close to the national benchmark rather than at a steep discount the way gas from more remote basins does, which is good news for basis differentials, but it also means Louisiana owners see the full force of national gas price swings without much of a buffer."
+  ],
+  "sections": [
+    {
+      "heading": "Reading a Haynesville statement",
+      "paragraphs": [
+        "Because Haynesville gas typically prices close to Henry Hub, the basis deduction line on your statement should be relatively modest compared to what an owner in, say, the Piceance or Rockies would see. If you're looking at a big differential deduction on a Louisiana statement, it's worth asking your operator directly what's driving it — sometimes it's a specific gathering agreement rather than a basin-wide market reality.",
+        "Haynesville wells also decline steeply in their first year or two, like most shale gas wells, then settle into a longer, flatter tail. Where your well sits on that curve matters more than almost anything else for what it's worth today, so recent production data is the single most useful thing you can hand us. A well two years past its peak prices very differently than one still ramping toward it."
+      ]
+    },
+    {
+      "heading": "The Tuscaloosa Marine Shale is a different animal",
+      "paragraphs": [
+        "If your interest is in the central Louisiana parishes tied to the Tuscaloosa Marine Shale, you're in oil country, not gas — the TMS is a liquids play, and drilling activity there has been sporadic compared to the steadier Haynesville. Don't assume TMS economics tell you anything about what a Haynesville gas interest is worth, or vice versa; they're unrelated plays with different operators, different decline behavior, and different price drivers.",
+        "Gulf Coast parishes along the coast carry their own conventional gas production too, often older fields with long histories, which price and behave differently again from either the Haynesville or the TMS. If your interest is coastal rather than north Louisiana, tell us the parish up front so we're pricing the right kind of asset from the start."
+      ]
+    },
+    {
+      "heading": "LNG demand and why it matters for your check",
+      "paragraphs": [
+        "Louisiana's position near the Gulf Coast LNG export terminals is part of why Haynesville gas has kept drawing drilling interest even through periods when gas prices have been rough elsewhere. Export demand pulls gas out of the region and can support pricing in ways that inland, landlocked gas basins don't benefit from. That's not a guarantee of any particular price level going forward, but it's a real structural factor worth knowing if you're deciding whether to hold or sell.",
+        "We factor current LNG-driven demand into how we look at Haynesville pricing, alongside your actual well's production history and recent checks, so the number we offer reflects where the market is now rather than an outdated assumption."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why does your Louisiana gas check track national gas prices so closely?",
+      "answer": "Louisiana gas, especially Haynesville production, typically prices close to the Henry Hub benchmark rather than at a steep basin discount, so your check tends to move with national gas price swings more directly than owners in more remote basins see."
+    },
+    {
+      "question": "Is your Tuscaloosa Marine Shale interest a gas play?",
+      "answer": "No. The TMS is an oil-focused play in central Louisiana, distinct from the Haynesville. If your interest is there, expect oil-driven economics, not gas royalty behavior."
+    },
+    {
+      "question": "Does LNG export demand actually affect your royalty?",
+      "answer": "It can. Gulf Coast LNG export capacity has helped support demand for Haynesville gas even during periods when prices have struggled elsewhere, which is a real factor in how we look at current Louisiana gas pricing."
+    },
+    {
+      "question": "How steep is the decline on a Haynesville well?",
+      "answer": "Haynesville wells, like most shale gas wells, decline steeply in the first year or two before settling into a flatter, longer tail. Where your specific well sits on that curve matters a great deal for valuation."
+    },
+    {
+      "question": "What parish should you check to confirm which play your interest is in?",
+      "answer": "Caddo, De Soto, Bossier, and Red River point to the Haynesville. Central Louisiana parishes tied to the TMS trend point to oil. Coastal parishes are usually older conventional gas fields with their own pricing pattern."
+    }
+  ],
+  "status": "written",
+  "wordCount": 856,
+  "image": {
+    "src": "/images/locations/sell-mineral-rights-louisiana.jpg",
+    "alt": "Replacement Minerals in Louisiana location",
+    "width": 1600,
+    "height": 1000
+  }
+}

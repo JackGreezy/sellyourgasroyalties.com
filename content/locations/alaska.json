@@ -1,0 +1,71 @@
+{
+  "slug": "alaska",
+  "title": "Sell Mineral Rights in Alaska",
+  "type": "state",
+  "group": "North Slope royalty owners",
+  "primaryKeyword": "mineral rights alaska",
+  "seo": {
+    "vol": 90,
+    "cpc": null
+  },
+  "metaTitle": "Sell Gas Royalties in Alaska | North Slope & Cook Inlet Owners",
+  "metaDescription": "Alaska is an oil state first. If you hold a gas royalty tied to Cook Inlet or North Slope associated gas, we'll give you a straight read and a written offer.",
+  "heroLead": "Let's be straight about Alaska before we talk numbers: this is an oil state, and gas has always played second fiddle here for reasons that have nothing to do with how much of it is in the ground.",
+  "intro": [
+    "The North Slope has more natural gas than almost anywhere in North America, and for decades most of it has had nowhere to go. There's no pipeline out of Prudhoe Bay to a Lower 48 market, so associated gas produced alongside North Slope oil gets reinjected to maintain reservoir pressure rather than sold. If your family's interest sits up there, your royalty check has almost certainly been an oil check, not a gas check, and that's not going to change on any near-term timeline.",
+    "Cook Inlet is the other story. That basin has produced and sold gas commercially for decades into the local Southcentral Alaska utility market, and it's the one place in the state where a gas royalty interest behaves something like what you'd see in the Lower 48 — smaller volumes, a regional buyer, and pricing tied to local utility demand rather than a national benchmark."
+  ],
+  "sections": [
+    {
+      "heading": "Why Alaska gas doesn't price like Texas or Pennsylvania gas",
+      "paragraphs": [
+        "There's no Henry Hub-style national pipeline connection for Alaska gas, so whatever pricing your division order references is a regional number, tied to Cook Inlet utility contracts if that's where your interest sits, or bundled into oil economics if you're a North Slope owner receiving value through the oil stream. That regional isolation is the single biggest thing an owner outside Alaska needs to understand before comparing their check to a friend's royalty in Oklahoma or Louisiana. It also means Alaska production doesn't respond to national gas price spikes the way Lower 48 basins do, since there's no pipeline connection to pull that value through.",
+        "It also means the long-discussed Alaska LNG export project, if it ever reaches final investment decision, would fundamentally change the math for North Slope gas owners by finally giving that stranded gas a market. Nobody buying or selling minerals today should price an interest assuming that happens on any particular timeline."
+      ]
+    },
+    {
+      "heading": "What we actually see in Alaska mineral ownership",
+      "paragraphs": [
+        "A meaningful share of subsurface acreage in Alaska is state or Native corporation land under ANCSA, which limits how much private fee mineral ownership exists compared to a state like Texas. The private interests we do see tend to be legacy leasehold or royalty positions tied to Cook Inlet production, sometimes held by families going back to the original 1960s-era Cook Inlet leasing boom.",
+        "If you're not sure whether your interest is fee mineral, a net profits interest, or something tied to a state lease, that's the first thing worth sorting out, because it changes both what you can sell and who has to sign off on the transfer. We've walked owners through that identification step before ever discussing a number, since a state lease royalty and a fee mineral interest transfer very differently."
+      ]
+    },
+    {
+      "heading": "Being honest about what your interest is worth",
+      "paragraphs": [
+        "We won't quote a North Slope associated-gas interest as though it's a standalone gas asset, because in most cases it isn't one — the value runs through the oil economics of the unit. For Cook Inlet gas interests, we look at the actual production history against the specific utility contract or index the operator references, and we price against that, not against a Lower 48 benchmark that has nothing to do with your check.",
+        "If your interest turns out to be a smaller piece of the picture than you'd hoped, we'll tell you that plainly rather than send an inflated number to get you to the table."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does your North Slope royalty pay on gas at all?",
+      "answer": "Most North Slope associated gas gets reinjected rather than sold, since there's no pipeline connection to a Lower 48 market. Your royalty is very likely running through the oil stream, not a separate gas sale."
+    },
+    {
+      "question": "Is Cook Inlet gas priced against Henry Hub?",
+      "answer": "No. Cook Inlet gas sells into the regional Southcentral Alaska utility market under contracts and pricing structures specific to that basin, not a national index."
+    },
+    {
+      "question": "Would Alaska LNG change what your interest is worth?",
+      "answer": "If a Slope gas export project ever reaches final investment decision and construction, it could meaningfully change the value of stranded North Slope gas. That's a long, uncertain timeline, and we won't price your interest today on a project that hasn't been sanctioned."
+    },
+    {
+      "question": "How do you know what kind of interest you actually own?",
+      "answer": "Pull your division order or lease and check whether you're listed as a fee mineral owner, a lessor under a state lease, or holding a net profits or royalty interest. We can help you read it and explain what each means for a sale."
+    },
+    {
+      "question": "Are Alaska mineral interests harder to sell than Lower 48 interests?",
+      "answer": "They can take a bit more explaining given the state lease and ANCSA land patterns involved, but a legitimate fee mineral or royalty interest is still transferable. We walk owners through what paperwork applies to their specific situation before we discuss a number."
+    }
+  ],
+  "status": "written",
+  "wordCount": 891,
+  "image": {
+    "src": "/images/locations/sell-mineral-rights-alaska.jpg",
+    "alt": "Sell Mineral Rights in Alaska location",
+    "width": 1600,
+    "height": 1000
+  }
+}

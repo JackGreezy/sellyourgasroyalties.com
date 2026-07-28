@@ -1,0 +1,81 @@
+{
+  "slug": "north-dakota",
+  "title": "Sell Mineral Rights in North Dakota",
+  "type": "state",
+  "group": "Bakken/Three Forks",
+  "primaryKeyword": "mineral rights north dakota",
+  "seo": {
+    "vol": 260,
+    "cpc": 9.7
+  },
+  "status": "written",
+  "metaTitle": "Sell Mineral Rights in North Dakota | Bakken Royalties",
+  "metaDescription": "North Dakota Bakken mineral owner? Associated gas often gets flared while oil sells — here's the honest picture before you compare offers. Get a quote.",
+  "heroLead": "North Dakota is an oil play first, and if you're expecting your Bakken gas royalty to track your oil royalty dollar for dollar, the flaring numbers on your own well's production record will tell you why it usually doesn't.",
+  "intro": [
+    "The Bakken and underlying Three Forks formation across Mountrail, McKenzie, Williams, and Dunn counties produce enormous volumes of oil, and gas comes up alongside it as associated gas rather than as the target product. For years, North Dakota's gas gathering and processing infrastructure lagged behind drilling pace, and a meaningful share of that associated gas got flared at the wellhead instead of captured and sold — the state has pushed operators toward capture targets, but flaring hasn't disappeared, and it varies well by well depending on which gathering system a pad ties into.",
+    "That matters directly to what shows up on your royalty statement. If your well's gas is being flared rather than sold, you likely aren't getting paid on it at all, or you're getting a token flared-gas royalty depending on your lease terms and North Dakota's flaring rules. We factor that into every North Dakota offer rather than assuming full gas capture."
+  ],
+  "sections": [
+    {
+      "heading": "Oil drives the value, gas is the honest caveat",
+      "paragraphs": [
+        "A North Dakota Bakken tract's value is set overwhelmingly by oil production and by whether the section is fully developed or still has undrilled locations. Associated gas contributes real but secondary value, and its contribution depends heavily on capture rates in your specific unit. Two neighboring wells can have very different gas royalty outcomes purely based on which gathering line reached that pad first.",
+        "We pull North Dakota Industrial Commission production and gas capture data for your specific well before quoting, because the statewide capture percentage doesn't tell us what your unit is actually doing."
+      ]
+    },
+    {
+      "heading": "What flaring means for your check",
+      "paragraphs": [
+        "North Dakota law generally requires operators to either capture gas, use it on-site, or pay royalty on flared volumes past certain grace periods, but enforcement and lease-specific language both affect what actually lands on your statement. Some older leases are silent on flared gas altogether, which has been a point of dispute between owners and operators statewide. If you've noticed gas royalty lines that are unusually low or missing relative to your oil production, flaring is the most common reason, not an error worth assuming away without checking the well's specific capture history."
+      ]
+    },
+    {
+      "heading": "Bakken vs. Three Forks — does it matter for royalty?",
+      "paragraphs": [
+        "Many units now produce from both the Bakken and the underlying Three Forks bench, sometimes from the same pad with separate wellbores. Your division order should specify which formation each well draws from, and it's worth confirming, since spacing units and pooled interests can differ slightly between the two zones even on adjacent acreage.",
+        "We check both when we verify a North Dakota tract, because a mineral owner pooled into a Three Forks unit but not a Bakken unit above it — or vice versa — is a common enough gap that it changes the real interest size."
+      ]
+    },
+    {
+      "heading": "Heirship in western North Dakota",
+      "paragraphs": [
+        "A lot of Bakken-area minerals trace back to land patented in the early 1900s and split across generations of ranching families. It's routine for us to buy from co-heirs each holding a fraction of a fraction of a quarter section. North Dakota probate and affidavit-of-heirship requirements apply the same way they would to any real property transfer, and we'll walk you through exactly what the county recorder in your county needs before closing.",
+        "We also see a fair number of mineral owners who've never lived in North Dakota at all, having inherited a fractional interest from a grandparent who ranched the land decades before the Bakken was ever drilled. Distance doesn't complicate the transaction much on our end — we handle the courthouse work directly and can close by mail, we just need your documentation in order first."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why is your North Dakota gas royalty so much lower than your oil royalty?",
+      "answer": "Bakken wells produce associated gas alongside oil, and a portion of that gas has historically been flared rather than captured and sold, especially on newer wells still waiting for gathering infrastructure. Flared gas generally pays little or nothing depending on your lease and North Dakota's rules."
+    },
+    {
+      "question": "Does North Dakota require operators to pay royalty on flared gas?",
+      "answer": "State rules generally require capture or payment on flared volumes past certain allowances, but enforcement and outcomes vary by lease and by well. It is worth checking your specific well's flaring status rather than assuming."
+    },
+    {
+      "question": "What counties are core to the North Dakota Bakken play?",
+      "answer": "Mountrail, McKenzie, Williams, and Dunn counties hold the thickest, most actively developed Bakken and Three Forks acreage. Value tapers toward the edges of the play in surrounding counties."
+    },
+    {
+      "question": "How do you value a North Dakota mineral interest?",
+      "answer": "Primarily on oil production and remaining undrilled locations in your spacing unit, with gas capture history as a secondary factor. We pull North Dakota Industrial Commission data specific to your well rather than using a basin-wide average."
+    },
+    {
+      "question": "Can you buy from multiple heirs on the same North Dakota tract?",
+      "answer": "Yes, we regularly work with several co-owners on a single legacy tract and can coordinate closing across all of them once each heir's documentation is in order."
+    },
+    {
+      "question": "Do you need to live in North Dakota to sell your mineral rights there?",
+      "answer": "No. Many owners inherited their interest from a relative and live out of state. We handle the county recorder work directly and can close remotely once your deed and identification documents are confirmed."
+    }
+  ],
+  "wordCount": 957,
+  "image": {
+    "src": "/images/locations/sell-mineral-rights-north-dakota.jpg",
+    "alt": "Replacement Minerals in North Dakota location",
+    "width": 1600,
+    "height": 1000
+  }
+}

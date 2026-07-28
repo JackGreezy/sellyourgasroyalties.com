@@ -1,0 +1,73 @@
+{
+  "slug": "divorce-mineral-division",
+  "title": "Mineral Rights in Divorce",
+  "type": "situation",
+  "note": "dividing or liquidating in settlement",
+  "metaTitle": "Dividing Gas Mineral Rights in a Divorce Settlement",
+  "metaDescription": "Splitting gas royalties in a divorce gets messy fast when the check swings with price. See how attorneys value the interest and where a clean sale fits.",
+  "heroLead": "A gas royalty deed doesn't split down the middle the way a bank account does. Somebody has to put a number on it first, and that number moves every time the gas price does.",
+  "intro": [
+    "the gas royalty desk has sat across the table from more than one divorcing couple who inherited or bought a gas royalty together and now need it divided by decree. The mineral interest itself is easy to describe on paper: a fraction of a section, a county, a lease number. Putting a defensible value on it while the property is a producing gas well with a check that was twice as high eighteen months ago is the part that stalls settlements.",
+    "This page walks through why gas interests are harder to divide than most marital assets, what the buyout-versus-sale choice actually looks like, and how a purchase offer can close out that line item on the settlement worksheet without either side waiting on an appraiser's guess."
+  ],
+  "sections": [
+    {
+      "heading": "Why a Gas Check Is a Moving Target in Settlement Talks",
+      "paragraphs": [
+        "A house has comparable sales down the street. A gas royalty has a decline curve, a commodity price that resets monthly, and post-production deductions the operator changes without notice. Divide the January check by twelve and call it annual income, and you've built the settlement on a number that was already stale by February. Gas wells decline fast in the first two to three years, then flatten out, so a check pulled from an early, high-volume month overstates what the interest is worth going forward.",
+        "Attorneys handling the division usually ask for the last twelve to twenty-four months of check stubs before anyone puts a figure on the interest. That trailing window smooths out a single hot month or a shut-in period, and it's the same data a buyer will ask for. If your decree only references \"the mineral interest in Section 14\" without a value attached, expect the court or the mediator to want that number resolved before the case closes."
+      ]
+    },
+    {
+      "heading": "Buyout Between Spouses vs. Selling to a Third Party",
+      "paragraphs": [
+        "Most decrees resolve a shared royalty one of two ways: one spouse keeps the interest and pays the other their share of an agreed value, or both agree to sell and split proceeds. A buyout sounds cleaner, but it requires the spouse keeping the interest to come up with cash equal to half the value up front, and it leaves that number open to dispute later if the other side thinks it was lowballed.",
+        "Selling to an outside buyer and splitting the net proceeds avoids the argument entirely. Neither spouse has to trust the other's valuation of a moving asset, and the transaction produces a hard number both attorneys can cite in the final decree. It also removes an ongoing financial tie between two people who are trying to be done dealing with each other, which matters more than it sounds like on paper."
+      ]
+    },
+    {
+      "heading": "Getting a Number the Mediator Won't Push Back On",
+      "paragraphs": [
+        "A written purchase offer, backed by actual check history and the operator's decline data, holds up in mediation better than a verbal estimate from a relative who \"knows about oil and gas.\" We look at the same records a title examiner or reservoir engineer would: the lease, the division order, run statements showing deductions, and how the well has behaved since first production. That's the paper trail a mediator or judge wants attached to a settlement figure.",
+        "This isn't legal advice on how to structure your decree, and you should run any number by your own family law attorney before it goes in a settlement agreement. What we can do is give you a written offer you can hand to counsel, so the valuation fight doesn't drag the rest of the case out with it."
+      ]
+    },
+    {
+      "heading": "Timing a Sale Around the Case, Not Around the Market",
+      "paragraphs": [
+        "Divorce cases run on court dates, not gas price cycles. If the case needs to close and the mineral interest is the last open item, waiting for a better price environment usually costs more in attorney hours than it gains in sale proceeds. We can turn a written offer around fast enough to hit a mediation deadline or a pretrial conference.",
+        "If there's no deadline pressure and the well is early in its production life with more upside likely, that's a fair reason to hold and revisit after the decree is final. We'll tell you honestly which situation yours looks like rather than pushing a sale either way."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does a gas royalty acquired before marriage still count as marital property?",
+      "answer": "That depends on your state's law and whether the interest was commingled with marital funds or income during the marriage. It's a legal question for your family law attorney, not something we weigh in on, but once a value is needed we can supply one."
+    },
+    {
+      "question": "Can you value an interest that's leased but the well hasn't started producing yet?",
+      "answer": "Yes, though the offer will reflect the added uncertainty of a well that hasn't shown its actual production decline yet. We'll walk you through how we're weighing that against comparable wells in the area."
+    },
+    {
+      "question": "What if your ex-spouse and you own the interest as tenants in common and disagree on selling?",
+      "answer": "One co-owner can typically sell their undivided share independently of the other, though the exact mechanics depend on your deed and state law. We buy fractional interests directly, which is often simpler than forcing a joint decision."
+    },
+    {
+      "question": "How fast can an offer be ready for a mediation date?",
+      "answer": "Once we have the deed or division order and recent check stubs, we can usually turn a written offer around in about a week, faster if the case has a hard deadline."
+    },
+    {
+      "question": "Will you work directly with our attorneys instead of the spouses?",
+      "answer": "Yes. We're used to routing paperwork and offer details through counsel on both sides so the transaction stays clean for the record."
+    }
+  ],
+  "status": "written",
+  "wordCount": 1014,
+  "image": {
+    "src": "/images/situations/mineral-rights-situations-divorce-mineral-division-sellyourgasroyalties-com.jpg",
+    "alt": "Mineral Rights in Divorce mineral rights",
+    "width": 1600,
+    "height": 1000
+  }
+}

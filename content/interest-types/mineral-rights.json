@@ -1,0 +1,73 @@
+{
+  "slug": "mineral-rights",
+  "title": "Mineral Rights",
+  "type": "interest-type",
+  "metaTitle": "What Owning Mineral Rights Means for Gas Royalty Owners",
+  "metaDescription": "Mineral rights are the base ownership behind every gas royalty check. See how leasing, pooling, and deductions flow from that ownership to your payment.",
+  "heroLead": "Everything else, the lease, the royalty check, the division order, sits on top of one thing: who owns the minerals underneath a given tract of ground.",
+  "intro": [
+    "Mineral rights are the fee ownership of what's beneath the surface, separate and severable from surface ownership. Owning minerals doesn't mean you drill anything yourself; it means you control whether someone else can, and on what terms, through a lease. If you own gas-producing minerals, your royalty check exists because at some point you, or someone before you, signed a lease granting an operator the right to drill in exchange for a bonus and a royalty share of production.",
+    "This page walks through what fee mineral ownership actually includes, how a gas lease converts that ownership into income, and where owners tend to get confused about what they actually hold."
+  ],
+  "sections": [
+    {
+      "heading": "Fee Minerals vs. Everything Carved Out of Them",
+      "paragraphs": [
+        "A full mineral estate carries several bundled rights: the right to lease, the right to receive bonus and delay rental payments, the right to a royalty share of production, and executive rights, the authority to negotiate lease terms. Over generations, families and prior owners often carve pieces off, reserving a royalty interest while selling the executive rights, or splitting the mineral estate among heirs into fractional shares. What you actually hold today may be the full bundle or just a slice of it, and your deed language is what tells you which.",
+        "This distinction matters for gas owners specifically because it determines who negotiates future lease terms, who decides whether to sign a new lease when the old one expires, and who has a say if the operator proposes changes like a pooling amendment. If you sold your executive rights but kept a royalty, you're locked into whatever lease terms whoever holds the executive rights negotiates."
+      ]
+    },
+    {
+      "heading": "How a Gas Lease Converts Ownership Into a Check",
+      "paragraphs": [
+        "Signing a lease grants the operator the right to explore, drill, and produce, in exchange for an upfront bonus and delay rentals if drilling doesn't start immediately, plus an ongoing royalty, typically stated as a fraction like 1/8th, 3/16ths, or 1/5th of production, once a well produces. That royalty fraction is set at lease signing and doesn't change afterward regardless of how gas prices move, though the dollar amount paid against that fraction moves constantly with price and volume.",
+        "Most modern leases also specify how post-production costs, gathering, compression, dehydration, transportation, get handled: whether they're deducted from your royalty share or borne entirely by the operator before calculating your fraction. That single clause has a bigger impact on your actual check than most owners realize when signing, and it's worth understanding for any interest you still hold."
+      ]
+    },
+    {
+      "heading": "Pooling and Unitization Affect What You're Owed",
+      "paragraphs": [
+        "Gas wells are frequently drilled to drain a spacing unit larger than any single owner's tract, which means your minerals may be pooled with neighboring tracts into one unit, and your royalty is then calculated as your proportional share of the unit's total production, not necessarily production from a wellbore physically on your land. This is normal and doesn't reduce your rights, but it does mean your decimal interest reflects your tract's size relative to the whole unit, not simply your acreage divided by the well's total output.",
+        "Understanding your pooled decimal interest, shown on your division order, is the real basis for evaluating both your current royalty income and what a mineral sale of that interest is worth."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What's the difference between mineral rights and a royalty interest?",
+      "answer": "Mineral rights are the full ownership, including the right to lease and negotiate terms. A royalty interest is the income right that comes from a lease, which you may hold with or without the underlying mineral ownership. See our royalty interests page for more detail."
+    },
+    {
+      "question": "Can you sell your mineral rights but keep your current lease's royalty?",
+      "answer": "Typically no, selling the mineral estate transfers the royalty rights that go with it, since the royalty flows from ownership. If you want to keep income while selling, a partial or term sale structure may fit better; ask us about your specific situation."
+    },
+    {
+      "question": "How do you find out what fraction of the minerals under your tract you actually own?",
+      "answer": "Your deed and the operator's division order together show your fractional and decimal interest. We can pull the current division order for you if you're unsure."
+    },
+    {
+      "question": "Does owning mineral rights mean you have a say in where wells get drilled?",
+      "answer": "Only if you hold executive rights and the lease hasn't already been signed. Once leased, drilling decisions belong to the operator within the lease's terms."
+    },
+    {
+      "question": "What happens to your mineral rights if you never lease them?",
+      "answer": "You keep full ownership with no income unless and until you sign a lease or sell. See our non-producing minerals page for how that situation is valued."
+    },
+    {
+      "question": "Are mineral rights taxed the same way as surface property?",
+      "answer": "Many counties assess producing minerals separately from surface land, often based on production value rather than a flat assessment. Rules vary by state and county, so check with your local assessor or CPA."
+    },
+    {
+      "question": "How do you confirm you actually own what an old deed says you own?",
+      "answer": "A courthouse title search tracing the chain of conveyances and reservations from the original patent forward is the reliable way to confirm current ownership, since later deeds may have carved out pieces the original document doesn't reflect."
+    }
+  ],
+  "status": "written",
+  "wordCount": 928,
+  "image": {
+    "src": "/images/interest-types/mineral-rights-interest-types-mineral-rights-sellyourgasroyalties-com.jpg",
+    "alt": "Mineral Rights mineral rights",
+    "width": 1600,
+    "height": 1000
+  }
+}

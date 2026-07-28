@@ -1,0 +1,81 @@
+{
+  "slug": "ohio",
+  "title": "Sell Mineral Rights in Ohio",
+  "type": "state",
+  "group": "Utica",
+  "primaryKeyword": "mineral rights ohio",
+  "seo": {
+    "vol": 260,
+    "cpc": 3.68
+  },
+  "status": "written",
+  "metaTitle": "Sell Mineral Rights in Ohio | Utica Shale Royalties",
+  "metaDescription": "Own Ohio Utica shale minerals? Wet gas east and dry gas counties price very differently. Get a straight, county-specific cash offer for your interest.",
+  "heroLead": "The Utica shale doesn't behave the same way across Ohio, and a Belmont County wet-gas tract and a Carroll County dry-gas tract can throw very different royalty checks even sitting in similar formations at similar depths.",
+  "intro": [
+    "Ohio's Utica play splits roughly along a wet-gas and dry-gas line running through the eastern part of the state. Belmont, Monroe, and Noble counties sit in the wet-gas and condensate window, where produced gas carries valuable natural gas liquids that get stripped out and sold separately, adding real value beyond the raw mcf price. Carroll, Harrison, and Guernsey counties lean more toward dry gas, where the value is almost entirely in the gas itself with fewer NGLs riding along.",
+    "We buy both, and we price them differently because the economics really are different. A wet-gas tract with strong ethane and propane content is a different asset than a dry-gas tract even at the same production volume, and any offer that ignores that distinction is guessing."
+  ],
+  "sections": [
+    {
+      "heading": "Wet gas vs. dry gas — what it means for your check",
+      "paragraphs": [
+        "On a wet-gas well, the gas stream comes up loaded with natural gas liquids — ethane, propane, butane — that get separated at a processing plant and sold as their own products, often at prices that don't move in lockstep with dry gas. That can add real value to your royalty, but it also adds a processing deduction line to your statement, since separating those liquids costs money that operators typically net against your price. Dry-gas wells skip that step, so the statement is simpler but the upside from liquids isn't there either.",
+        "If your Belmont or Monroe county statement doesn't show any NGL revenue line at all, it's worth asking your operator directly — some leases entitle you to liquids value and some historically haven't captured it clearly on the statement."
+      ]
+    },
+    {
+      "heading": "Post-production deductions on Ohio leases",
+      "paragraphs": [
+        "Ohio courts have generally upheld post-production cost deductions where the lease allows them, and most Utica-era leases written during the drilling boom do allow them. Gathering, compression, dehydration, and processing fees are standard line items. What varies is how aggressively an operator nets those costs — we've seen Ohio statements where deductions run a meaningful share of gross value, and it's worth comparing your net price per mcf against the regional index rather than assuming the deduction is standard."
+      ]
+    },
+    {
+      "heading": "Legacy and Clinton sandstone wells still on the books",
+      "paragraphs": [
+        "Ohio has a long production history that predates the Utica boom by a century — plenty of eastern Ohio landowners still hold interests tied to old Clinton sandstone wells drilled decades ago, some still producing small stripper volumes. Those interests are real but modest, and we price them on their own trailing production rather than lumping them in with modern Utica horizontal units, since the two are entirely different assets even on the same parcel.",
+        "If you're not sure whether your interest is tied to a legacy vertical well or a modern Utica lateral, your division order or lease should name the well, and we can look it up in Ohio Department of Natural Resources records to confirm."
+      ]
+    },
+    {
+      "heading": "Pooling and unitization on Ohio Utica leases",
+      "paragraphs": [
+        "Ohio Utica units are typically formed through voluntary pooling under the terms of the individual leases signed with each landowner rather than compulsory statewide unitization, which means the specific pooling clause in your lease matters more in Ohio than it might in a state with a stronger forced-pooling statute. Some older Ohio leases were signed with pooling clauses that predate the horizontal Utica era entirely and can create real ambiguity about how a modern multi-well pad ties back to a tract that was leased for a single vertical well decades earlier.",
+        "We read your lease's pooling and unitization language specifically before quoting a number, because it directly affects whether your interest is properly captured in the unit currently producing, or whether there's a gap worth resolving first."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What's the difference between wet-gas and dry-gas Utica counties?",
+      "answer": "Wet-gas counties like Belmont, Monroe, and Noble produce gas rich in natural gas liquids that get processed and sold separately, adding value but also a processing deduction. Dry-gas counties like Carroll and Harrison produce gas with fewer liquids and a simpler statement."
+    },
+    {
+      "question": "Do Ohio leases allow post-production deductions?",
+      "answer": "Most do, especially leases signed during the Utica drilling boom. Gathering, compression, and processing costs are standard netted-out line items unless your specific lease prohibits them."
+    },
+    {
+      "question": "Are old Clinton sandstone wells worth anything today?",
+      "answer": "Some still produce modest stripper gas volumes and generate real, if small, royalty. They're a separate asset from modern Utica horizontal wells even where the interests overlap on the same parcel."
+    },
+    {
+      "question": "Is Utica drilling still active in Ohio?",
+      "answer": "Activity has slowed from the peak boom years but continues in core wet-gas counties. Dry-gas areas have seen fewer new permits in recent years."
+    },
+    {
+      "question": "How do you find out if your Ohio well is wet or dry gas?",
+      "answer": "Check your county — Belmont, Monroe, and Noble lean wet; Carroll and Harrison lean dry — and check your statement for an NGL or liquids revenue line, which confirms wet-gas production directly."
+    },
+    {
+      "question": "Does your old Ohio lease's pooling clause still apply to a modern Utica well?",
+      "answer": "It can, and the specific wording matters. Ohio Utica units are generally formed through lease-based pooling rather than compulsory statewide unitization, so an older lease's pooling language may or may not cleanly cover a modern multi-well horizontal pad."
+    }
+  ],
+  "wordCount": 934,
+  "image": {
+    "src": "/images/locations/sell-mineral-rights-ohio.jpg",
+    "alt": "Replacement Minerals in Ohio location",
+    "width": 1600,
+    "height": 1000
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "slug": "royalty-interests",
+  "title": "Royalty Interests",
+  "type": "interest-type",
+  "metaTitle": "How Gas Royalty Interests Get Paid and Deducted",
+  "metaDescription": "Royalty checks look simple but the math behind them isn't. See how gas volume, price differential, and post-production deductions set your actual payment.",
+  "heroLead": "Two owners with the same size interest in the same well can get different checks, and the difference almost always comes down to how deductions and gas pricing were handled.",
+  "intro": [
+    "A royalty interest is the right to a share of production revenue from a lease, free of the cost of drilling and operating the well, but not necessarily free of every cost tied to getting that gas to market. That last part trips up more owners than anything else about royalty ownership. Understanding exactly what your royalty check is, and isn't, net of makes the difference between a statement that looks confusing and one you can actually verify.",
+    "This page breaks down how a gas royalty check is calculated from wellhead to your account, and where price differentials and deductions do the most damage to what you actually see."
+  ],
+  "sections": [
+    {
+      "heading": "From Wellhead Gas to Your Check: The Math",
+      "paragraphs": [
+        "The operator measures gas volume at the meter, applies a sales price, typically tied to an index like NYMEX Henry Hub adjusted by a regional basis differential, or a direct sale price to a midstream purchaser, and multiplies that by your royalty fraction and decimal interest. From that gross figure, most modern leases allow deduction of your proportional share of post-production costs: gathering, compression, dehydration, treating, and transportation to the point of sale. What's left after those deductions is your net check.",
+        "The gap between gross wellhead value and your net check can be meaningful, sometimes fifteen to thirty percent depending on the basin and how far the gas has to travel before it's sold. That's not necessarily a sign of anything wrong; it reflects real costs the operator incurs. But it's worth tracking over time, since deduction rates that creep upward year over year without explanation are worth questioning directly with the operator."
+      ]
+    },
+    {
+      "heading": "Why Your Check Trades at a Discount to the Price You See in the News",
+      "paragraphs": [
+        "Henry Hub is a national benchmark, but gas actually sells at whatever local or regional index applies near your well, adjusted by a basis differential that reflects local supply and pipeline takeaway capacity. Appalachian basin gas, for example, has historically sold at a discount to Henry Hub because pipeline capacity out of the region has lagged production growth, meaning owners there routinely see checks priced below the national number even in a strong month for gas overall.",
+        "This differential isn't fixed. It narrows when new pipeline capacity comes online and widens during periods of oversupply relative to takeaway. Understanding that your local basis, not the national headline price, drives your check helps explain swings that otherwise look unexplained."
+      ]
+    },
+    {
+      "heading": "NGL Uplift on Wet Gas Wells",
+      "paragraphs": [
+        "Not all gas is the same. Wet gas contains natural gas liquids, ethane, propane, butane, and heavier hydrocarbons, that get stripped out at a processing plant and sold separately, often at a meaningfully higher price than dry gas alone. If your well produces wet gas, your division order or check detail may show a separate NGL payment line alongside the dry gas royalty, and together they can add real uplift compared to a dry-gas-only well of similar size.",
+        "Dry gas wells, common in parts of Appalachia and the Haynesville, don't have this uplift available, so their royalty income depends entirely on the dry gas price and volume. Knowing which category your well falls into changes what a reasonable check, and a reasonable valuation of the interest, actually looks like."
+      ]
+    },
+    {
+      "heading": "What to Check on Your Statement",
+      "paragraphs": [
+        "Your monthly or quarterly check detail should show production volume, the price applied, gross value, itemized deductions, and your net payment. Compare the price line against the regional index for that production month, and compare deduction rates against prior statements to spot any unexplained increase. If a line item is unclear, the operator's owner relations department is required to explain it; asking is a normal, expected request, not an adversarial one.",
+        "When we evaluate a royalty for purchase, we look at this exact data, several months of statements showing volume trend, price, and deductions, to understand the decline curve and net economics before pricing an offer."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why did your check drop even though gas prices went up?",
+      "answer": "Production volume declines over a well's life independent of price, so a rising price can still produce a lower check if volume dropped enough to offset it. Look at both the volume line and the price line on your statement."
+    },
+    {
+      "question": "Are post-production deductions legal?",
+      "answer": "Generally yes, if your lease permits them, which most modern leases do. Older leases sometimes have language that limits or prohibits certain deductions, worth reviewing with an attorney if your deductions seem unusually high."
+    },
+    {
+      "question": "What's a normal deduction rate for a gas royalty?",
+      "answer": "It varies by basin and how far the gas travels to market, but a meaningful jump from one period to the next with no explanation is worth a direct question to the operator."
+    },
+    {
+      "question": "Does your royalty interest include the right to negotiate a new lease?",
+      "answer": "Only if you also hold executive rights. A royalty interest alone typically doesn't include lease negotiation authority. See our mineral rights page for that distinction."
+    },
+    {
+      "question": "How do you value a royalty interest for purchase?",
+      "answer": "We look at trailing production and check history, the well's decline stage, the applicable price differential, and NGL content if the well is wet, then price the offer against that full picture."
+    }
+  ],
+  "status": "written",
+  "wordCount": 921,
+  "image": {
+    "src": "/images/interest-types/mineral-rights-interest-types-royalty-interests-sellyourgasroyalties-com.jpg",
+    "alt": "Royalty Interests mineral rights",
+    "width": 1600,
+    "height": 1000
+  }
+}

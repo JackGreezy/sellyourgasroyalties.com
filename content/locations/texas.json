@@ -1,0 +1,86 @@
+{
+  "slug": "texas",
+  "title": "Sell Mineral Rights in Texas",
+  "type": "state",
+  "group": "Permian, Eagle Ford, Haynesville TX, Barnett, Anadarko TX",
+  "primaryKeyword": "mineral rights texas",
+  "seo": {
+    "vol": 1300,
+    "cpc": 4.15
+  },
+  "status": "written",
+  "metaTitle": "Sell Gas Royalties in Texas | Haynesville, Barnett & Permian",
+  "metaDescription": "Texas mineral owner in the Haynesville, Barnett, Permian, or Texas Panhandle? Each play prices differently. Get a county-accurate cash offer today.",
+  "heroLead": "Texas isn't one mineral market, it's four or five stapled together under one state line — a Haynesville gas owner in Panola County and a Permian oil owner in Midland County are holding fundamentally different assets, and neither should be priced off the other's numbers.",
+  "intro": [
+    "East Texas holds the Haynesville, one of the most gas-productive plays in the country, running through Panola, Harrison, San Augustine, and Shelby counties, priced almost entirely on dry gas economics and sensitive to Henry Hub swings. North central Texas holds the Barnett, the original modern shale gas play, centered on Tarrant, Johnson, Parker, and Wise counties, now decades into decline after its 2000s boom. The Texas Panhandle holds Anadarko-basin gas-condensate production in Hemphill and Wheeler counties, an extension of the same play that runs into western Oklahoma. And West Texas holds the Permian basin, overwhelmingly oil-driven with associated gas that's still working through the same takeaway-capacity growing pains as New Mexico's side of the play.",
+    "We buy across all of them, but a Haynesville quote built on gas price and a Permian quote built on oil price are different calculations, and we walk each Texas seller through which one applies to their tract before we ever name a number."
+  ],
+  "sections": [
+    {
+      "heading": "Haynesville: dry gas, Henry Hub exposure, real depth",
+      "paragraphs": [
+        "Haynesville wells run deep — often over 10,000 feet — which makes them expensive to drill and completion-sensitive to gas price, meaning operator activity can throttle up and down with the gas market more visibly than in shallower plays. Royalty here tracks Henry Hub-linked pricing closely, with typical gathering, compression, and dehydration deductions on top. When gas prices run soft, expect drilling activity in the play to slow with it, which affects both current royalty and the drilling upside embedded in your tract's value.",
+        "Panola and Harrison county tracts in the play's core price above the flanks in San Augustine or Shelby, largely on well density and depth-to-target consistency."
+      ]
+    },
+    {
+      "heading": "Barnett: mature, honest about the decline",
+      "paragraphs": [
+        "The Barnett was the play that proved horizontal shale drilling worked, drilled hard through the 2000s and into the early 2010s, and it's been on a long decline curve since as operators moved capital to newer plays with better economics. Tarrant, Johnson, Parker, and Wise county interests still throw real royalty, but almost entirely on trailing production rather than fresh-drilling upside — there's little reason to price a Barnett tract as if new wells are coming, because for most of the play they aren't.",
+        "We price Barnett interests on actual recent statements more than on any basin-wide projection, since the play's maturity means past performance is the best predictor available."
+      ]
+    },
+    {
+      "heading": "Texas Panhandle: Anadarko basin gas-condensate",
+      "paragraphs": [
+        "Hemphill and Wheeler counties sit on the Texas side of the same Anadarko basin structure that runs the Oklahoma SCOOP and STACK plays, producing gas with condensate value riding along. Activity here tends to track Oklahoma's side of the play, with deep, high-pressure wells that concentrate drilling in the most productive sections rather than spreading evenly across the basin."
+      ]
+    },
+    {
+      "heading": "Permian: oil-driven, gas as the byproduct",
+      "paragraphs": [
+        "If your Texas interest sits in the Permian basin's Midland or Delaware sub-basins, spread across counties like Midland, Martin, Reeves, and Loving, you're holding an oil interest first, with associated gas subject to the same takeaway-capacity strain that's affected New Mexico's side of the Delaware. Value here tracks oil price and undrilled locations more than gas price, and it's generally the highest-value Texas play on a per-acre basis given the intensity of current drilling."
+      ]
+    },
+    {
+      "heading": "Eagle Ford: the fourth Texas play worth naming",
+      "paragraphs": [
+        "South Texas holds the Eagle Ford, running through counties like Karnes, DeWitt, and La Salle, a play that produces oil, gas, and condensate in varying mixes depending on where you sit across the trend — the northwest end runs oil-heavy, the southeast end runs dry gas, with a wide condensate window in between. That range means two Eagle Ford tracts a few counties apart can carry very different royalty structures even inside the same named play, and we check your specific county's position on the trend before quoting rather than treating Eagle Ford as one uniform asset."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which Texas gas play pays the most in royalties?",
+      "answer": "It depends on drilling activity and well depth more than the play name alone — active Haynesville acreage in Panola or Harrison county often outperforms mature Barnett acreage, but a strong Permian oil-and-gas tract can outperform both. We price each tract on its own production."
+    },
+    {
+      "question": "Is the Barnett shale still worth selling?",
+      "answer": "Yes, though value comes almost entirely from trailing production on a long decline curve rather than expectation of new drilling. We price it accordingly using recent statements."
+    },
+    {
+      "question": "How does gas price affect Haynesville royalty value?",
+      "answer": "Directly and visibly. Haynesville wells are deep and expensive, so operator drilling pace and gas price move together closely, which affects both current royalty income and how much drilling upside your tract carries."
+    },
+    {
+      "question": "What's the difference between the Texas Panhandle and Permian basin?",
+      "answer": "The Texas Panhandle (Hemphill, Wheeler counties) is Anadarko-basin gas-condensate production tied to the same play running through Oklahoma. The Permian basin (Midland, Martin, Reeves, Loving counties) is oil-driven with associated gas as a byproduct."
+    },
+    {
+      "question": "Do you buy Texas mineral interests across multiple counties?",
+      "answer": "Yes, we regularly work with owners holding interests spread across several Texas counties or even several different plays, and we'll price each tract individually rather than averaging across your whole portfolio."
+    },
+    {
+      "question": "Is the Eagle Ford an oil play or a gas play?",
+      "answer": "Both, depending on location along the trend. The northwest end runs oil-heavy, the southeast end runs dry gas, with a condensate window in between, so we price Eagle Ford tracts based on their specific county position rather than treating the whole play as one asset."
+    }
+  ],
+  "wordCount": 986,
+  "image": {
+    "src": "/images/locations/sell-mineral-rights-texas.jpg",
+    "alt": "Replacement Minerals in Texas location",
+    "width": 1600,
+    "height": 1000
+  }
+}

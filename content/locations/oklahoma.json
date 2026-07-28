@@ -1,0 +1,82 @@
+{
+  "slug": "oklahoma",
+  "title": "Sell Mineral Rights in Oklahoma",
+  "type": "state",
+  "group": "SCOOP/STACK, Anadarko, Arkoma, Osage",
+  "primaryKeyword": "mineral rights oklahoma",
+  "seo": {
+    "vol": 390,
+    "cpc": 10.66
+  },
+  "status": "written",
+  "metaTitle": "Sell Mineral Rights in Oklahoma | SCOOP, STACK & Osage",
+  "metaDescription": "Oklahoma mineral owner in SCOOP/STACK, Arkoma, or Osage county? Each plays by different rules. Get a county-accurate cash offer for your interest.",
+  "heroLead": "Oklahoma mineral ownership isn't one market — SCOOP and STACK run on modern horizontal economics, the Arkoma basin runs on old Woodford gas wells, and Osage County runs under an entirely separate federal mineral estate that most buyers don't even know how to price.",
+  "intro": [
+    "The SCOOP and STACK plays, stretched across Grady, Canadian, Kingfisher, and McClain counties among others, are gas-condensate-rich Anadarko basin plays with active modern drilling and horizontal well economics that resemble the Permian more than they resemble old Oklahoma stripper country. To the east, the Arkoma basin around Latimer, Pittsburg, and Le Flore counties holds the Woodford shale's original gas play, drilled hard in the mid-2000s and mostly on decline now. And in Osage County, minerals aren't privately owned at all in the traditional sense — the entire county's subsurface mineral estate is held in trust for the Osage Nation, and any transaction runs through headright or lease-assignment mechanics unlike anywhere else in the country.",
+    "We buy across all three, but each requires a different process and a different valuation approach, and we'll tell you upfront which situation you're in before we ever talk numbers."
+  ],
+  "sections": [
+    {
+      "heading": "SCOOP/STACK: active Anadarko basin gas-condensate",
+      "paragraphs": [
+        "This is the part of Oklahoma still seeing meaningful new drilling, and it's a gas-condensate play, meaning your royalty check likely has both a gas line and an oil/condensate line on it. Deep, high-pressure wells here cost more to drill and complete than shallower Oklahoma plays, which has made operators more selective about where they commit rigs, so drilling activity concentrates in the most productive counties and can bypass adjacent acreage for years at a time.",
+        "Value in SCOOP/STACK tracks nearby permit activity closely — a tract in an actively permitted section prices well above one that's been quiet for a few years, even within the same county."
+      ]
+    },
+    {
+      "heading": "Arkoma basin: mature Woodford gas",
+      "paragraphs": [
+        "The Woodford shale's Arkoma-basin acreage was one of the first shale gas plays drilled at scale in the country, and most of that drilling happened well over a decade ago. What's left is legacy production on a long decline curve, priced mostly against trailing history rather than growth potential. Arkoma wells also tend to sit in rougher terrain with longer gathering runs, which shows up as gathering deductions on your statement.",
+        "If you're holding an Arkoma interest and comparing it to a SCOOP/STACK neighbor's check, the gap is almost entirely about play maturity — Arkoma isn't seeing the fresh permits that would justify pricing it like an active play."
+      ]
+    },
+    {
+      "heading": "Osage County: a different mineral estate entirely",
+      "paragraphs": [
+        "Osage County's minerals were reserved to the Osage Nation by federal statute, and individual Osage headright holders receive quarterly royalty distributions managed through the Osage Minerals Council and the Bureau of Indian Affairs rather than through a standard state royalty deed structure. If you hold an Osage headright, selling or transferring it involves federal approval steps that don't apply anywhere else in Oklahoma, and it's worth talking to us specifically about that process before assuming a standard mineral-buying timeline applies.",
+        "We've worked Osage headright transactions before and can walk you through what's different, but we won't pretend it moves at the same pace as a straightforward Canadian County deed transfer."
+      ]
+    },
+    {
+      "heading": "What we check on any Oklahoma tract",
+      "paragraphs": [
+        "Oklahoma Corporation Commission records show spacing orders, pooling, and well status for nearly every unit in the state, and that's our starting point for any tract outside Osage County. We confirm your interest matches a current spacing unit, check offset well performance, and pull whatever division order history you can provide before quoting.",
+        "Oklahoma also has a robust forced-pooling process, so it's common for an owner who never personally signed a lease to still be receiving royalty as a pooled, unleased interest owner, which pays differently than a leased interest and is worth confirming which category applies to you before we talk numbers."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What's the difference between SCOOP, STACK, and Arkoma basin minerals?",
+      "answer": "SCOOP and STACK are active gas-condensate plays in the Anadarko basin with ongoing horizontal drilling. Arkoma basin Woodford acreage was drilled heavily in the mid-2000s and is now mature, mostly-declining production. Value and drilling upside differ significantly between them."
+    },
+    {
+      "question": "Can you buy an Osage County mineral headright?",
+      "answer": "Osage headrights are a distinct federally managed mineral estate with their own transfer process through the Osage Minerals Council and Bureau of Indian Affairs. We handle these, but the timeline and paperwork differ from a standard Oklahoma mineral deed."
+    },
+    {
+      "question": "Is Arkoma basin gas production still worth selling?",
+      "answer": "Yes, though value is driven by trailing production on a mature decline curve rather than new-drilling upside. We price it on its actual production history."
+    },
+    {
+      "question": "Why does location within SCOOP/STACK matter so much for value?",
+      "answer": "Drilling activity concentrates in the most productive sections of the play, so a tract near recent permits typically prices well above one in a quieter part of the same county."
+    },
+    {
+      "question": "What Oklahoma records do you check before making an offer?",
+      "answer": "Oklahoma Corporation Commission spacing and pooling orders, well status and production records, and any division order or lease documents you can provide, cross-checked against the legal description on your deed."
+    },
+    {
+      "question": "What's the difference between a leased and pooled Oklahoma mineral interest?",
+      "answer": "A leased interest pays royalty under the terms you or a predecessor signed. A forced-pooled, unleased interest pays under terms set by an Oklahoma Corporation Commission pooling order instead, which can carry a different royalty rate and bonus structure than a negotiated lease."
+    }
+  ],
+  "wordCount": 937,
+  "image": {
+    "src": "/images/locations/sell-mineral-rights-oklahoma.jpg",
+    "alt": "Replacement Minerals in Oklahoma location",
+    "width": 1600,
+    "height": 1000
+  }
+}

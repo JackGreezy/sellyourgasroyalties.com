@@ -1,0 +1,77 @@
+{
+  "slug": "west-virginia",
+  "title": "Sell Mineral Rights in West Virginia",
+  "type": "state",
+  "group": "Marcellus/Utica",
+  "primaryKeyword": "mineral rights west virginia",
+  "seo": {
+    "vol": 170,
+    "cpc": 8.86
+  },
+  "status": "written",
+  "metaTitle": "Sell Marcellus/Utica Gas Royalties in West Virginia",
+  "metaDescription": "West Virginia gas owner stuck on a flat-rate lease or fighting deductions? We know WV's old lease problem. Get an honest cash offer for your interest.",
+  "heroLead": "West Virginia has a lease problem no other Marcellus state deals with quite the same way — thousands of old flat-rate leases, some written in 1899 and never renegotiated, that can cap a landowner's entire royalty at a fixed dollar figure no matter how much gas the well actually produces.",
+  "intro": [
+    "Doddridge, Harrison, Wetzel, and Marshall counties hold the core of West Virginia's Marcellus and Utica combined play, some of the most productive dry-gas and wet-gas acreage in Appalachia. But West Virginia's oil and gas history runs back well over a century, and a real number of legacy leases signed decades ago — sometimes by long-departed grandparents — carry flat-rate royalty clauses that pay a fixed annual amount per well rather than a percentage of production, regardless of how much modern horizontal drilling under that same tract actually produces.",
+    "West Virginia passed the Co-Tenancy Modernization and Majority Protection Act in 2018 and further pooling reforms since, changing how operators can pool unleased and minority interests, which has reshaped how some legacy tracts get developed. If you're a West Virginia mineral owner, both the flat-rate lease issue and the pooling law changes are worth understanding before you compare any offer against what you think your interest should be worth."
+  ],
+  "sections": [
+    {
+      "heading": "The flat-rate lease trap",
+      "paragraphs": [
+        "A flat-rate lease pays a fixed dollar amount per well per year, a structure that made sense a century ago on shallow, low-volume vertical wells, but becomes a serious problem when a modern horizontal Marcellus well under that same tract produces enormous volumes while the owner still collects the same capped payment their grandparents negotiated. West Virginia courts and legislature have both grappled with this issue over the years, and outcomes have varied depending on lease language and specific case history.",
+        "If your West Virginia royalty check has stayed at a flat number for years regardless of what modern wells nearby are producing, check your lease for flat-rate language specifically — it changes both your current income and the value of selling that interest, and we price flat-rate tracts differently than percentage-royalty tracts because the underlying economics really are different."
+      ]
+    },
+    {
+      "heading": "Pooling and the Co-Tenancy Modernization Act",
+      "paragraphs": [
+        "West Virginia's 2018 pooling reform allows operators to develop horizontal units even where some co-tenants haven't leased, under specific majority-consent conditions, which changed the practical mechanics of how fragmented old family tracts get brought into modern development. If you're one of several heirs holding a fractional interest in an unleased or partially leased tract, this law may directly affect how and when your acreage gets pooled into a producing unit — worth understanding before assuming your unleased interest stays that way indefinitely."
+      ]
+    },
+    {
+      "heading": "Deduction disputes across the Marcellus/Utica combo play",
+      "paragraphs": [
+        "West Virginia has seen its own version of the post-production deduction disputes that have run through Pennsylvania and Ohio, with owners and operators disagreeing over how gathering, compression, and processing costs get netted against royalty. Combined Marcellus/Utica production in counties like Wetzel and Marshall can carry both dry-gas and liquids-rich streams depending on the specific target zone, which adds another layer to reading your statement correctly.",
+        "We review your actual statements line by line before quoting, rather than assuming a standard deduction structure applies statewide."
+      ]
+    },
+    {
+      "heading": "What we verify on a West Virginia tract",
+      "paragraphs": [
+        "We check West Virginia Geological and Economic Survey well records, confirm operator and production status, and review your lease specifically for flat-rate versus percentage-royalty language, since that single distinction changes the valuation approach more than almost any other factor in this state.",
+        "We also confirm whether your acreage was brought into a unit under the older forced-pooling framework or the newer 2018 co-tenancy provisions, because the two paths carry different notice and consent histories, and a tract pooled years apart from a neighboring parcel can end up with meaningfully different paperwork on file at the county courthouse even though both sit in the same producing unit today."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is a flat-rate lease and do you have one?",
+      "answer": "A flat-rate lease pays a fixed dollar amount per well annually instead of a percentage of production value, common in older West Virginia leases. Check your lease document directly — if your check hasn't changed in years despite nearby drilling, it's worth verifying."
+    },
+    {
+      "question": "How does West Virginia's pooling law affect unleased heirs?",
+      "answer": "The Co-Tenancy Modernization and Majority Protection Act, passed in 2018, allows operators to pool horizontal units with majority consent even where some co-tenants haven't leased, under specific conditions. It can affect timing and terms for fractional heirs who haven't leased their share."
+    },
+    {
+      "question": "Are West Virginia gas royalties subject to post-production deductions?",
+      "answer": "Generally yes, depending on lease language, similar to disputes seen in Pennsylvania and Ohio. Gathering, compression, and processing costs are common deduction line items on West Virginia Marcellus/Utica statements."
+    },
+    {
+      "question": "Is your West Virginia interest wet gas or dry gas?",
+      "answer": "It depends on the county and target formation — Wetzel and Marshall counties can carry both dry and liquids-rich production depending on the specific well. Your statement's NGL revenue line, if present, is the clearest indicator."
+    },
+    {
+      "question": "Do flat-rate leases sell for less than percentage-royalty leases?",
+      "answer": "Typically yes, because a flat-rate lease caps upside regardless of production, which changes the underlying value proposition. We price flat-rate and percentage-royalty tracts differently rather than using one formula for both."
+    }
+  ],
+  "wordCount": 907,
+  "image": {
+    "src": "/images/locations/sell-mineral-rights-west-virginia.jpg",
+    "alt": "Replacement Minerals in West Virginia location",
+    "width": 1600,
+    "height": 1000
+  }
+}

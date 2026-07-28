@@ -1,0 +1,78 @@
+{
+  "slug": "terms",
+  "title": "Terms",
+  "type": "page",
+  "status": "written",
+  "metaTitle": "Terms of Use - Sell Your Gas Royalties",
+  "metaDescription": "The terms governing use of this site and any offer you receive - what an offer is, what it isn't, and the limits of what's provided here.",
+  "heroLead": "These terms cover how this site and any offer you receive from it actually work, in plain language.",
+  "intro": [
+    "By using this site, requesting an offer, or contacting us, you're agreeing to the terms below. They're written to be read, not merely filed away, because understanding what an offer is - and isn't - matters as much as understanding your royalty statement. If a sale ever moves forward, expect the closing paperwork to lean on plain language too, rather than dense boilerplate nobody actually reads before signing.",
+    "These terms apply to the website itself. Any actual purchase of a mineral or royalty interest is governed by a separate, specific purchase agreement signed by both parties, which controls over anything general stated here."
+  ],
+  "sections": [
+    {
+      "heading": "What this site provides",
+      "paragraphs": [
+        "This site provides general educational information about gas mineral and royalty ownership, valuation methods, and the process of selling, along with a way to request a documented purchase offer from us as a direct buyer. Nothing on this site is a formal appraisal, legal advice, or tax advice - we are not licensed appraisers, attorneys, or CPAs, and information here is general in nature, not tailored to your specific legal or tax situation.",
+        "Any value figures, multiples, or ranges discussed on resource pages are illustrative and educational, not a quote or a promise of what your specific interest is worth. Only a documented offer, prepared after reviewing your actual statements and documentation, reflects what we would actually pay."
+      ]
+    },
+    {
+      "heading": "Requesting an offer",
+      "paragraphs": [
+        "Requesting an offer through this site creates no obligation on your part to sell, and no obligation on our part beyond providing a good-faith, documented offer based on the information you provide. An offer is not final or binding until a written purchase agreement is signed by both parties - anything discussed verbally or in preliminary correspondence is not a binding commitment.",
+        "The accuracy of any offer depends on the accuracy and completeness of the documentation you provide. We reserve the right to revise an offer if title work, additional statements, or further review reveals information materially different from what was initially provided."
+      ]
+    },
+    {
+      "heading": "No guarantee of value or outcome",
+      "paragraphs": [
+        "Mineral and royalty values depend on gas pricing, well decline behavior, title condition, and market conditions that change over time. We do not guarantee any specific value, return, or outcome, and any figures discussed - whether in resource content or in a preliminary conversation - should not be treated as a promise. We do not offer, and this site does not constitute, an offer to purchase any specific interest until a documented, written offer has been issued following our review."
+      ]
+    },
+    {
+      "heading": "Site use and content",
+      "paragraphs": [
+        "Content on this site is provided for general informational purposes and may be updated periodically without notice. You agree not to use this site for any unlawful purpose or to misrepresent your identity or ownership of any mineral interest in communications with us. We may decline to proceed with any inquiry or offer at our discretion, including where title, ownership, or documentation cannot be reasonably verified."
+      ]
+    },
+    {
+      "heading": "Limitation of liability and governing terms",
+      "paragraphs": [
+        "This site and its content are provided as-is, without warranties of any kind regarding accuracy, completeness, or fitness for a particular purpose, to the fullest extent permitted by law. We are not liable for decisions made based on general educational content on this site; specific tax, legal, or valuation decisions should be made in consultation with your own CPA, attorney, or qualified advisor. Any actual purchase transaction is governed by its own signed purchase agreement, which takes precedence over these general terms in the event of any conflict."
+      ]
+    },
+    {
+      "heading": "Changes to these terms",
+      "paragraphs": [
+        "We may revise these terms from time to time to reflect changes in how the site operates or in applicable law. The current version posted on this page governs your use of the site going forward. If you've already signed a specific purchase agreement with us, that document controls the transaction it covers regardless of later updates to these general site terms. Continued use of the site after a revision is posted constitutes acceptance of the updated terms."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is requesting an offer legally binding?",
+      "answer": "No. Requesting or receiving an offer creates no obligation to sell. A transaction only becomes binding once a written purchase agreement is signed by both parties."
+    },
+    {
+      "question": "Are the value ranges on your resource pages a quote for your minerals?",
+      "answer": "No. Those figures are general and educational, meant to explain how valuation works. A specific quote only comes from a documented offer based on your actual statements and documentation."
+    },
+    {
+      "question": "Can an offer change after it's issued?",
+      "answer": "Yes, if title work or additional review turns up information materially different from what was initially provided. Any revision would be explained to you before you're asked to sign anything."
+    },
+    {
+      "question": "Do these terms cover the actual purchase agreement if you sell?",
+      "answer": "No - a specific, signed purchase agreement governs the actual transaction and takes precedence over these general site terms if there's ever a conflict between the two."
+    }
+  ],
+  "wordCount": 865,
+  "image": {
+    "src": "/images/pages/mineral-rights-pages-terms-sellyourgasroyalties-com.jpg",
+    "alt": "Terms mineral rights",
+    "width": 1600,
+    "height": 1000
+  }
+}

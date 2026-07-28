@@ -1,0 +1,30 @@
+{
+  "domain": "sellyourgasroyalties.com",
+  "clone_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellyourgasroyalties.com",
+  "content_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellyourgasroyalties.com",
+  "reference": "https://nanoavionics.com/",
+  "refhost": "nanoavionics-com",
+  "biz": "Sell Gas Royalties",
+  "businessName": "Sell Gas Royalties",
+  "wordmark_l1": "Sell Gas",
+  "wordmark_l2": "Royalties",
+  "city": "Pittsburgh",
+  "state": "Pennsylvania",
+  "region": "Pittsburgh, the Appalachian Basin, and gas-royalty owners nationwide",
+  "phone": "412-555-1016",
+  "email": "support@sellyourgasroyalties.com",
+  "address": "600 Grant St, Pittsburgh, PA 15219",
+  "vertical": "mineral-rights",
+  "suppress_footer_media": true,
+  "hero_image": "/ours/pages/mineral-rights-pages-home-sellyourgasroyalties-com.jpg",
+  "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellyourgasroyalties.com/site-voice.json",
+  "nav": [
+    ["Owner Situations", "/situations"],
+    ["Royalty Interests", "/interest-types"],
+    ["Gas Basins", "/basins"],
+    ["Royalty States", "/locations"],
+    ["Owner Resources", "/resources"],
+    ["About", "/about"]
+  ],
+  "cta": ["Request a Gas Royalty Review", "/contact"]
+}

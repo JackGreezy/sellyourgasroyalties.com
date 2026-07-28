@@ -1,0 +1,71 @@
+{
+  "slug": "california",
+  "title": "Sell Mineral Rights in California",
+  "type": "state",
+  "group": "San Joaquin, LA basin legacy",
+  "primaryKeyword": "mineral rights california",
+  "seo": {
+    "vol": 90,
+    "cpc": 2.99
+  },
+  "metaTitle": "Sell Gas Royalties in California | San Joaquin & LA Basin Owners",
+  "metaDescription": "California mineral interests are oil-first. If associated gas is part of your San Joaquin or LA basin royalty, we'll give you a plain read and a written offer.",
+  "heroLead": "Owning minerals in California means owning an oil interest that happens to produce some gas along with it, and the gas royalty desk would rather tell you that up front than let you think you're sitting on a Texas-style gas play.",
+  "intro": [
+    "California's oil fields — Kern County's San Joaquin basin fields especially, along with the older LA basin fields — are some of the longest-producing oil fields in the country, some going back over a century. They produce plenty of associated gas alongside the oil, and a lot of it is used locally for steam injection, which is how heavy California crude gets pulled out of the ground in the first place. What doesn't get used on-lease sells into the regional gas market.",
+    "For a royalty owner, that means your check is almost always an oil check with a gas component riding along, not a standalone gas royalty. If you inherited a small interest and someone told you it's a 'gas royalty,' it's worth pulling the division order and actually checking what fraction of the value is gas versus oil before you assume anything about how it'll behave."
+  ],
+  "sections": [
+    {
+      "heading": "Why California isn't a gas state, and why that's fine",
+      "paragraphs": [
+        "There's no shame in an interest being oil-weighted — oil has generally held value better than gas through the price swings of the last decade. The point is expectations: if you're comparing your California check to a cousin's Haynesville gas royalty in Louisiana, you're comparing two different kinds of assets, and the swings you see month to month will follow crude price and local steam-flood economics more than a national gas index.",
+        "Some of these fields also see internal gas use for steam generation, which means volumes credited to your royalty can look different from what a pure open-market sale would show. That's normal for a thermal-recovery field and not something to be alarmed about, but it's worth understanding when you're reading a statement. If your statement shows a fuel-use deduction rather than a sale price on the gas line, that's usually the steam-injection accounting at work, not an error."
+      ]
+    },
+    {
+      "heading": "Legacy ownership and the paperwork that comes with it",
+      "paragraphs": [
+        "A meaningful share of California mineral interests we see trace back multiple generations — land divided among heirs from oil booms that predate most current owners' memory, with title chains that wind through probate records going back decades. Kern County and LA County courthouse records on century-old leases are not always tidy, and interests can be split into fractions small enough that nobody in the family has bothered sorting out exactly who owns what.",
+        "We handle that kind of title work as part of making an offer, so an owner isn't stuck hiring a landman just to figure out their own fraction before they can even consider selling. On century-old California leases especially, that research can take real digging through probate files most owners have never seen."
+      ]
+    },
+    {
+      "heading": "What we look at on a California interest",
+      "paragraphs": [
+        "We pull the operator, the field, and recent statements to see the actual oil-to-gas revenue split, then weigh that against current crude pricing and whatever regional gas pricing applies to the associated volumes. Because these are mostly mature fields with long production histories, we can usually work from real numbers rather than a speculative curve, which tends to make the process faster once we have your paperwork in hand.",
+        "If your interest turns out to be almost entirely an oil play with negligible gas value, we'll tell you that directly — we're not going to sell you on a gas story that your statement doesn't support."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is California a real natural gas play?",
+      "answer": "Not in the way Texas, Oklahoma, or Louisiana are. California production is oil-dominant, with associated gas as a secondary byproduct, much of it used locally for steam injection in heavy-oil fields."
+    },
+    {
+      "question": "Why does your statement show gas being used rather than sold?",
+      "answer": "In thermal-recovery fields, produced gas is often burned on-site to generate the steam used to pull heavy crude out of the ground, which is normal for these fields and shows up differently on a statement than an open-market gas sale."
+    },
+    {
+      "question": "Your family interest is split many ways — is it still worth selling?",
+      "answer": "Often, yes. Small fractional interests from old multi-generation ownership are frequently better consolidated into a lump sum than held for years of modest checks, especially once title work is sorted out."
+    },
+    {
+      "question": "Will you handle the title research on an old California interest?",
+      "answer": "Yes. We run our own title review as part of putting together an offer, so you don't have to pay a landman out of pocket before you even know what a sale looks like."
+    },
+    {
+      "question": "How do you value a century-old field differently than a new one?",
+      "answer": "A field with this much history gives us a well-established production pattern to work from, so the offer reflects real, long-observed behavior rather than a projection built on limited early data."
+    }
+  ],
+  "status": "written",
+  "wordCount": 855,
+  "image": {
+    "src": "/images/locations/sell-mineral-rights-california.jpg",
+    "alt": "Sell Mineral Rights in California location",
+    "width": 1600,
+    "height": 1000
+  }
+}

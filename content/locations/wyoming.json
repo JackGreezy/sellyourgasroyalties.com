@@ -1,0 +1,76 @@
+{
+  "slug": "wyoming",
+  "title": "Sell Mineral Rights in Wyoming",
+  "type": "state",
+  "group": "Powder River, Green River",
+  "primaryKeyword": "mineral rights wyoming",
+  "seo": {
+    "vol": 210,
+    "cpc": 17.66
+  },
+  "status": "written",
+  "metaTitle": "Sell Mineral Rights in Wyoming | Powder River & Green River",
+  "metaDescription": "Wyoming mineral owner in the Powder River or Green River basin? CBM history and deep tight gas price very differently. Get a county-specific offer.",
+  "heroLead": "Wyoming mineral owners tend to fall into two camps — Powder River basin owners who lived through the coalbed methane boom and its long aftermath, and Green River basin owners sitting on some of the deepest, most technically demanding tight gas wells in the country.",
+  "intro": [
+    "The Powder River basin, spread across Campbell, Converse, and Johnson counties, is famous for its 2000s-era coalbed methane boom, when tens of thousands of shallow CBM wells were drilled across the basin. Most of that activity has since flattened or declined, though Converse County has seen a second act with Niobrara and Mowry oil-and-gas development layered on top of the old CBM footprint, creating a mix of legacy gas interests and newer horizontal-well interests on the same acreage in places. Farther southwest, the Green River basin around Sublette and Sweetwater counties holds the Pinedale and Jonah fields, deep tight-gas formations that require expensive, technically complex completions and have historically ranked among the most productive gas fields in the Rockies.",
+    "We buy across both basins, and we price the CBM legacy interests, the newer Converse County oil-and-gas units, and the deep Green River tight gas tracts each on their own terms rather than one Wyoming formula."
+  ],
+  "sections": [
+    {
+      "heading": "Powder River CBM: the boom that already happened",
+      "paragraphs": [
+        "Coalbed methane wells are shallow and cheap to drill, which is exactly why so many got drilled across Campbell and Johnson counties in a short window in the 2000s. That density means the play matured fast, and most of that acreage today is producing on a long, well-understood decline rather than seeing fresh CBM permits. Water production and disposal costs are also a bigger factor on CBM wells than on conventional gas wells, since CBM requires dewatering the coal seam to release gas, and that cost sometimes shows up netted against your royalty depending on lease terms.",
+        "Value here is almost entirely trailing-production-driven. We don't price legacy Powder River CBM tracts as if new drilling is coming, because for most of the basin, it isn't."
+      ]
+    },
+    {
+      "heading": "Converse County's second act",
+      "paragraphs": [
+        "Converse County sits at the southern edge of the Powder River basin and has seen real Niobrara and Mowry horizontal drilling layered over decades-old CBM production, meaning some owners there hold interests in both an old shallow gas well and a newer deep oil-and-gas unit on the same or overlapping acreage. That's a meaningfully different situation than a straight legacy CBM tract further north, and it's worth confirming which situation applies to you before comparing your offer to a neighbor's."
+      ]
+    },
+    {
+      "heading": "Green River basin: deep, technical, gas-heavy",
+      "paragraphs": [
+        "Pinedale and Jonah field wells in Sublette County are drilled to significant depth through tight sandstone formations that require extensive, expensive completions to produce economically, which historically made this one of the more capital-intensive gas plays in the country even before the more recent shale drilling boom elsewhere. That capital intensity means operators have been selective about where and when they drill, and activity has moved in cycles tied closely to gas price given how expensive it is to bring a well online here.",
+        "Wamsutter field acreage in Sweetwater County runs on a similar tight-gas logic, mature and dense with wells, priced mostly on trailing production given the basin's long production history."
+      ]
+    },
+    {
+      "heading": "What we verify before pricing a Wyoming tract",
+      "paragraphs": [
+        "We pull Wyoming Oil and Gas Conservation Commission production records for your specific well or unit, confirm current operator and status, and check whether newer permits have been filed nearby, since that distinguishes a legacy CBM tract from one with real remaining drilling upside. Wyoming mineral ownership often traces back to large historic ranch and homestead tracts split across heirs over multiple generations, and we're used to working through those fractional ownership situations county by county."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is Powder River basin coalbed methane still being drilled?",
+      "answer": "New CBM drilling has largely stopped across most of the basin, which was drilled heavily in the 2000s. Most legacy CBM interests today are valued on trailing production rather than new-drilling expectation."
+    },
+    {
+      "question": "What's different about Converse County minerals?",
+      "answer": "Converse County has seen newer Niobrara and Mowry horizontal drilling layered over older Powder River CBM production, so some owners hold interests in both a legacy shallow gas well and a newer deep unit on overlapping acreage."
+    },
+    {
+      "question": "Why are Green River basin wells so expensive to drill?",
+      "answer": "Pinedale and Jonah field wells target deep, tight sandstone formations that require extensive completion work to produce economically, historically making this one of the more capital-intensive gas plays in the country."
+    },
+    {
+      "question": "How do water disposal costs affect Wyoming CBM royalty?",
+      "answer": "Coalbed methane production requires dewatering the coal seam, and that water handling cost is sometimes netted against royalty depending on lease terms, which can make CBM net prices run lower than the raw gas value would suggest."
+    },
+    {
+      "question": "Do you buy Wyoming interests split across multiple heirs?",
+      "answer": "Yes, Wyoming mineral ownership frequently traces back to large ranch and homestead tracts divided across generations of heirs, and we regularly work through those fractional interests county by county."
+    }
+  ],
+  "wordCount": 863,
+  "image": {
+    "src": "/images/locations/sell-mineral-rights-wyoming.jpg",
+    "alt": "Replacement Minerals in Wyoming location",
+    "width": 1600,
+    "height": 1000
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "montana",
+  "title": "Sell Mineral Rights in Montana",
+  "type": "state",
+  "group": "Bakken edge, Powder River MT",
+  "primaryKeyword": "mineral rights montana",
+  "seo": {
+    "vol": 210,
+    "cpc": 10.76
+  },
+  "status": "written",
+  "metaTitle": "Sell Mineral Rights in Montana | Gas & Bakken Royalties",
+  "metaDescription": "Own Montana mineral or royalty interest in the Bakken edge or Powder River coalbed methane? Get a cash offer grounded in real county production data.",
+  "heroLead": "Montana mineral owners split into two very different checks: thin Bakken-edge oil royalties along the North Dakota line, and old coalbed-methane gas payments out of the Powder River basin that mostly stopped growing a decade ago.",
+  "intro": [
+    "Sheridan and Roosevelt counties sit on the western edge of the Bakken/Three Forks play, and interests there ride the same oil-driven economics as their North Dakota neighbors, just with fewer wells per section and slower permitting. Further south, Powder River County and the Ashland area carry a different story: coalbed methane gas wells drilled mostly in the 2000s, shallow, cheap to produce, and largely flat or declining now. Both are real production, both throw a courthouse-recorded royalty deed or lease, and both are worth pricing correctly rather than guessing.",
+    "We buy Montana mineral and royalty interests in both plays. What we pay depends on which county you're in, whether your tract is held by production or sitting fallow, and what your last four to eight royalty checks actually show — not on a statewide average that ignores the difference between a Bakken-edge unit and a legacy CBM well."
+  ],
+  "sections": [
+    {
+      "heading": "Bakken edge vs. Powder River gas — two different assets",
+      "paragraphs": [
+        "A mineral owner in Sheridan or Roosevelt county is really holding an oil interest with associated gas riding along, same as core Bakken counties in North Dakota, just thinner pay and lighter drilling density. A mineral owner in the Powder River basin around Broadus or Colstrip is holding a gas interest first, and the gas is coalbed methane — produced with water, priced against a regional hub rather than Henry Hub, and generally on decline curves that flattened years ago rather than climbing.",
+        "That distinction changes how we value the tract. Bakken-edge interests get priced against nearby permit activity and offset well performance. Powder River CBM interests get priced against trailing production history, because there's rarely a drilling catalyst left to bet on — what you see on the check today is close to what you'll keep seeing, absent a workover or recompletion."
+      ]
+    },
+    {
+      "heading": "Reading a Montana gas royalty statement",
+      "paragraphs": [
+        "Montana operators deduct gathering, compression, and dehydration costs before they cut your check, and those deductions show up as separate line items or get netted straight out of the price — read both. On coalbed methane wells specifically, water handling costs can eat a real share of the gross value, since produced water has to be trucked or piped and disposed of, and that cost sometimes gets passed through to royalty owners depending on how the lease was written decades ago.",
+        "If your statement shows a price per mcf well under whatever the regional index was posting that month, ask why — it's usually gathering and compression, but it's worth confirming rather than assuming."
+      ]
+    },
+    {
+      "heading": "What we check before we make an offer",
+      "paragraphs": [
+        "We pull the Montana Board of Oil and Gas Conservation production records for your unit, confirm the operator and well status, and cross-reference recent permits in the section and surrounding sections. For older Powder River CBM interests, we also check whether the well has been shut in or plugged, since a plugged well changes the interest from producing to non-producing overnight.",
+        "We'll ask for your last handful of division order statements if you have them. If you don't, we can usually still work from county and state production records, though a real statement always gets you a tighter number faster."
+      ]
+    },
+    {
+      "heading": "Heirship and old family tracts",
+      "paragraphs": [
+        "A lot of Montana mineral acreage traces back to homestead-era severances, and it's common for a single 160-acre tract to now sit divided among a dozen or more heirs after two or three generations, each holding a fractional interest too small to matter much on its own. If that's your situation, we can work directly with co-owners or with whoever's named on the most recent deed, and we'll walk you through what documentation the county clerk and recorder will want before closing."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is Powder River basin coalbed methane still worth anything?",
+      "answer": "Yes, though values run lower than oil-weighted Bakken interests because the wells are older and mostly flat. Value depends on current production, not on hope for new drilling — most of that basin isn't seeing fresh CBM permits."
+    },
+    {
+      "question": "How do you know if your Montana interest is Bakken or Powder River basin?",
+      "answer": "Check the county on your deed. Sheridan, Roosevelt, and Richland counties sit on the Bakken/Three Forks trend. Powder River, Custer, and Rosebud counties are Powder River basin gas country."
+    },
+    {
+      "question": "Do you buy non-producing Montana minerals?",
+      "answer": "We'll look at them, but pricing is speculative without production history, and offers run lower than for a tract with an active well and a check trail behind it."
+    },
+    {
+      "question": "What paperwork does Montana require to transfer mineral rights?",
+      "answer": "A recorded mineral deed filed with the county clerk and recorder where the land sits, plus a clean chain of title back to your source deed. If heirs are involved, expect to need probate or affidavit-of-heirship documents depending on how the prior owner's estate was handled."
+    },
+    {
+      "question": "Why is your Montana gas check smaller than a neighbor's oil check?",
+      "answer": "Gas is priced per mcf against a regional index that runs well under oil's per-barrel value on an energy-equivalent basis, and coalbed methane specifically carries added water-handling deductions that oil wells don't."
+    }
+  ],
+  "wordCount": 911,
+  "image": {
+    "src": "/images/locations/sell-mineral-rights-montana.jpg",
+    "alt": "Replacement Minerals in Montana location",
+    "width": 1600,
+    "height": 1000
+  }
+}

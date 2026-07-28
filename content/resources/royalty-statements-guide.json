@@ -1,0 +1,72 @@
+{
+  "slug": "royalty-statements-guide",
+  "title": "Reading Your Royalty Statements",
+  "type": "resource",
+  "status": "written",
+  "metaTitle": "How to Read a Gas Royalty Statement",
+  "metaDescription": "Volume, price, deductions, NGLs, BTU adjustment - a line-by-line walk through your gas royalty check stub, from a working landman.",
+  "heroLead": "Most owners look at the net check and skip the rest. The rest is where the operator tells you exactly how they got there.",
+  "intro": [
+    "A gas royalty statement is a receipt with an argument built into it. Somewhere between the wellhead and your mailbox, the operator sold the gas, sold whatever liquids came off with it, subtracted a list of costs, and printed you a number. If you can't walk through each line and explain it, you can't tell a normal month from a bad one - and you definitely can't tell a fair purchase offer from a lowball one.",
+    "This is the guide the gas royalty desk hand a seller before we talk numbers. Bring three consecutive statements to that conversation. One month tells you nothing; three tells you the trend."
+  ],
+  "sections": [
+    {
+      "heading": "Volume and the MCF line",
+      "paragraphs": [
+        "The volume line reports your share of gas sold in MCF (thousand cubic feet) or sometimes MMBTU, which adjusts for the heat content of the gas rather than raw volume. A field with rich, wet gas will show a gap between MCF sold and MMBTU paid - that gap is the BTU adjustment, and it usually works in your favor since heavier gas carries more energy per unit.",
+        "Watch this line month over month more than any other. A gas well's volume curve is steep early and flattens over years; a sudden drop outside that normal decline pattern means a workover, a downtime event, or a shut-in - worth a call to the operator, not a guess."
+      ]
+    },
+    {
+      "heading": "Price - and why it's never the headline number",
+      "paragraphs": [
+        "Your price per MCF will not match the Henry Hub quote you saw on the news. Gas is priced at a regional hub or at the wellhead, and it trades at a differential to Henry Hub - sometimes a few cents under, sometimes wider depending on pipeline capacity and basin congestion. That differential is legitimate; it's the cost of getting gas from a rural wellhead to a liquid market.",
+        "What's worth checking is whether that differential holds steady month to month or drifts wider without explanation. A differential that quietly widens over a year, with no pipeline or basin news to explain it, is the kind of thing a buyer's due diligence catches - and worth asking your operator about directly."
+      ]
+    },
+    {
+      "heading": "NGLs and the second product line",
+      "paragraphs": [
+        "If your gas is liquids-rich, look for a separate NGL (natural gas liquids) line - ethane, propane, butane, and condensate stripped out at a processing plant and sold on their own markets. Some statements roll NGL revenue into the gas line; others break it out. Either way, NGL prices move somewhat independently of gas prices, which is one reason a liquids-rich well can hold its royalty value better through a weak gas-price stretch than a dry-gas well does.",
+        "This is also where processing deductions tend to be heaviest, since stripping and fractionating liquids costs more than simply gathering dry gas. A statement with strong NGL revenue but thin net pay is worth a closer read of the deduction column before you assume the well is underperforming."
+      ]
+    },
+    {
+      "heading": "Deductions - post-production costs, named honestly",
+      "paragraphs": [
+        "Gathering, compression, dehydration, processing, and transportation - these are the standard post-production deduction categories, and depending on your lease language they may be charged against your royalty before the net check is cut. Some older leases were written with royalty clauses that limit or prohibit certain deductions; most modern leases allow them. Whether yours does is a lease-language question, not a statement-reading question, but the statement is where you see the dollar effect.",
+        "A rising deduction line with flat volume is common in gas - processing and gathering rates get renegotiated, or the gas gets routed through a more expensive system as fields age. It's not automatically a red flag. It becomes worth questioning when deductions climb as a percentage of gross revenue over several statements in a row with no operational reason given."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why does your price per MCF look lower than the news price?",
+      "answer": "The news quote is usually Henry Hub, a national benchmark. Your gas sells at a regional hub or the wellhead, priced at a differential to Henry Hub that reflects transport and basin conditions. A modest, consistent differential is normal."
+    },
+    {
+      "question": "Your check dropped by half - is something wrong?",
+      "answer": "Check volume first, then price. Gas wells decline steeply in year one or two, and gas prices swing seasonally and year to year. Line up three statements before assuming an error - a genuine mistake usually shows up as a one-month anomaly, not a trend."
+    },
+    {
+      "question": "Can you dispute a deduction you do not think is allowed under your lease?",
+      "answer": "Yes, and the lease language controls that, not the statement. Pull your original lease and any amendments, find the royalty clause, and compare it against what's being charged. That comparison is worth doing before you sell, since it affects what a buyer will pay too."
+    },
+    {
+      "question": "Does understanding your statement change what your minerals are worth?",
+      "answer": "It changes what a fair offer looks like. Buyers price against recent royalty history - clean volume, honest deductions, and a stable differential support a stronger number than a statement nobody has looked at closely."
+    },
+    {
+      "question": "Do you need statements from every well if you own multiple tracts?",
+      "answer": "Bring what you have. Multiple wells or units on the same mineral tract each carry their own volume, price, and deduction pattern - lumping them together hides which interest is actually carrying the value."
+    }
+  ],
+  "wordCount": 934,
+  "image": {
+    "src": "/images/resources/mineral-rights-resources-royalty-statements-guide-sellyourgasroyalties-com.jpg",
+    "alt": "Reading Your Royalty Statements mineral rights",
+    "width": 1600,
+    "height": 1000
+  }
+}
