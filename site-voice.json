@@ -291,5 +291,13 @@
         "A family considering {name} should understand what happens if the exchange proceeds, changes, or does not occur. The purchase agreement, deed, title schedule, settlement statement, revenue allocation, and funding conditions still need to function as a mineral sale. The documents should not create ambiguity about whether the buyer must close, what interest transfers, or when revenue changes hands merely because the owner's separate tax plan changes. A written fallback should address notices, intermediary involvement, direct payment instructions, timing extensions, and any costs caused by a restructuring request. That allows the mineral transaction to remain understandable while the owner and professional advisers control the exchange decision."
       ]
     ]
+  },
+  "slug_ui": {
+    "related_kicker": "Netback ledger",
+    "related_heading": "Move to the next line of the gas ledger",
+    "related_intro": "Carry the title, decimal, well, netback, deductions, transfer, and offer evidence from {item} into these connected gas-royalty reviews.",
+    "related_action": "Open the Gas Royalty Ledger",
+    "faq_kicker": "Appalachian gas file",
+    "faq_intro": "Each answer helps reconcile the paid gas stream with the well, product, price, deduction, decimal, and transfer record behind it."
   }
 }
