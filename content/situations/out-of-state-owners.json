@@ -1,81 +1,81 @@
 {
-  "slug": "out-of-state-owners",
-  "title": "Out-of-State Owners",
-  "type": "situation",
-  "note": "absentee owners managing from afar",
-  "metaTitle": "Selling Gas Royalties When You Live Out of State",
-  "metaDescription": "Owning a gas royalty in a county you've never visited makes tracking deductions, price swings, and paperwork harder. See how out-of-state owners sell fast.",
-  "heroLead": "The gas well is in one state, you're in another, and the operator's statement arrives with deduction line items nobody local can walk you through.",
-  "intro": [
-    "A lot of mineral owners live nowhere near their interest. The family moved away two generations ago, the land got passed down, and now you're managing a gas royalty in a county you've maybe visited once, dealing with an operator's office that's a long drive or a different time zone away. That distance makes ordinary ownership tasks, checking a division order, verifying a deduction line, following up on a stalled title issue, harder than they'd be for someone local.",
-    "This page is for owners managing a gas interest from out of state, covering what makes that harder and how a sale removes the distance problem entirely."
-  ],
-  "sections": [
-    {
-      "heading": "What Distance Actually Costs You",
-      "paragraphs": [
-        "Being out of state doesn't reduce your ownership, but it does slow down everything that requires local knowledge: confirming a courthouse filing, meeting a landman face to face, or catching a deduction that looks off compared to a neighbor's check. Operators aren't hiding anything by mailing a statement instead of calling, but if you're not local enough to compare notes with other owners in the field, it's easy to miss when your gathering or compression charges creep up relative to what similar wells nearby are being charged.",
-        "Gas price differentials compound this. Appalachian and Rockies gas often trades at a discount to national benchmarks because of regional pipeline capacity, and that discount varies by exact location. An owner living in the county has a feel for what's normal locally. An owner three states away is working from the statement alone, with nothing to compare it against."
-      ]
-    },
-    {
-      "heading": "Paperwork That Piles Up From a Distance",
-      "paragraphs": [
-        "Division order updates, 1099 forms at tax time, lease amendment requests, occasional title curative work if an heir needs to sign something, all of it lands in your mailbox regardless of how far you are from the well. Missing a deadline on a division order update or a title curative document can delay payments for months, and it's a lot easier to miss when the request doesn't feel urgent from a distance.",
-        "Some out-of-state owners hire a local landman or attorney just to keep an eye on things, which is a reasonable approach if you're planning to hold the interest long term. It's also an ongoing cost that eats into whatever the royalty is paying out, and it only makes sense if the well has enough remaining life to justify it. On a well far past its early, high-volume years, that cost can outweigh what's left to protect."
-      ]
-    },
-    {
-      "heading": "Selling Closes the Distance Problem for Good",
-      "paragraphs": [
-        "A sale converts an asset that requires ongoing, distance-hampered attention into a single transaction you never have to think about again. No more statements to review, no more division order updates to track, no more wondering whether a deduction line changed for a legitimate operational reason or something worth questioning.",
-        "We handle the entire process remotely. Documents can be reviewed, signed, and notarized without you traveling anywhere, and closing funds move electronically. Distance from the property is not an obstacle on our end; it's the exact situation we're set up to handle."
-      ]
-    },
-    {
-      "heading": "What We'll Need From You",
-      "paragraphs": [
-        "A copy of your deed or most recent division order and a couple of recent check stubs get us started. If you're not sure where those documents are, we can often locate the operator and pull current ownership records ourselves, which is frequently faster than an out-of-state owner navigating an unfamiliar operator's owner-relations line.",
-        "We'll walk you through exactly what the offer is based on before you sign anything, so you understand the number rather than just taking it on faith from three states away."
-      ]
-    }
-  ],
-  "faqs": [
-    {
-      "question": "Do you have to travel to close the sale?",
-      "answer": "No. Closing documents are handled by mail or electronically, with notarization available remotely in most states."
-    },
-    {
-      "question": "If you have lost track of exactly what county the minerals are in. Can you help find that?",
-      "answer": "Yes, if you have an old deed, a check stub, or even just the operator's name, we can usually trace the interest back to its location."
-    },
-    {
-      "question": "How do you know if the deductions on your statement are normal for the area?",
-      "answer": "We can compare your statement against typical gathering, compression, and transportation charges for wells in that specific play, since deduction levels vary meaningfully by basin."
-    },
-    {
-      "question": "Is there a tax difference for out-of-state sellers?",
-      "answer": "Mineral sales can trigger tax obligations in the state where the property sits, separate from your home state. Talk to your CPA about how that applies to your situation."
-    },
-    {
-      "question": "What if there are multiple out-of-state heirs who all inherited a share?",
-      "answer": "We regularly coordinate closings across heirs living in different states, handling each person's paperwork separately so no one has to travel to meet the others."
-    },
-    {
-      "question": "Can you verify the well is actually still producing before you sell?",
-      "answer": "Yes, we pull current production and check data directly from the operator's records rather than relying on your last statement alone, since a distant owner's most recent stub may already be a few months stale by the time it reaches you."
-    },
-    {
-      "question": "Should you get someone local to walk the property before you sell mineral rights?",
-      "answer": "Not usually necessary for a mineral or royalty sale, since you're not conveying surface access. If your deed also involves surface acreage, that's a different conversation worth having with us directly."
-    }
-  ],
-  "status": "written",
-  "wordCount": 938,
-  "image": {
-    "src": "/images/situations/mineral-rights-situations-out-of-state-owners-sellyourgasroyalties-com.jpg",
-    "alt": "Out-of-State Owners mineral rights",
-    "width": 1600,
-    "height": 1000
+ "slug": "out-of-state-owners",
+ "title": "Out-of-State Owners",
+ "type": "situation",
+ "note": "absentee owners managing from afar",
+ "metaTitle": "Selling Gas Royalties When You Live Out of State",
+ "metaDescription": "Owning a gas royalty in a county you've never visited makes tracking deductions, price swings, and paperwork harder. See how out-of-state owners sell fast.",
+ "heroLead": "The gas well is in one state, you're in another, and the operator's statement arrives with deduction line items nobody local can walk you through.",
+ "intro": [
+  "A lot of mineral owners live nowhere near their interest. The family moved away two generations ago, the land got passed down, and now you're managing a gas royalty in a county you've maybe visited once, dealing with an operator's office that's a long drive or a different time zone away. That distance makes ordinary ownership tasks, checking a division order, verifying a deduction line, following up on a stalled title issue, harder than they'd be for someone local.",
+  "This page is for owners managing a gas interest from out of state, covering what makes that harder and how a sale removes the distance problem entirely."
+ ],
+ "sections": [
+  {
+   "heading": "What Distance Actually Costs You",
+   "paragraphs": [
+    "Being out of state doesn't reduce your ownership, but it does slow down everything that requires local knowledge: confirming a courthouse filing, meeting a landman face to face, or catching a deduction that looks off compared to a neighbor's check. Operators aren't hiding anything by mailing a statement instead of calling, but if you're not local enough to compare notes with other owners in the field, it's easy to miss when your gathering or compression charges creep up relative to what similar wells nearby are being charged.",
+    "Gas price differentials compound this. Appalachian and Rockies gas often trades at a discount to national benchmarks because of regional pipeline capacity, and that discount varies by exact location. An owner living in the county has a feel for what's normal locally. An owner three states away is working from the statement alone, with nothing to compare it against."
+   ]
+  },
+  {
+   "heading": "Paperwork That Piles Up From a Distance",
+   "paragraphs": [
+    "Division order updates, 1099 forms at tax time, lease amendment requests, occasional title curative work if an heir needs to sign something, all of it lands in your mailbox regardless of how far you are from the well. Missing a deadline on a division order update or a title curative document can delay payments for months, and it's a lot easier to miss when the request doesn't feel urgent from a distance.",
+    "Some out-of-state owners hire a local landman or attorney just to keep an eye on things, which is a reasonable approach if you're planning to hold the interest long term. It's also an ongoing cost that eats into whatever the royalty is paying out, and it only makes sense if the well has enough remaining life to justify it. On a well far past its early, high-volume years, that cost can outweigh what's left to protect."
+   ]
+  },
+  {
+   "heading": "Selling Closes the Distance Problem for Good",
+   "paragraphs": [
+    "A sale converts an asset that requires ongoing, distance-hampered attention into a single transaction you never have to think about again. No more statements to review, no more division order updates to track, no more wondering whether a deduction line changed for a legitimate operational reason or something worth questioning.",
+    "We handle the entire process remotely. Documents can be reviewed, signed, and notarized without you traveling anywhere, and closing funds move electronically. Distance from the property is not an obstacle on our end; it's the exact situation we're set up to handle."
+   ]
+  },
+  {
+   "heading": "What We'll Need From You",
+   "paragraphs": [
+    "A copy of your deed or most recent division order and a couple of recent check stubs get us started. If you're not sure where those documents are, we can often locate the operator and pull current ownership records ourselves, which is frequently faster than an out-of-state owner navigating an unfamiliar operator's owner-relations line.",
+    "We'll walk you through exactly what the offer is based on before you sign anything, so you understand the number rather than just taking it on faith from three states away."
+   ]
   }
+ ],
+ "faqs": [
+  {
+   "question": "Do you have to travel to close the sale?",
+   "answer": "No. Closing documents are handled by mail or electronically, with notarization available remotely in most states."
+  },
+  {
+   "question": "If you have lost track of exactly what county the minerals are in. Can you help find that?",
+   "answer": "Yes, if you have an old deed, a check stub, or even just the operator's name, we can usually trace the interest back to its location."
+  },
+  {
+   "question": "How do you know if the deductions on your statement are normal for the area?",
+   "answer": "We can compare your statement against typical gathering, compression, and transportation charges for wells in that specific play, since deduction levels vary meaningfully by basin."
+  },
+  {
+   "question": "Is there a tax difference for out-of-state sellers?",
+   "answer": "Mineral sales can trigger tax obligations in the state where the property sits, separate from your home state. Talk to your CPA about how that applies to your situation."
+  },
+  {
+   "question": "What if there are multiple out-of-state heirs who all inherited a share?",
+   "answer": "We regularly coordinate closings across heirs living in different states, handling each person's paperwork separately so no one has to travel to meet the others."
+  },
+  {
+   "question": "Can you verify the well is actually still producing before you sell?",
+   "answer": "Yes, we pull current production and check data directly from the operator's records rather than relying on your last statement alone, since a distant owner's most recent stub may already be a few months stale by the time it reaches you."
+  },
+  {
+   "question": "Should you get someone local to walk the property before you sell mineral rights?",
+   "answer": "Not usually necessary for a mineral or royalty sale, since you're not conveying surface access. If your deed also involves surface acreage, that's a different conversation worth having with us directly."
+  }
+ ],
+ "status": "written",
+ "wordCount": 938,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-out-of-state-owners-sellyourgasroyalties-com.jpg",
+  "alt": "Out-of-State Owners mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
 }

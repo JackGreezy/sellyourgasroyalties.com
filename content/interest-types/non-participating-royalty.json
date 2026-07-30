@@ -1,72 +1,72 @@
 {
-  "slug": "non-participating-royalty",
-  "title": "Non-Participating Royalty (NPRI)",
-  "type": "interest-type",
-  "metaTitle": "NPRI Gas Royalties: No Lease Say, Still Full Deductions",
-  "metaDescription": "An NPRI owner collects a gas royalty share but has no vote on leasing terms. See how that affects deductions, bonus, and what the interest is worth to sell.",
-  "heroLead": "An NPRI owner gets a royalty check without ever being consulted on the lease that created it, which is exactly why deduction terms matter so much more here.",
-  "intro": [
-    "A non-participating royalty interest, NPRI, is a royalty carved out of the mineral estate that carries the right to production revenue but none of the rights that go with owning the minerals themselves: no vote on leasing, no bonus payment when a new lease is signed, no say in pooling or unit designation. Someone else, the mineral owner who created or retains the NPRI, negotiates the lease. You simply receive your stated royalty share once gas is produced and sold.",
-    "That passive position is exactly why understanding the lease terms someone else negotiated on your behalf matters so much for a gas NPRI, since those terms, particularly around deductions, determine what actually reaches your check."
-  ],
-  "sections": [
-    {
-      "heading": "What You Don't Get With an NPRI",
-      "paragraphs": [
-        "Because an NPRI is stripped of executive rights, you have no ability to negotiate the royalty fraction, the deduction language, or any other lease term. Someone else already agreed to those terms, potentially years before you acquired or inherited the NPRI, and you're bound by whatever they signed. If that lease allows full deduction of post-production costs, gathering, compression, dehydration, transportation, your check reflects that regardless of how you might have negotiated it yourself.",
-        "You also typically don't receive a bonus or delay rental when a new lease is signed on the underlying minerals; those payments go to whoever holds the executive rights. Your NPRI only produces income once a well is actually producing and selling gas."
-      ]
-    },
-    {
-      "heading": "How Your Royalty Fraction Was Set",
-      "paragraphs": [
-        "Your specific NPRI fraction, commonly something like 1/16th or 1/32nd, was set in the instrument that created it, usually a deed reservation or grant, and stays fixed at that fraction regardless of what royalty rate the mineral owner later negotiates in a new lease, unless your NPRI document specifically ties itself to the lease's actual royalty rate rather than a fixed fraction. Reading your specific NPRI language matters here, since \"fixed\" and \"floating\" NPRIs behave very differently if the underlying lease changes.",
-        "A floating NPRI, tied to whatever royalty the lease specifies, benefits if a new, more favorable lease gets signed later. A fixed NPRI stays at its stated fraction no matter what. Knowing which type you hold changes how you should think about the interest's long-term value."
-      ]
-    },
-    {
-      "heading": "Deduction Exposure Deserves Extra Scrutiny",
-      "paragraphs": [
-        "Because you had no input into the lease, and because gas royalties carry meaningful post-production cost deductions in most basins, an NPRI owner should look closely at check statements to confirm deductions are being calculated correctly against the fraction you actually hold. Errors in NPRI payment calculation happen, sometimes an operator pays against the wrong decimal interest or applies deductions inconsistently with the governing lease language.",
-        "If your statement seems off relative to what your NPRI instrument states, that's worth raising with the operator directly, and worth having a landman or attorney review if the discrepancy is significant."
-      ]
-    },
-    {
-      "heading": "Selling an NPRI",
-      "paragraphs": [
-        "An NPRI can be sold or transferred independent of the underlying mineral estate, since it's its own severed interest. Valuing it works similarly to a standard royalty, based on production history, decline stage, and the applicable gas price differential, with one added step: confirming whether your NPRI is fixed or floating and whether it applies to the current producing lease or would need to attach to a future one.",
-        "We'll pull the instrument that created your NPRI along with current division order data before pricing an offer, since the fixed-versus-floating distinction and the governing deduction language both materially affect what the interest is worth."
-      ]
-    }
-  ],
-  "faqs": [
-    {
-      "question": "Do you get paid a bonus if a new lease is signed on the property?",
-      "answer": "No, bonus and delay rental payments go to whoever holds executive rights, not to the NPRI holder. Your NPRI only pays once production and sales occur."
-    },
-    {
-      "question": "How do you know if your NPRI is fixed or floating?",
-      "answer": "Check the language in the deed or instrument that created it. Fixed NPRIs state a specific fraction; floating NPRIs reference the lease's actual royalty rate, whatever it happens to be."
-    },
-    {
-      "question": "Can the mineral owner sign a lease with terms that hurt your NPRI without asking you?",
-      "answer": "In most states, yes, since executive rights holders generally owe NPRI owners a duty of good faith but aren't required to obtain consent on specific terms. State law varies, so consult an attorney if you have concerns about a specific lease."
-    },
-    {
-      "question": "Is an NPRI worth less than a full royalty interest?",
-      "answer": "Not necessarily less valuable per the same fraction, but it carries less control, since you can't influence future leasing decisions. We price NPRIs based on actual production data, same as any royalty."
-    },
-    {
-      "question": "What documents do you need to buy your NPRI?",
-      "answer": "The instrument that created the NPRI, current division order or check stubs, and confirmation of whether it's fixed or floating relative to the producing lease."
-    }
-  ],
-  "status": "written",
-  "wordCount": 864,
-  "image": {
-    "src": "/images/interest-types/mineral-rights-interest-types-non-participating-royalty-sellyourgasroyalties-com.jpg",
-    "alt": "Non-Participating Royalty (NPRI) mineral rights",
-    "width": 1600,
-    "height": 1000
+ "slug": "non-participating-royalty",
+ "title": "Non-Participating Royalty (NPRI)",
+ "type": "interest-type",
+ "metaTitle": "NPRI Gas Royalties: No Lease Say, Still Full Deductions",
+ "metaDescription": "An NPRI owner collects a gas royalty share but has no vote on leasing terms. See how that affects deductions, bonus, and what the interest is worth to sell.",
+ "heroLead": "An NPRI owner gets a royalty check without ever being consulted on the lease that created it, which is exactly why deduction terms matter so much more here.",
+ "intro": [
+  "A non-participating royalty interest, NPRI, is a royalty carved out of the mineral estate that carries the right to production revenue but none of the rights that go with owning the minerals themselves: no vote on leasing, no bonus payment when a new lease is signed, no say in pooling or unit designation. Someone else, the mineral owner who created or retains the NPRI, negotiates the lease. You simply receive your stated royalty share once gas is produced and sold.",
+  "That passive position is exactly why understanding the lease terms someone else negotiated on your behalf matters so much for a gas NPRI, since those terms, particularly around deductions, determine what actually reaches your check."
+ ],
+ "sections": [
+  {
+   "heading": "What You Don't Get With an NPRI",
+   "paragraphs": [
+    "Because an NPRI is stripped of executive rights, you have no ability to negotiate the royalty fraction, the deduction language, or any other lease term. Someone else already agreed to those terms, potentially years before you acquired or inherited the NPRI, and you're bound by whatever they signed. If that lease allows full deduction of post-production costs, gathering, compression, dehydration, transportation, your check reflects that regardless of how you might have negotiated it yourself.",
+    "You also typically don't receive a bonus or delay rental when a new lease is signed on the underlying minerals; those payments go to whoever holds the executive rights. Your NPRI only produces income once a well is actually producing and selling gas."
+   ]
+  },
+  {
+   "heading": "How Your Royalty Fraction Was Set",
+   "paragraphs": [
+    "Your specific NPRI fraction, commonly something like 1/16th or 1/32nd, was set in the instrument that created it, usually a deed reservation or grant, and stays fixed at that fraction regardless of what royalty rate the mineral owner later negotiates in a new lease, unless your NPRI document specifically ties itself to the lease's actual royalty rate rather than a fixed fraction. Reading your specific NPRI language matters here, since \"fixed\" and \"floating\" NPRIs behave very differently if the underlying lease changes.",
+    "A floating NPRI, tied to whatever royalty the lease specifies, benefits if a new, more favorable lease gets signed later. A fixed NPRI stays at its stated fraction no matter what. Knowing which type you hold changes how you should think about the interest's long-term value."
+   ]
+  },
+  {
+   "heading": "Deduction Exposure Deserves Extra Scrutiny",
+   "paragraphs": [
+    "Because you had no input into the lease, and because gas royalties carry meaningful post-production cost deductions in most basins, an NPRI owner should look closely at check statements to confirm deductions are being calculated correctly against the fraction you actually hold. Errors in NPRI payment calculation happen, sometimes an operator pays against the wrong decimal interest or applies deductions inconsistently with the governing lease language.",
+    "If your statement seems off relative to what your NPRI instrument states, that's worth raising with the operator directly, and worth having a landman or attorney review if the discrepancy is significant."
+   ]
+  },
+  {
+   "heading": "Selling an NPRI",
+   "paragraphs": [
+    "An NPRI can be sold or transferred independent of the underlying mineral estate, since it's its own severed interest. Valuing it works similarly to a standard royalty, based on production history, decline stage, and the applicable gas price differential, with one added step: confirming whether your NPRI is fixed or floating and whether it applies to the current producing lease or would need to attach to a future one.",
+    "We'll pull the instrument that created your NPRI along with current division order data before pricing an offer, since the fixed-versus-floating distinction and the governing deduction language both materially affect what the interest is worth."
+   ]
   }
+ ],
+ "faqs": [
+  {
+   "question": "Do you get paid a bonus if a new lease is signed on the property?",
+   "answer": "No, bonus and delay rental payments go to whoever holds executive rights, not to the NPRI holder. Your NPRI only pays once production and sales occur."
+  },
+  {
+   "question": "How do you know if your NPRI is fixed or floating?",
+   "answer": "Check the language in the deed or instrument that created it. Fixed NPRIs state a specific fraction; floating NPRIs reference the lease's actual royalty rate, whatever it happens to be."
+  },
+  {
+   "question": "Can the mineral owner sign a lease with terms that hurt your NPRI without asking you?",
+   "answer": "In most states, yes, since executive rights holders generally owe NPRI owners a duty of good faith but aren't required to obtain consent on specific terms. State law varies, so consult an attorney if you have concerns about a specific lease."
+  },
+  {
+   "question": "Is an NPRI worth less than a full royalty interest?",
+   "answer": "Not necessarily less valuable per the same fraction, but it carries less control, since you can't influence future leasing decisions. We price NPRIs based on actual production data, same as any royalty."
+  },
+  {
+   "question": "What documents do you need to buy your NPRI?",
+   "answer": "The instrument that created the NPRI, current division order or check stubs, and confirmation of whether it's fixed or floating relative to the producing lease."
+  }
+ ],
+ "status": "written",
+ "wordCount": 864,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-non-participating-royalty-sellyourgasroyalties-com.jpg",
+  "alt": "Non-Participating Royalty (NPRI) mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
 }

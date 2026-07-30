@@ -1,68 +1,68 @@
 {
-  "slug": "division-orders-explained",
-  "title": "Division Orders Explained",
-  "type": "resource",
-  "status": "written",
-  "metaTitle": "Division Orders Explained for Gas Owners",
-  "metaDescription": "What a division order actually is, why the decimal on it matters more than anything else, and when to sign versus when to call a landman first.",
-  "heroLead": "A division order is the operator's math homework - your job is to check it, not simply sign it.",
-  "intro": [
-    "The first time an operator sends a division order, most owners treat it like paperwork that comes with the territory - fill in the tax ID, sign, mail it back, get paid. That's usually fine. It's the times it isn't fine that cost people money for years, because a division order records the decimal interest the operator will pay you against, and that number sits on file until somebody catches an error.",
-    "A division order is not a deed and it doesn't transfer title. It's a payment instruction. But it's the payment instruction that determines your monthly check, so it's worth five minutes of real attention before it goes back in the mail."
-  ],
-  "sections": [
-    {
-      "heading": "What the decimal actually represents",
-      "paragraphs": [
-        "The decimal interest on a division order is your net revenue interest in the well - your royalty fraction multiplied by your share of the mineral tract, adjusted for the well's spacing unit if the tract is pooled. It's a small number, often five or six digits after the decimal, and it's easy to eyeball and move on. Don't. That decimal is what your check gets multiplied against every single month.",
-        "If you own a fractional interest inherited through a family tract, or your mineral acreage sits partly inside and partly outside the well's spacing unit, the math behind that decimal gets genuinely complicated. The operator's title team builds it from the courthouse record, and courthouse records have gaps - missed heirs, unrecorded assignments, old severances nobody re-indexed."
-      ]
-    },
-    {
-      "heading": "Checking it against what you actually own",
-      "paragraphs": [
-        "Pull your deed, or your most recent royalty statement if you already have one on a nearby well, and compare the decimal on the division order to what you'd expect given your recorded mineral acreage and lease royalty rate. If the well is pooled - most horizontal gas wells are - your share gets diluted across the whole unit, so the number will be smaller than your straight ownership percentage, and that's normal, not an error.",
-        "What's worth a call is a decimal that doesn't move at all when you know the unit size changed, or one that's noticeably smaller than a sibling or co-owner's decimal on the same tract with a comparable share. Division order analysts fix errors routinely - it's a normal part of the process, not an accusation, when you ask them to walk you through the calculation."
-      ]
-    },
-    {
-      "heading": "Signing, holding, or pushing back",
-      "paragraphs": [
-        "Signing a division order that looks right gets your payments started or keeps them current - most operators will hold payments in suspense until it's returned, so unreasonable delay costs you the interest-free use of your own money. If something looks off, you can request a corrected division order before signing; operators expect this and have a process for it.",
-        "In some states a division order can carry language you should read carefully, particularly around release of claims for prior periods - it's not usually a problem, but it's the one clause worth reading twice rather than skimming past on your way to the signature line."
-      ]
-    },
-    {
-      "heading": "How this connects to selling",
-      "paragraphs": [
-        "A buyer evaluating your minerals will want to see the division order alongside your statements, because the decimal interest confirms what the statements are actually paying against. A clean, verified division order that matches your title makes for a faster, cleaner purchase process - a disputed or unresolved one is one of the first things that slows a deal down while title gets sorted out.",
-        "If you own interests across several wells on the same tract, expect a separate division order for each one, since spacing units and pooled acreage rarely line up identically well to well. Keeping them together in one file, alongside the statements they correspond to, saves real time whenever a sale conversation starts."
-      ]
-    }
-  ],
-  "faqs": [
-    {
-      "question": "Do you have to sign a division order to keep getting paid?",
-      "answer": "Most operators will suspend payment until a division order is signed and returned, so delaying it delays your check. If the decimal looks wrong, contact the operator's division order department before signing rather than after."
-    },
-    {
-      "question": "What if your decimal interest changes after you already sold part of your minerals?",
-      "answer": "A new division order should follow any change in ownership, including a partial sale. Confirm the operator has your updated deed on file - courthouse recording alone doesn't always update their internal records automatically."
-    },
-    {
-      "question": "Is a division order the same thing as a deed?",
-      "answer": "No. A deed transfers title to the minerals; a division order just instructs the operator on how to split payment. Signing one doesn't sell or transfer anything - it only sets up how you get paid."
-    },
-    {
-      "question": "Can a division order decimal be wrong even years after it was set?",
-      "answer": "Yes. Errors can sit unnoticed for years, especially on tracts with complicated heirship. Comparing the decimal to your recorded acreage and lease terms periodically, and any time a new well is drilled nearby, is worth the time."
-    }
-  ],
-  "wordCount": 870,
-  "image": {
-    "src": "/images/resources/mineral-rights-resources-division-orders-explained-sellyourgasroyalties-com.jpg",
-    "alt": "Division Orders Explained mineral rights",
-    "width": 1600,
-    "height": 1000
+ "slug": "division-orders-explained",
+ "title": "Division Orders Explained",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Division Orders Explained for Gas Owners",
+ "metaDescription": "What a division order actually is, why the decimal on it matters more than anything else, and when to sign versus when to call a landman first.",
+ "heroLead": "A division order is the operator's math homework - your job is to check it, not simply sign it.",
+ "intro": [
+  "The first time an operator sends a division order, most owners treat it like paperwork that comes with the territory - fill in the tax ID, sign, mail it back, get paid. That's usually fine. It's the times it isn't fine that cost people money for years, because a division order records the decimal interest the operator will pay you against, and that number sits on file until somebody catches an error.",
+  "A division order is not a deed and it doesn't transfer title. It's a payment instruction. But it's the payment instruction that determines your monthly check, so it's worth five minutes of real attention before it goes back in the mail."
+ ],
+ "sections": [
+  {
+   "heading": "What the decimal actually represents",
+   "paragraphs": [
+    "The decimal interest on a division order is your net revenue interest in the well - your royalty fraction multiplied by your share of the mineral tract, adjusted for the well's spacing unit if the tract is pooled. It's a small number, often five or six digits after the decimal, and it's easy to eyeball and move on. Don't. That decimal is what your check gets multiplied against every single month.",
+    "If you own a fractional interest inherited through a family tract, or your mineral acreage sits partly inside and partly outside the well's spacing unit, the math behind that decimal gets genuinely complicated. The operator's title team builds it from the courthouse record, and courthouse records have gaps - missed heirs, unrecorded assignments, old severances nobody re-indexed."
+   ]
+  },
+  {
+   "heading": "Checking it against what you actually own",
+   "paragraphs": [
+    "Pull your deed, or your most recent royalty statement if you already have one on a nearby well, and compare the decimal on the division order to what you'd expect given your recorded mineral acreage and lease royalty rate. If the well is pooled - most horizontal gas wells are - your share gets diluted across the whole unit, so the number will be smaller than your straight ownership percentage, and that's normal, not an error.",
+    "What's worth a call is a decimal that doesn't move at all when you know the unit size changed, or one that's noticeably smaller than a sibling or co-owner's decimal on the same tract with a comparable share. Division order analysts fix errors routinely - it's a normal part of the process, not an accusation, when you ask them to walk you through the calculation."
+   ]
+  },
+  {
+   "heading": "Signing, holding, or pushing back",
+   "paragraphs": [
+    "Signing a division order that looks right gets your payments started or keeps them current - most operators will hold payments in suspense until it's returned, so unreasonable delay costs you the interest-free use of your own money. If something looks off, you can request a corrected division order before signing; operators expect this and have a process for it.",
+    "In some states a division order can carry language you should read carefully, particularly around release of claims for prior periods - it's not usually a problem, but it's the one clause worth reading twice rather than skimming past on your way to the signature line."
+   ]
+  },
+  {
+   "heading": "How this connects to selling",
+   "paragraphs": [
+    "A buyer evaluating your minerals will want to see the division order alongside your statements, because the decimal interest confirms what the statements are actually paying against. A clean, verified division order that matches your title makes for a faster, cleaner purchase process - a disputed or unresolved one is one of the first things that slows a deal down while title gets sorted out.",
+    "If you own interests across several wells on the same tract, expect a separate division order for each one, since spacing units and pooled acreage rarely line up identically well to well. Keeping them together in one file, alongside the statements they correspond to, saves real time whenever a sale conversation starts."
+   ]
   }
+ ],
+ "faqs": [
+  {
+   "question": "Do you have to sign a division order to keep getting paid?",
+   "answer": "Most operators will suspend payment until a division order is signed and returned, so delaying it delays your check. If the decimal looks wrong, contact the operator's division order department before signing rather than after."
+  },
+  {
+   "question": "What if your decimal interest changes after you already sold part of your minerals?",
+   "answer": "A new division order should follow any change in ownership, including a partial sale. Confirm the operator has your updated deed on file - courthouse recording alone doesn't always update their internal records automatically."
+  },
+  {
+   "question": "Is a division order the same thing as a deed?",
+   "answer": "No. A deed transfers title to the minerals; a division order just instructs the operator on how to split payment. Signing one doesn't sell or transfer anything - it only sets up how you get paid."
+  },
+  {
+   "question": "Can a division order decimal be wrong even years after it was set?",
+   "answer": "Yes. Errors can sit unnoticed for years, especially on tracts with complicated heirship. Comparing the decimal to your recorded acreage and lease terms periodically, and any time a new well is drilled nearby, is worth the time."
+  }
+ ],
+ "wordCount": 870,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-division-orders-explained-sellyourgasroyalties-com.jpg",
+  "alt": "Division Orders Explained mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
 }

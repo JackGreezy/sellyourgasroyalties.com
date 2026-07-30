@@ -1,79 +1,79 @@
 {
-  "slug": "how-to-sell-mineral-rights",
-  "title": "How to Sell Mineral Rights",
-  "type": "resource",
-  "status": "written",
-  "metaTitle": "How to Sell Gas Mineral Rights, Step by Step",
-  "metaDescription": "The real process for selling gas mineral or royalty rights - from gathering records to closing - explained plainly by a working landman.",
-  "heroLead": "Selling minerals isn't complicated once you've done it once. Most of what feels intimidating is just not knowing the order of operations.",
-  "intro": [
-    "Selling a gas mineral or royalty interest follows roughly the same shape as selling a piece of real estate, minus the yard sign - you establish what you own, get it valued, negotiate a number, and close with a recorded deed. Where it differs from selling a house is in the diligence: a buyer is underwriting a decline curve and a price forecast, not a roof and a foundation.",
-    "Below is the process in the order it actually runs, along with the places sellers most often lose time or leave money on the table."
-  ],
-  "sections": [
-    {
-      "heading": "Start by establishing exactly what you own",
-      "paragraphs": [
-        "Start with the deed - your own copy or a certified one from the county clerk where the minerals sit. Confirm the county, the legal description, and your fractional share, especially if the interest passed through inheritance and may be split among siblings or cousins without a clean, current deed. This step alone catches a surprising number of situations where an owner thought they held more, or less, than the record actually shows.",
-        "If the tract is producing, gather your royalty statements next. If it's leased but not yet producing, gather the lease. If it's neither leased nor producing, that's fine too - it just changes what a buyer prices against."
-      ]
-    },
-    {
-      "heading": "Get it evaluated against real activity",
-      "paragraphs": [
-        "A fair evaluation looks at your recent royalty history (if producing), the well's decline stage, current gas pricing and the differential in your basin, nearby permit and drilling activity, and title condition. Ask whoever quotes you a number to walk the math with you rather than hand you a flat figure - a buyer who won't explain how they got to a number is a buyer you should get a second opinion on.",
-        "This is also the stage to ask about timing. Gas pricing cycles seasonally and multi-year, and the same interest can price differently three months apart depending on where the market sits - worth a direct question before you commit to a number."
-      ]
-    },
-    {
-      "heading": "Negotiate and get the offer in writing",
-      "paragraphs": [
-        "A legitimate offer should be documented - the interest being purchased, the price, who's covering closing costs, and the expected timeline. Verbal numbers over the phone are a starting point for a conversation, not something to make a decision against. If you're talking to more than one buyer, comparing written offers side by side is the only real way to know if a number is fair.",
-        "This is also where you'd flag any complications you found in the first step - split heirship, an unrecorded assignment, a lease dispute. Buyers deal with these regularly; surfacing them early keeps the deal moving instead of stalling it later."
-      ]
-    },
-    {
-      "heading": "Title work and closing",
-      "paragraphs": [
-        "Once terms are agreed, the buyer typically runs a title check to confirm the chain of ownership matches what's being sold - this can take anywhere from a few days on clean title to several weeks if heirship or an old severance needs sorting out. Closing itself is a notarized mineral deed, recorded at the county courthouse, with funds disbursed at or near closing depending on how the deal is structured.",
-        "After closing, expect a new division order from the operator (if the interest is producing) reflecting the transfer, and expect your name to come off future royalty statements once the operator processes the change - that transition can take a full payment cycle or two, which is normal."
-      ]
-    },
-    {
-      "heading": "A word on doing this more than once",
-      "paragraphs": [
-        "Owners with multiple tracts across different counties, or a mix of producing and non-producing interests, don't have to sell everything in one transaction. It's common to start with the interest you understand best or care least about holding, see how the process feels, and decide separately on the rest later - there's no requirement that a first sale set the terms for every future one.",
-        "Keeping copies of everything from a completed sale - the deed, the closing statement, the final division order - also makes any future sale on a different tract faster, since a buyer can see you've been through the process cleanly before."
-      ]
-    }
-  ],
-  "faqs": [
-    {
-      "question": "How long does selling mineral rights usually take?",
-      "answer": "Clean title on a producing interest can close in a few weeks. Complicated heirship, an unresolved lease dispute, or a large fractional tract split among many owners can stretch closing to a couple of months while title gets sorted."
-    },
-    {
-      "question": "Do you need a lawyer to sell your mineral rights?",
-      "answer": "It's not always required, but for complicated title, larger interests, or if anything about the offer feels unclear, an attorney reviewing the purchase agreement and deed before you sign is a reasonable step, not an overreaction."
-    },
-    {
-      "question": "Can you sell only part of your mineral interest?",
-      "answer": "Yes - selling a fraction of your interest, or minerals under one tract but not another, is common and gets documented the same way as a full sale, just with the specific fraction named in the deed."
-    },
-    {
-      "question": "What happens to your existing lease if you sell?",
-      "answer": "An existing lease generally stays in place and transfers with the minerals - the buyer becomes the new lessor and starts receiving the royalty payments the lease produces going forward."
-    },
-    {
-      "question": "Is there a minimum size interest worth selling?",
-      "answer": "Not really. Small fractional interests, including ones from old family land divided many ways over generations, get bought and sold regularly - the process is the same, just scaled to the size of the interest."
-    }
-  ],
-  "wordCount": 958,
-  "image": {
-    "src": "/images/resources/mineral-rights-resources-how-to-sell-mineral-rights-sellyourgasroyalties-com.jpg",
-    "alt": "How to Sell Mineral Rights mineral rights",
-    "width": 1600,
-    "height": 1000
+ "slug": "how-to-sell-mineral-rights",
+ "title": "How to Sell Mineral Rights",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How to Sell Gas Mineral Rights, Step by Step",
+ "metaDescription": "The real process for selling gas mineral or royalty rights - from gathering records to closing - explained plainly by a working landman.",
+ "heroLead": "Selling minerals isn't complicated once you've done it once. Most of what feels intimidating is just not knowing the order of operations.",
+ "intro": [
+  "Selling a gas mineral or royalty interest follows roughly the same shape as selling a piece of real estate, minus the yard sign - you establish what you own, get it valued, negotiate a number, and close with a recorded deed. Where it differs from selling a house is in the diligence: a buyer is underwriting a decline curve and a price forecast, not a roof and a foundation.",
+  "Below is the process in the order it actually runs, along with the places sellers most often lose time or leave money on the table."
+ ],
+ "sections": [
+  {
+   "heading": "Start by establishing exactly what you own",
+   "paragraphs": [
+    "Start with the deed - your own copy or a certified one from the county clerk where the minerals sit. Confirm the county, the legal description, and your fractional share, especially if the interest passed through inheritance and may be split among siblings or cousins without a clean, current deed. This step alone catches a surprising number of situations where an owner thought they held more, or less, than the record actually shows.",
+    "If the tract is producing, gather your royalty statements next. If it's leased but not yet producing, gather the lease. If it's neither leased nor producing, that's fine too - it just changes what a buyer prices against."
+   ]
+  },
+  {
+   "heading": "Get it evaluated against real activity",
+   "paragraphs": [
+    "A fair evaluation looks at your recent royalty history (if producing), the well's decline stage, current gas pricing and the differential in your basin, nearby permit and drilling activity, and title condition. Ask whoever quotes you a number to walk the math with you rather than hand you a flat figure - a buyer who won't explain how they got to a number is a buyer you should get a second opinion on.",
+    "This is also the stage to ask about timing. Gas pricing cycles seasonally and multi-year, and the same interest can price differently three months apart depending on where the market sits - worth a direct question before you commit to a number."
+   ]
+  },
+  {
+   "heading": "Negotiate and get the offer in writing",
+   "paragraphs": [
+    "A legitimate offer should be documented - the interest being purchased, the price, who's covering closing costs, and the expected timeline. Verbal numbers over the phone are a starting point for a conversation, not something to make a decision against. If you're talking to more than one buyer, comparing written offers side by side is the only real way to know if a number is fair.",
+    "This is also where you'd flag any complications you found in the first step - split heirship, an unrecorded assignment, a lease dispute. Buyers deal with these regularly; surfacing them early keeps the deal moving instead of stalling it later."
+   ]
+  },
+  {
+   "heading": "Title work and closing",
+   "paragraphs": [
+    "Once terms are agreed, the buyer typically runs a title check to confirm the chain of ownership matches what's being sold - this can take anywhere from a few days on clean title to several weeks if heirship or an old severance needs sorting out. Closing itself is a notarized mineral deed, recorded at the county courthouse, with funds disbursed at or near closing depending on how the deal is structured.",
+    "After closing, expect a new division order from the operator (if the interest is producing) reflecting the transfer, and expect your name to come off future royalty statements once the operator processes the change - that transition can take a full payment cycle or two, which is normal."
+   ]
+  },
+  {
+   "heading": "A word on doing this more than once",
+   "paragraphs": [
+    "Owners with multiple tracts across different counties, or a mix of producing and non-producing interests, don't have to sell everything in one transaction. It's common to start with the interest you understand best or care least about holding, see how the process feels, and decide separately on the rest later - there's no requirement that a first sale set the terms for every future one.",
+    "Keeping copies of everything from a completed sale - the deed, the closing statement, the final division order - also makes any future sale on a different tract faster, since a buyer can see you've been through the process cleanly before."
+   ]
   }
+ ],
+ "faqs": [
+  {
+   "question": "How long does selling mineral rights usually take?",
+   "answer": "Clean title on a producing interest can close in a few weeks. Complicated heirship, an unresolved lease dispute, or a large fractional tract split among many owners can stretch closing to a couple of months while title gets sorted."
+  },
+  {
+   "question": "Do you need a lawyer to sell your mineral rights?",
+   "answer": "It's not always required, but for complicated title, larger interests, or if anything about the offer feels unclear, an attorney reviewing the purchase agreement and deed before you sign is a reasonable step, not an overreaction."
+  },
+  {
+   "question": "Can you sell only part of your mineral interest?",
+   "answer": "Yes - selling a fraction of your interest, or minerals under one tract but not another, is common and gets documented the same way as a full sale, just with the specific fraction named in the deed."
+  },
+  {
+   "question": "What happens to your existing lease if you sell?",
+   "answer": "An existing lease generally stays in place and transfers with the minerals - the buyer becomes the new lessor and starts receiving the royalty payments the lease produces going forward."
+  },
+  {
+   "question": "Is there a minimum size interest worth selling?",
+   "answer": "Not really. Small fractional interests, including ones from old family land divided many ways over generations, get bought and sold regularly - the process is the same, just scaled to the size of the interest."
+  }
+ ],
+ "wordCount": 958,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-how-to-sell-mineral-rights-sellyourgasroyalties-com.jpg",
+  "alt": "How to Sell Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
 }

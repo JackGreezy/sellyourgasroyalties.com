@@ -1,80 +1,80 @@
 {
-  "slug": "working-interests",
-  "title": "Working Interests",
-  "type": "interest-type",
-  "metaTitle": "Gas Working Interests: Cost-Bearing Ownership Explained",
-  "metaDescription": "A working interest pays a bigger share but carries the drilling and operating cost too. See how JIBs, gas price risk, and selling a WI actually work.",
-  "heroLead": "A working interest owner gets a larger share of gas revenue than a royalty owner, and also gets billed monthly for their share of what it costs to produce it.",
-  "intro": [
-    "A working interest is cost-bearing ownership in the lease itself: the right to explore, drill, and produce, along with the obligation to pay a proportional share of drilling and operating expenses. This is fundamentally different from a royalty or override, which are cost-free of those expenses. A working interest owner's net income depends on gas volume and price, and equally on how much the well costs to operate that month, which for gas wells includes compression, workovers, and periodic equipment costs that royalty owners never see on their statements.",
-    "This page is for owners holding a working interest, whether from an original lease assignment, an inherited stake, or a non-operated position purchased as an investment, and covers what makes gas WI economics different from a straightforward royalty."
-  ],
-  "sections": [
-    {
-      "heading": "How WI Revenue and Costs Both Flow to You",
-      "paragraphs": [
-        "Your working interest share entitles you to that same percentage of gross production revenue, before the landowner royalty and any overrides are subtracted, which is a meaningfully larger gross number per unit of ownership than a royalty interest of the same fraction. Against that, you owe your proportional share of every operating cost: lease operating expenses, workovers, compression maintenance, and any capital costs for recompletions or additional wells drilled on the lease.",
-        "The monthly statement you receive as a working interest owner, usually called a joint interest billing or JIB, nets revenue against costs and can occasionally show a negative balance in a month with heavy maintenance spending or particularly weak gas prices, something a royalty owner's check never does."
-      ]
-    },
-    {
-      "heading": "Gas Price Risk Cuts Both Ways for a WI Owner",
-      "paragraphs": [
-        "A royalty owner's downside from a weak gas price month is a smaller check. A working interest owner's downside is a smaller check that may not even cover that month's operating costs, meaning you can owe money into the well rather than receive a payment. This is the core tradeoff of cost-bearing ownership: more upside when prices and volumes are strong, more exposure when they're not, compared to the fixed, cost-free position of a royalty.",
-        "Gas price differentials matter even more here, since a wider basis discount doesn't just shrink your revenue line, it shrinks it while your cost line stays roughly fixed, compressing your net margin from both directions at once."
-      ]
-    },
-    {
-      "heading": "Non-Operated vs. Operated Positions",
-      "paragraphs": [
-        "Most individual working interest owners hold a non-operated position, meaning another company, the operator, makes the day-to-day operating decisions and bills you your proportional share, while you have limited say beyond certain elections the joint operating agreement grants, like whether to participate in a proposed recompletion. This is the more common situation for owners who inherited or purchased a small WI stake rather than a company actively running wells.",
-        "Reviewing the joint operating agreement governing your interest, if you have access to it, clarifies what decisions you can weigh in on and what cost obligations are mandatory versus elective."
-      ]
-    },
-    {
-      "heading": "Selling a Working Interest",
-      "paragraphs": [
-        "Working interests are generally harder to value than royalties because the buyer has to underwrite both the revenue side and the ongoing cost exposure, including any known future capital obligations like planned workovers or additional development on the lease. We evaluate WI purchases by reviewing recent JIB statements alongside production data, so the offer reflects true net economics rather than gross revenue potential alone.",
-        "For owners tired of unpredictable JIB statements, including the occasional cash call for unplanned costs, selling a working interest converts an ongoing, cost-exposed obligation into a clean, one-time transaction with no future liability attached."
-      ]
-    }
-  ],
-  "faqs": [
-    {
-      "question": "Can a working interest owner owe money in a given month?",
-      "answer": "Yes, if operating costs for that month exceed your share of revenue, the JIB statement can show a net amount owed rather than a payment due to you."
-    },
-    {
-      "question": "What's the difference between a working interest and a royalty interest?",
-      "answer": "A working interest bears its share of drilling and operating costs; a royalty interest is free of those costs but also receives a smaller fraction of gross revenue. See our royalty interests page for the royalty side of that comparison."
-    },
-    {
-      "question": "Do you have to participate in every cost the operator proposes?",
-      "answer": "Depends on your joint operating agreement. Many allow non-consent options for discretionary projects like new wells, though ongoing operating costs on existing production are usually mandatory."
-    },
-    {
-      "question": "Is selling a working interest more complicated than selling a royalty?",
-      "answer": "Somewhat, since a buyer has to evaluate cost exposure alongside revenue. We handle that analysis and can typically still turn around an offer within about a week."
-    },
-    {
-      "question": "What happens to unpaid JIB balances if you sell your working interest?",
-      "answer": "That's addressed directly in the purchase agreement, typically with any outstanding balance settled or adjusted at closing so there's no ambiguity afterward."
-    },
-    {
-      "question": "Can you sell just your working interest and keep a royalty on the same lease?",
-      "answer": "Only if your ownership already includes a separately identifiable royalty component, which some working interest owners do hold. If it's a single blended interest, the sale typically covers the whole position."
-    },
-    {
-      "question": "Why would anyone sell a working interest that's still cash-flowing well?",
-      "answer": "Some owners want out of the ongoing cost exposure and cash-call risk even on a well-performing lease, trading future upside for a clean exit and no further liability tied to operating decisions they don't control."
-    }
-  ],
-  "status": "written",
-  "wordCount": 937,
-  "image": {
-    "src": "/images/interest-types/mineral-rights-interest-types-working-interests-sellyourgasroyalties-com.jpg",
-    "alt": "Working Interests mineral rights",
-    "width": 1600,
-    "height": 1000
+ "slug": "working-interests",
+ "title": "Working Interests",
+ "type": "interest-type",
+ "metaTitle": "Gas Working Interests: Cost-Bearing Ownership Explained",
+ "metaDescription": "A working interest pays a bigger share but carries the drilling and operating cost too. See how JIBs, gas price risk, and selling a WI actually work.",
+ "heroLead": "A working interest owner gets a larger share of gas revenue than a royalty owner, and also gets billed monthly for their share of what it costs to produce it.",
+ "intro": [
+  "A working interest is cost-bearing ownership in the lease itself: the right to explore, drill, and produce, along with the obligation to pay a proportional share of drilling and operating expenses. This is fundamentally different from a royalty or override, which are cost-free of those expenses. A working interest owner's net income depends on gas volume and price, and equally on how much the well costs to operate that month, which for gas wells includes compression, workovers, and periodic equipment costs that royalty owners never see on their statements.",
+  "This page is for owners holding a working interest, whether from an original lease assignment, an inherited stake, or a non-operated position purchased as an investment, and covers what makes gas WI economics different from a straightforward royalty."
+ ],
+ "sections": [
+  {
+   "heading": "How WI Revenue and Costs Both Flow to You",
+   "paragraphs": [
+    "Your working interest share entitles you to that same percentage of gross production revenue, before the landowner royalty and any overrides are subtracted, which is a meaningfully larger gross number per unit of ownership than a royalty interest of the same fraction. Against that, you owe your proportional share of every operating cost: lease operating expenses, workovers, compression maintenance, and any capital costs for recompletions or additional wells drilled on the lease.",
+    "The monthly statement you receive as a working interest owner, usually called a joint interest billing or JIB, nets revenue against costs and can occasionally show a negative balance in a month with heavy maintenance spending or particularly weak gas prices, something a royalty owner's check never does."
+   ]
+  },
+  {
+   "heading": "Gas Price Risk Cuts Both Ways for a WI Owner",
+   "paragraphs": [
+    "A royalty owner's downside from a weak gas price month is a smaller check. A working interest owner's downside is a smaller check that may not even cover that month's operating costs, meaning you can owe money into the well rather than receive a payment. This is the core tradeoff of cost-bearing ownership: more upside when prices and volumes are strong, more exposure when they're not, compared to the fixed, cost-free position of a royalty.",
+    "Gas price differentials matter even more here, since a wider basis discount doesn't just shrink your revenue line, it shrinks it while your cost line stays roughly fixed, compressing your net margin from both directions at once."
+   ]
+  },
+  {
+   "heading": "Non-Operated vs. Operated Positions",
+   "paragraphs": [
+    "Most individual working interest owners hold a non-operated position, meaning another company, the operator, makes the day-to-day operating decisions and bills you your proportional share, while you have limited say beyond certain elections the joint operating agreement grants, like whether to participate in a proposed recompletion. This is the more common situation for owners who inherited or purchased a small WI stake rather than a company actively running wells.",
+    "Reviewing the joint operating agreement governing your interest, if you have access to it, clarifies what decisions you can weigh in on and what cost obligations are mandatory versus elective."
+   ]
+  },
+  {
+   "heading": "Selling a Working Interest",
+   "paragraphs": [
+    "Working interests are generally harder to value than royalties because the buyer has to underwrite both the revenue side and the ongoing cost exposure, including any known future capital obligations like planned workovers or additional development on the lease. We evaluate WI purchases by reviewing recent JIB statements alongside production data, so the offer reflects true net economics rather than gross revenue potential alone.",
+    "For owners tired of unpredictable JIB statements, including the occasional cash call for unplanned costs, selling a working interest converts an ongoing, cost-exposed obligation into a clean, one-time transaction with no future liability attached."
+   ]
   }
+ ],
+ "faqs": [
+  {
+   "question": "Can a working interest owner owe money in a given month?",
+   "answer": "Yes, if operating costs for that month exceed your share of revenue, the JIB statement can show a net amount owed rather than a payment due to you."
+  },
+  {
+   "question": "What's the difference between a working interest and a royalty interest?",
+   "answer": "A working interest bears its share of drilling and operating costs; a royalty interest is free of those costs but also receives a smaller fraction of gross revenue. See our royalty interests page for the royalty side of that comparison."
+  },
+  {
+   "question": "Do you have to participate in every cost the operator proposes?",
+   "answer": "Depends on your joint operating agreement. Many allow non-consent options for discretionary projects like new wells, though ongoing operating costs on existing production are usually mandatory."
+  },
+  {
+   "question": "Is selling a working interest more complicated than selling a royalty?",
+   "answer": "Somewhat, since a buyer has to evaluate cost exposure alongside revenue. We handle that analysis and can typically still turn around an offer within about a week."
+  },
+  {
+   "question": "What happens to unpaid JIB balances if you sell your working interest?",
+   "answer": "That's addressed directly in the purchase agreement, typically with any outstanding balance settled or adjusted at closing so there's no ambiguity afterward."
+  },
+  {
+   "question": "Can you sell just your working interest and keep a royalty on the same lease?",
+   "answer": "Only if your ownership already includes a separately identifiable royalty component, which some working interest owners do hold. If it's a single blended interest, the sale typically covers the whole position."
+  },
+  {
+   "question": "Why would anyone sell a working interest that's still cash-flowing well?",
+   "answer": "Some owners want out of the ongoing cost exposure and cash-call risk even on a well-performing lease, trading future upside for a clean exit and no further liability tied to operating decisions they don't control."
+  }
+ ],
+ "status": "written",
+ "wordCount": 937,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-working-interests-sellyourgasroyalties-com.jpg",
+  "alt": "Working Interests mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
 }

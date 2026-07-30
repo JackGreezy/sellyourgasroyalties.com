@@ -1,73 +1,73 @@
 {
-  "slug": "inherited-mineral-rights",
-  "title": "Inherited Mineral Rights",
-  "type": "situation",
-  "note": "heirs deciding whether to keep or sell",
-  "metaTitle": "Inherited Gas Mineral Rights: Keep the Check or Sell It",
-  "metaDescription": "Inherited a gas royalty and don't know what the check means or what it's worth. See how the price swing works and what selling actually involves.",
-  "heroLead": "The first check that shows up after you inherit a gas royalty is usually a surprise, and so is the smaller one that follows it a few months later.",
-  "intro": [
-    "You inherit mineral rights the same way you inherit most things from a parent or grandparent: without a manual. There's a deed somewhere, maybe a probate order, and then checks start arriving from a company you've never heard of, for an amount that has no obvious pattern from month to month. Nobody explained that gas royalties move with a commodity price you don't control, get reduced by deductions before you ever see them, and eventually decline as the well ages.",
-    "This page is meant for the heir who wants a straight explanation before deciding anything, including whether keeping the interest or selling it makes more sense for your situation."
-  ],
-  "sections": [
-    {
-      "heading": "What That Inherited Check Actually Represents",
-      "paragraphs": [
-        "If the interest is a royalty, the deceased owner leased the minerals to an operator years ago, a well was drilled, and the royalty fraction from that lease, usually somewhere around a 1/8th to 1/5th share of production, now flows to you as the heir. Gas is metered, sold, and the operator deducts gathering, compression, dehydration, and transportation costs before calculating what's owed. What lands in your account is net of all of that, tied to whatever price gas cleared at that month.",
-        "Appalachian gas in particular often sells at a discount to the Henry Hub benchmark you might see quoted in the news, because pipeline capacity out of the basin is tight. Your check can look low compared to a national gas price headline for a completely legitimate reason, not because something's wrong with the well or the operator is shorting you."
-      ]
-    },
-    {
-      "heading": "Why the Check Swings So Much",
-      "paragraphs": [
-        "Two things move that check independent of each other: the volume of gas the well produces, which declines steadily after the first couple of years, and the price gas sold for that month, which can double or drop by half depending on weather, storage levels, and regional demand. A check that was $400 last winter and $150 this summer doesn't mean the well is failing. It usually means the price differential swung, and possibly that the well is a few years further into its natural decline curve.",
-        "Heirs who don't track this often assume something changed operationally when really it's the same well behaving the way gas wells behave. Pulling twelve to eighteen months of statements, rather than only the most recent one, gives a much truer picture of what the interest is actually worth going forward."
-      ]
-    },
-    {
-      "heading": "Keeping It vs. Selling: What Actually Changes",
-      "paragraphs": [
-        "Keeping the interest means continuing to receive a check that will trend down over time as the well depletes, with occasional bumps when gas prices spike. It also means staying on the hook for tracking 1099s, division order updates, and any lease amendments the operator sends, sometimes for interests spread across multiple counties or even multiple states if the deceased accumulated minerals over decades.",
-        "Selling converts that declining, price-exposed income stream into one lump sum now. For heirs who don't live near the property, don't want to manage paperwork on an asset they didn't choose, or need to settle an estate among multiple siblings, that trade makes sense. For heirs on a young, strong well with real upside left, holding a while longer can be the better call. We'll tell you honestly which situation yours looks like."
-      ]
-    },
-    {
-      "heading": "Getting the Estate Paperwork Right Before You Sell",
-      "paragraphs": [
-        "Before any sale closes, the title has to show clear chain of ownership from the deceased to you, usually through a probated will, an affidavit of heirship, or a court order depending on your state. If the estate hasn't been through probate yet, that's not a dealbreaker, but it does need to happen, or at least be underway, before a deed can transfer.",
-        "We've walked plenty of heirs through this who had no idea where to start. We're not attorneys and won't draft your probate paperwork, but we can tell you exactly what a title examiner will need to see and point you toward getting it in order."
-      ]
-    }
-  ],
-  "faqs": [
-    {
-      "question": "The interest is still in your late parent's name and hasn't gone through probate. Can you still sell it?",
-      "answer": "You can start the process, but the deed generally can't transfer until the estate is settled or an heirship affidavit clears title, depending on your state's requirements."
-    },
-    {
-      "question": "How do you know what your exact fraction is if you only have an old deed?",
-      "answer": "We'll pull the current division order from the operator, which shows the decimal interest actually being paid today, and compare it against the deed language."
-    },
-    {
-      "question": "Your siblings and you inherited the interest together. Do we all have to agree to sell?",
-      "answer": "Not necessarily. If the deed shows each of you with a separate undivided share, any one of you can typically sell your own portion independently."
-    },
-    {
-      "question": "Is the check amount from last year a fair way to estimate value?",
-      "answer": "It's a starting point, but gas price and production volume both move month to month, so we look at a longer trailing window and the well's decline stage rather than a single month."
-    },
-    {
-      "question": "What if there's no well on the property at all yet?",
-      "answer": "That's a different situation with different value drivers. See the non-producing minerals page for how we approach acreage that hasn't been drilled."
-    }
-  ],
-  "status": "written",
-  "wordCount": 933,
-  "image": {
-    "src": "/images/situations/mineral-rights-situations-inherited-mineral-rights-sellyourgasroyalties-com.jpg",
-    "alt": "Inherited Mineral Rights mineral rights",
-    "width": 1600,
-    "height": 1000
+ "slug": "inherited-mineral-rights",
+ "title": "Inherited Mineral Rights",
+ "type": "situation",
+ "note": "heirs deciding whether to keep or sell",
+ "metaTitle": "Inherited Gas Mineral Rights: Keep the Check or Sell It",
+ "metaDescription": "Inherited a gas royalty and don't know what the check means or what it's worth. See how the price swing works and what selling actually involves.",
+ "heroLead": "The first check that shows up after you inherit a gas royalty is usually a surprise, and so is the smaller one that follows it a few months later.",
+ "intro": [
+  "You inherit mineral rights the same way you inherit most things from a parent or grandparent: without a manual. There's a deed somewhere, maybe a probate order, and then checks start arriving from a company you've never heard of, for an amount that has no obvious pattern from month to month. Nobody explained that gas royalties move with a commodity price you don't control, get reduced by deductions before you ever see them, and eventually decline as the well ages.",
+  "This page is meant for the heir who wants a straight explanation before deciding anything, including whether keeping the interest or selling it makes more sense for your situation."
+ ],
+ "sections": [
+  {
+   "heading": "What That Inherited Check Actually Represents",
+   "paragraphs": [
+    "If the interest is a royalty, the deceased owner leased the minerals to an operator years ago, a well was drilled, and the royalty fraction from that lease, usually somewhere around a 1/8th to 1/5th share of production, now flows to you as the heir. Gas is metered, sold, and the operator deducts gathering, compression, dehydration, and transportation costs before calculating what's owed. What lands in your account is net of all of that, tied to whatever price gas cleared at that month.",
+    "Appalachian gas in particular often sells at a discount to the Henry Hub benchmark you might see quoted in the news, because pipeline capacity out of the basin is tight. Your check can look low compared to a national gas price headline for a completely legitimate reason, not because something's wrong with the well or the operator is shorting you."
+   ]
+  },
+  {
+   "heading": "Why the Check Swings So Much",
+   "paragraphs": [
+    "Two things move that check independent of each other: the volume of gas the well produces, which declines steadily after the first couple of years, and the price gas sold for that month, which can double or drop by half depending on weather, storage levels, and regional demand. A check that was $400 last winter and $150 this summer doesn't mean the well is failing. It usually means the price differential swung, and possibly that the well is a few years further into its natural decline curve.",
+    "Heirs who don't track this often assume something changed operationally when really it's the same well behaving the way gas wells behave. Pulling twelve to eighteen months of statements, rather than only the most recent one, gives a much truer picture of what the interest is actually worth going forward."
+   ]
+  },
+  {
+   "heading": "Keeping It vs. Selling: What Actually Changes",
+   "paragraphs": [
+    "Keeping the interest means continuing to receive a check that will trend down over time as the well depletes, with occasional bumps when gas prices spike. It also means staying on the hook for tracking 1099s, division order updates, and any lease amendments the operator sends, sometimes for interests spread across multiple counties or even multiple states if the deceased accumulated minerals over decades.",
+    "Selling converts that declining, price-exposed income stream into one lump sum now. For heirs who don't live near the property, don't want to manage paperwork on an asset they didn't choose, or need to settle an estate among multiple siblings, that trade makes sense. For heirs on a young, strong well with real upside left, holding a while longer can be the better call. We'll tell you honestly which situation yours looks like."
+   ]
+  },
+  {
+   "heading": "Getting the Estate Paperwork Right Before You Sell",
+   "paragraphs": [
+    "Before any sale closes, the title has to show clear chain of ownership from the deceased to you, usually through a probated will, an affidavit of heirship, or a court order depending on your state. If the estate hasn't been through probate yet, that's not a dealbreaker, but it does need to happen, or at least be underway, before a deed can transfer.",
+    "We've walked plenty of heirs through this who had no idea where to start. We're not attorneys and won't draft your probate paperwork, but we can tell you exactly what a title examiner will need to see and point you toward getting it in order."
+   ]
   }
+ ],
+ "faqs": [
+  {
+   "question": "The interest is still in your late parent's name and hasn't gone through probate. Can you still sell it?",
+   "answer": "You can start the process, but the deed generally can't transfer until the estate is settled or an heirship affidavit clears title, depending on your state's requirements."
+  },
+  {
+   "question": "How do you know what your exact fraction is if you only have an old deed?",
+   "answer": "We'll pull the current division order from the operator, which shows the decimal interest actually being paid today, and compare it against the deed language."
+  },
+  {
+   "question": "Your siblings and you inherited the interest together. Do we all have to agree to sell?",
+   "answer": "Not necessarily. If the deed shows each of you with a separate undivided share, any one of you can typically sell your own portion independently."
+  },
+  {
+   "question": "Is the check amount from last year a fair way to estimate value?",
+   "answer": "It's a starting point, but gas price and production volume both move month to month, so we look at a longer trailing window and the well's decline stage rather than a single month."
+  },
+  {
+   "question": "What if there's no well on the property at all yet?",
+   "answer": "That's a different situation with different value drivers. See the non-producing minerals page for how we approach acreage that hasn't been drilled."
+  }
+ ],
+ "status": "written",
+ "wordCount": 933,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-inherited-mineral-rights-sellyourgasroyalties-com.jpg",
+  "alt": "Inherited Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
 }

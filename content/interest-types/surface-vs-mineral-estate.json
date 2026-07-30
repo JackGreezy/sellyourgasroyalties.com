@@ -1,80 +1,80 @@
 {
-  "slug": "surface-vs-mineral-estate",
-  "title": "Surface vs. Mineral Estate",
-  "type": "interest-type",
-  "metaTitle": "Surface Rights vs. Mineral Rights on a Gas-Producing Tract",
-  "metaDescription": "Owning the land doesn't mean owning the gas underneath it, and owning the gas doesn't require owning the surface. See how the two estates actually split.",
-  "heroLead": "A landowner and a gas royalty owner can be two entirely different people holding two entirely different rights to the same piece of ground.",
-  "intro": [
-    "The surface estate and the mineral estate are legally separate, and in most oil and gas country they've been split for decades, sometimes since the original land patent. You can own the surface, the dirt, the fences, the house, with zero claim to any gas produced beneath it. You can equally own the minerals with no right to build a house or farm the ground above them. Confusing the two, or assuming a check tied to one automatically means something about the other, causes real misunderstandings for gas royalty owners.",
-    "This page covers how the split works, what each estate actually controls, and why a gas royalty owner's rights don't depend on owning the surface at all."
-  ],
-  "sections": [
-    {
-      "heading": "How the Split Happens",
-      "paragraphs": [
-        "Minerals get severed from the surface most commonly through a mineral reservation, where a seller conveys the surface but keeps the minerals for themselves, or through a straightforward mineral deed, where an owner sells or grants the minerals alone while keeping the surface. Once severed, the two estates trade, inherit, and get taxed independently. It's entirely possible for a family to have sold the surface generations ago while the minerals passed down through heirs who've never set foot on the property.",
-        "In most oil and gas states, the mineral estate is legally dominant, meaning it carries an implied right to reasonable use of the surface for exploration and production, subject to state-specific limits and, in many states, a duty to accommodate existing surface uses and compensate for damages caused."
-      ]
-    },
-    {
-      "heading": "What This Means for a Gas Royalty Owner Specifically",
-      "paragraphs": [
-        "If you own gas minerals but not the surface, your royalty rights are unaffected by who owns the land above. The lease was signed based on mineral ownership, and your royalty check depends on production, price, and deductions, not on any relationship with the current surface owner. You don't need surface owner permission to lease your minerals, sign a division order, or sell your interest.",
-        "This distinction also matters for out-of-state or absentee mineral owners who sometimes worry they need to coordinate with whoever currently farms or lives on the land. You generally don't. The operator deals directly with the surface owner on access and damages issues under a separate surface use agreement, independent of your royalty interest."
-      ]
-    },
-    {
-      "heading": "Where Surface Damages and Royalty Overlap",
-      "paragraphs": [
-        "Surface owners are typically entitled to compensation for damages caused by drilling operations, access roads, well pads, pipelines, under either the lease terms or a separate surface use agreement, sometimes required by state statute. That compensation is generally separate from and doesn't reduce your royalty payment as the mineral owner. If you happen to own both estates, you may be entitled to both a royalty check and surface damage payments as distinct items.",
-        "Confusion arises most often for owners who inherited a family property and aren't sure whether earlier generations sold the surface, the minerals, or kept both together. A courthouse title check clears this up quickly and is worth doing before assuming anything about what you actually hold."
-      ]
-    },
-    {
-      "heading": "Selling One Without the Other",
-      "paragraphs": [
-        "Because the estates are legally separate, you can sell mineral rights while keeping the surface, or vice versa, without affecting the other. This is exactly why we're able to buy mineral and royalty interests directly from owners who don't live anywhere near the property and have no relationship to whoever farms or holds the surface today.",
-        "If your deed history is unclear about whether you hold minerals, surface, or both, send us what you have and we'll help sort out what a title check will likely show before you spend money confirming it independently."
-      ]
-    }
-  ],
-  "faqs": [
-    {
-      "question": "Do you need the surface owner's permission to sell your mineral rights?",
-      "answer": "No, mineral ownership is legally independent, and you can sell your interest without surface owner involvement or consent."
-    },
-    {
-      "question": "If you own both surface and minerals, can you sell just the minerals?",
-      "answer": "Yes, this is one of the most common transactions, selling or leasing minerals while retaining the surface for your own use."
-    },
-    {
-      "question": "Does the operator have to pay you if they build a well pad on your mineral tract but you do not own the surface?",
-      "answer": "Surface damage payments generally go to the surface owner, not the mineral owner, unless your specific arrangement states otherwise."
-    },
-    {
-      "question": "How can you find out whether your ancestors kept the minerals when they sold the land?",
-      "answer": "A title search at the county clerk's office, tracing deeds back through the chain of title, will show whether and when a mineral reservation was recorded."
-    },
-    {
-      "question": "Can a mineral owner block surface use entirely?",
-      "answer": "Generally no. In most states the mineral estate has an implied right of reasonable surface access, though state law and specific agreements can limit or condition that right."
-    },
-    {
-      "question": "Is a surface use agreement the same thing as a mineral lease?",
-      "answer": "No. A mineral lease is between the operator and the mineral owner and covers the right to produce. A surface use agreement is a separate document between the operator and the surface owner covering access, damages, and restoration."
-    },
-    {
-      "question": "If you only own surface, will you ever get a check from a gas well on your land?",
-      "answer": "Not a royalty check, since that flows from mineral ownership. You may be entitled to a one-time or periodic surface damage payment instead, which is a different arrangement entirely."
-    }
-  ],
-  "status": "written",
-  "wordCount": 941,
-  "image": {
-    "src": "/images/interest-types/mineral-rights-interest-types-surface-vs-mineral-estate-sellyourgasroyalties-com.jpg",
-    "alt": "Surface vs. Mineral Estate mineral rights",
-    "width": 1600,
-    "height": 1000
+ "slug": "surface-vs-mineral-estate",
+ "title": "Surface vs. Mineral Estate",
+ "type": "interest-type",
+ "metaTitle": "Surface Rights vs. Mineral Rights on a Gas-Producing Tract",
+ "metaDescription": "Owning the land doesn't mean owning the gas underneath it, and owning the gas doesn't require owning the surface. See how the two estates actually split.",
+ "heroLead": "A landowner and a gas royalty owner can be two entirely different people holding two entirely different rights to the same piece of ground.",
+ "intro": [
+  "The surface estate and the mineral estate are legally separate, and in most oil and gas country they've been split for decades, sometimes since the original land patent. You can own the surface, the dirt, the fences, the house, with zero claim to any gas produced beneath it. You can equally own the minerals with no right to build a house or farm the ground above them. Confusing the two, or assuming a check tied to one automatically means something about the other, causes real misunderstandings for gas royalty owners.",
+  "This page covers how the split works, what each estate actually controls, and why a gas royalty owner's rights don't depend on owning the surface at all."
+ ],
+ "sections": [
+  {
+   "heading": "How the Split Happens",
+   "paragraphs": [
+    "Minerals get severed from the surface most commonly through a mineral reservation, where a seller conveys the surface but keeps the minerals for themselves, or through a straightforward mineral deed, where an owner sells or grants the minerals alone while keeping the surface. Once severed, the two estates trade, inherit, and get taxed independently. It's entirely possible for a family to have sold the surface generations ago while the minerals passed down through heirs who've never set foot on the property.",
+    "In most oil and gas states, the mineral estate is legally dominant, meaning it carries an implied right to reasonable use of the surface for exploration and production, subject to state-specific limits and, in many states, a duty to accommodate existing surface uses and compensate for damages caused."
+   ]
+  },
+  {
+   "heading": "What This Means for a Gas Royalty Owner Specifically",
+   "paragraphs": [
+    "If you own gas minerals but not the surface, your royalty rights are unaffected by who owns the land above. The lease was signed based on mineral ownership, and your royalty check depends on production, price, and deductions, not on any relationship with the current surface owner. You don't need surface owner permission to lease your minerals, sign a division order, or sell your interest.",
+    "This distinction also matters for out-of-state or absentee mineral owners who sometimes worry they need to coordinate with whoever currently farms or lives on the land. You generally don't. The operator deals directly with the surface owner on access and damages issues under a separate surface use agreement, independent of your royalty interest."
+   ]
+  },
+  {
+   "heading": "Where Surface Damages and Royalty Overlap",
+   "paragraphs": [
+    "Surface owners are typically entitled to compensation for damages caused by drilling operations, access roads, well pads, pipelines, under either the lease terms or a separate surface use agreement, sometimes required by state statute. That compensation is generally separate from and doesn't reduce your royalty payment as the mineral owner. If you happen to own both estates, you may be entitled to both a royalty check and surface damage payments as distinct items.",
+    "Confusion arises most often for owners who inherited a family property and aren't sure whether earlier generations sold the surface, the minerals, or kept both together. A courthouse title check clears this up quickly and is worth doing before assuming anything about what you actually hold."
+   ]
+  },
+  {
+   "heading": "Selling One Without the Other",
+   "paragraphs": [
+    "Because the estates are legally separate, you can sell mineral rights while keeping the surface, or vice versa, without affecting the other. This is exactly why we're able to buy mineral and royalty interests directly from owners who don't live anywhere near the property and have no relationship to whoever farms or holds the surface today.",
+    "If your deed history is unclear about whether you hold minerals, surface, or both, send us what you have and we'll help sort out what a title check will likely show before you spend money confirming it independently."
+   ]
   }
+ ],
+ "faqs": [
+  {
+   "question": "Do you need the surface owner's permission to sell your mineral rights?",
+   "answer": "No, mineral ownership is legally independent, and you can sell your interest without surface owner involvement or consent."
+  },
+  {
+   "question": "If you own both surface and minerals, can you sell just the minerals?",
+   "answer": "Yes, this is one of the most common transactions, selling or leasing minerals while retaining the surface for your own use."
+  },
+  {
+   "question": "Does the operator have to pay you if they build a well pad on your mineral tract but you do not own the surface?",
+   "answer": "Surface damage payments generally go to the surface owner, not the mineral owner, unless your specific arrangement states otherwise."
+  },
+  {
+   "question": "How can you find out whether your ancestors kept the minerals when they sold the land?",
+   "answer": "A title search at the county clerk's office, tracing deeds back through the chain of title, will show whether and when a mineral reservation was recorded."
+  },
+  {
+   "question": "Can a mineral owner block surface use entirely?",
+   "answer": "Generally no. In most states the mineral estate has an implied right of reasonable surface access, though state law and specific agreements can limit or condition that right."
+  },
+  {
+   "question": "Is a surface use agreement the same thing as a mineral lease?",
+   "answer": "No. A mineral lease is between the operator and the mineral owner and covers the right to produce. A surface use agreement is a separate document between the operator and the surface owner covering access, damages, and restoration."
+  },
+  {
+   "question": "If you only own surface, will you ever get a check from a gas well on your land?",
+   "answer": "Not a royalty check, since that flows from mineral ownership. You may be entitled to a one-time or periodic surface damage payment instead, which is a different arrangement entirely."
+  }
+ ],
+ "status": "written",
+ "wordCount": 941,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-surface-vs-mineral-estate-sellyourgasroyalties-com.jpg",
+  "alt": "Surface vs. Mineral Estate mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
 }

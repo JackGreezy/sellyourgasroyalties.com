@@ -1,72 +1,72 @@
 {
-  "slug": "about",
-  "title": "About",
-  "type": "page",
-  "status": "written",
-  "metaTitle": "About - Sell Your Gas Royalties",
-  "metaDescription": "Why this site exists, how we work, and what we believe about buying gas mineral rights honestly - from a working landman's perspective.",
-  "heroLead": "This site exists because gas royalty statements are confusing on purpose or by accident, and most owners never get anyone to sit down and explain theirs before an offer shows up.",
-  "intro": [
-    "We're a direct buyer of gas-weighted mineral and royalty interests. That's a simple sentence for a business that touches a genuinely complicated set of documents - deeds, division orders, decline curves, price differentials - and we built this around the belief that an owner who understands their own statement gets treated more fairly by everyone they deal with, us included.",
-    "This page isn't a company history, because we're not going to invent one. It's what we believe about this market and how we operate in it."
-  ],
-  "sections": [
-    {
-      "heading": "Why gas ownership is harder to read than oil",
-      "paragraphs": [
-        "Oil is priced against a benchmark most people have some feel for from the news. Gas is priced at a regional hub or wellhead, trades at a differential most owners have never had explained to them, and often carries a second product line - NGLs - that behaves differently than the gas itself. Add post-production deductions that legitimately vary by basin and by pipeline capacity, and you get a statement that looks like a foreign language to a lot of owners holding real value they can't fully read.",
-        "That gap - between what the statement actually says and what most owners understand from it - is the whole reason this site exists. We think an owner who can read their own volume, price, and deduction lines negotiates from a stronger position, whether they sell to us or to somebody else."
-      ]
-    },
-    {
-      "heading": "How we work",
-      "paragraphs": [
-        "One person handles your file from first conversation to closing - not a call center rotation. We ask for your statements before we quote a number, and we'll walk you through what they show before we talk price, because we'd rather you understand the number than just accept it. Offers are documented: the trailing period used, the assumptions behind the multiple, explained in plain terms rather than handed over as a flat figure with no math attached.",
-        "We don't run short deadlines to pressure a signature. Gas value moves with the price cycle over weeks and months, not hours, and a documented offer holds up whether you sit with it for a day or a month."
-      ]
-    },
-    {
-      "heading": "What we believe about this market",
-      "paragraphs": [
-        "We believe informed sellers get better outcomes, even when they don't sell to us - which is why the resources on this site explain statements, deeds, division orders, and appraisal methods in enough depth to actually be useful rather than merely enough to generate a lead. We believe price-cycle timing is real and worth saying out loud, not something to quietly use against an owner who doesn't know to ask about it. And we believe deduction honesty matters - a rising deduction line isn't automatically a problem, and pretending otherwise to make our own offer look better by comparison isn't a game we play."
-      ]
-    },
-    {
-      "heading": "When we'd tell you not to sell",
-      "paragraphs": [
-        "If a well is early in its production life with a long, strong decline curve ahead of it, or gas pricing looks likely to strengthen based on real basin or storage conditions rather than speculation, we'll say so plainly, even if it means you decide to hold instead of sell. We'd rather have that conversation honestly than have you sell into a moment that wasn't right for your specific interest."
-      ]
-    },
-    {
-      "heading": "What we're not",
-      "paragraphs": [
-        "We're not licensed appraisers, attorneys, or CPAs. Anything we tell you about value, title, or tax treatment is general and drawn from working in this business - for your specific situation, especially tax questions around basis and depletion, talk to your own CPA or attorney before you close. We'll always tell you which kind of buyer we are: a direct buyer with our own money on the table, not a broker shopping your interest to a list."
-      ]
-    }
-  ],
-  "faqs": [
-    {
-      "question": "Are you a broker or a direct buyer?",
-      "answer": "A direct buyer. We're not shopping your interest to a list of other buyers or marking up a middleman's offer - the number we quote is what we'd pay, and there's no broker commission coming out of it."
-    },
-    {
-      "question": "Do you only buy gas-producing minerals?",
-      "answer": "No - we work with producing, non-producing, leased, and unleased interests, and we're upfront that non-producing acreage gets valued differently, against comparable lease bonuses and permit activity rather than royalty history."
-    },
-    {
-      "question": "Why do you explain so much before asking for a decision?",
-      "answer": "Because an owner who understands their statement makes a better decision, and a better decision - even one that isn't to sell to us - is worth more to our reputation than a quick signature on a number nobody understood."
-    },
-    {
-      "question": "Can you help if your ownership is a small fractional interest from inherited land?",
-      "answer": "Yes - this comes up constantly, especially with minerals divided informally among heirs over generations, and we can walk through what documentation would be needed to establish clean, sellable title."
-    }
-  ],
-  "wordCount": 859,
-  "image": {
-    "src": "/images/pages/mineral-rights-pages-about-sellyourgasroyalties-com.jpg",
-    "alt": "About mineral rights",
-    "width": 1600,
-    "height": 1000
+ "slug": "about",
+ "title": "About",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "About - Sell Your Gas Royalties",
+ "metaDescription": "Why this site exists, how we work, and what we believe about buying gas mineral rights honestly - from a working landman's perspective.",
+ "heroLead": "This site exists because gas royalty statements are confusing on purpose or by accident, and most owners never get anyone to sit down and explain theirs before an offer shows up.",
+ "intro": [
+  "We're a direct buyer of gas-weighted mineral and royalty interests. That's a simple sentence for a business that touches a genuinely complicated set of documents - deeds, division orders, decline curves, price differentials - and we built this around the belief that an owner who understands their own statement gets treated more fairly by everyone they deal with, us included.",
+  "This page isn't a company history, because we're not going to invent one. It's what we believe about this market and how we operate in it."
+ ],
+ "sections": [
+  {
+   "heading": "Why gas ownership is harder to read than oil",
+   "paragraphs": [
+    "Oil is priced against a benchmark most people have some feel for from the news. Gas is priced at a regional hub or wellhead, trades at a differential most owners have never had explained to them, and often carries a second product line - NGLs - that behaves differently than the gas itself. Add post-production deductions that legitimately vary by basin and by pipeline capacity, and you get a statement that looks like a foreign language to a lot of owners holding real value they can't fully read.",
+    "That gap - between what the statement actually says and what most owners understand from it - is the whole reason this site exists. We think an owner who can read their own volume, price, and deduction lines negotiates from a stronger position, whether they sell to us or to somebody else."
+   ]
+  },
+  {
+   "heading": "How we work",
+   "paragraphs": [
+    "One person handles your file from first conversation to closing - not a call center rotation. We ask for your statements before we quote a number, and we'll walk you through what they show before we talk price, because we'd rather you understand the number than just accept it. Offers are documented: the trailing period used, the assumptions behind the multiple, explained in plain terms rather than handed over as a flat figure with no math attached.",
+    "We don't run short deadlines to pressure a signature. Gas value moves with the price cycle over weeks and months, not hours, and a documented offer holds up whether you sit with it for a day or a month."
+   ]
+  },
+  {
+   "heading": "What we believe about this market",
+   "paragraphs": [
+    "We believe informed sellers get better outcomes, even when they don't sell to us - which is why the resources on this site explain statements, deeds, division orders, and appraisal methods in enough depth to actually be useful rather than merely enough to generate a lead. We believe price-cycle timing is real and worth saying out loud, not something to quietly use against an owner who doesn't know to ask about it. And we believe deduction honesty matters - a rising deduction line isn't automatically a problem, and pretending otherwise to make our own offer look better by comparison isn't a game we play."
+   ]
+  },
+  {
+   "heading": "When we'd tell you not to sell",
+   "paragraphs": [
+    "If a well is early in its production life with a long, strong decline curve ahead of it, or gas pricing looks likely to strengthen based on real basin or storage conditions rather than speculation, we'll say so plainly, even if it means you decide to hold instead of sell. We'd rather have that conversation honestly than have you sell into a moment that wasn't right for your specific interest."
+   ]
+  },
+  {
+   "heading": "What we're not",
+   "paragraphs": [
+    "We're not licensed appraisers, attorneys, or CPAs. Anything we tell you about value, title, or tax treatment is general and drawn from working in this business - for your specific situation, especially tax questions around basis and depletion, talk to your own CPA or attorney before you close. We'll always tell you which kind of buyer we are: a direct buyer with our own money on the table, not a broker shopping your interest to a list."
+   ]
   }
+ ],
+ "faqs": [
+  {
+   "question": "Are you a broker or a direct buyer?",
+   "answer": "A direct buyer. We're not shopping your interest to a list of other buyers or marking up a middleman's offer - the number we quote is what we'd pay, and there's no broker commission coming out of it."
+  },
+  {
+   "question": "Do you only buy gas-producing minerals?",
+   "answer": "No - we work with producing, non-producing, leased, and unleased interests, and we're upfront that non-producing acreage gets valued differently, against comparable lease bonuses and permit activity rather than royalty history."
+  },
+  {
+   "question": "Why do you explain so much before asking for a decision?",
+   "answer": "Because an owner who understands their statement makes a better decision, and a better decision - even one that isn't to sell to us - is worth more to our reputation than a quick signature on a number nobody understood."
+  },
+  {
+   "question": "Can you help if your ownership is a small fractional interest from inherited land?",
+   "answer": "Yes - this comes up constantly, especially with minerals divided informally among heirs over generations, and we can walk through what documentation would be needed to establish clean, sellable title."
+  }
+ ],
+ "wordCount": 859,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-about-sellyourgasroyalties-com.jpg",
+  "alt": "About mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
 }

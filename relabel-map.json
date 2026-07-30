@@ -535,7 +535,7 @@
           "selector": ".hv2-latest-news-owl",
           "type": "direct",
           "slides": ".hv2-latest-news-item",
-          "visible": 3,
+          "visible": 2,
           "autoplay": 7000
         }
       ],

@@ -1,73 +1,73 @@
 {
-  "slug": "mineral-deed-transfer",
-  "title": "Mineral Deeds & Title Transfer",
-  "type": "resource",
-  "status": "written",
-  "metaTitle": "Mineral Deed & Title Transfer Basics",
-  "metaDescription": "How a mineral deed actually transfers title - recording, legal descriptions, and the title work that determines how fast a sale closes.",
-  "heroLead": "The deed is the whole ballgame. Everything before it is negotiation; everything after it is paperwork.",
-  "intro": [
-    "A mineral sale isn't final because you shook hands on a number - it's final when a deed is signed, notarized, and recorded at the county courthouse where the minerals sit. Understanding what that document actually does, and what slows it down, keeps a straightforward sale from turning into a three-month title chase.",
-    "This is the mechanical side of selling - less about what your minerals are worth, more about how ownership legally moves from you to a buyer."
-  ],
-  "sections": [
-    {
-      "heading": "What a mineral deed does",
-      "paragraphs": [
-        "A mineral deed conveys ownership of the mineral estate - the gas, oil, and associated substances beneath a described tract - separately from the surface. It names the grantor (you), the grantee (the buyer), the legal description of the tract, and the fraction of the mineral interest being conveyed. Recording it at the county clerk's or recorder's office puts the transfer into the public record, which is what protects the buyer's title and closes out your ownership going forward.",
-        "The legal description matters more than people expect - it needs to match the description in your existing chain of title precisely, or the transfer can create a title defect that shows up later, sometimes years later when someone else tries to sell or lease the same tract."
-      ]
-    },
-    {
-      "heading": "The title work that happens before recording",
-      "paragraphs": [
-        "Before a buyer records a deed, they typically run a title check to confirm the chain of ownership from the original patent or first severance down to you, with no unexplained gaps - missing heirs, unrecorded prior conveyances, old liens or judgments still attached to the tract. On clean title with a straightforward ownership history, this can move in days. On a tract that passed through multiple generations without every transfer being recorded, it can take considerably longer.",
-        "This is where inherited interests most often hit friction. If a parent or grandparent's estate was never formally probated, or the minerals were divided informally among siblings without deeds ever being drawn up, a buyer's title work will need that gap closed - sometimes with an affidavit of heirship, sometimes with a court proceeding - before they'll record a clean deed."
-      ]
-    },
-    {
-      "heading": "Types of deeds you might encounter",
-      "paragraphs": [
-        "A warranty deed carries the seller's promise that the title is clear and they'll defend it if a claim surfaces later. A quitclaim or mineral deed without warranty conveys whatever interest the seller actually has, with no such promise - common when title is uncertain or when family members transfer interests among themselves. Which type gets used in your sale is worth understanding, since it affects what protection, if any, the buyer is relying on beyond their own title work."
-      ]
-    },
-    {
-      "heading": "What happens right after recording",
-      "paragraphs": [
-        "Once the deed is recorded, the buyer typically sends a certified copy to the well operator to trigger a new division order in their name - this is a separate step from recording, and it's the one that actually redirects future royalty checks. Expect a payment cycle or two of lag while the operator processes the change; that gap is normal, not a sign anything went wrong."
-      ]
-    },
-    {
-      "heading": "Common gaps that slow a transfer down",
-      "paragraphs": [
-        "A prior conveyance that was signed but never taken to the courthouse to be recorded is one of the most common gaps - the seller may genuinely believe they own something that, on paper, still shows in a prior owner's name. A name that changed through marriage or otherwise without a corrective document linking the old and new name in the record is another frequent snag, small on its own but enough to stall a title check until it's cleared up.",
-        "Mineral interests severed from the surface estate decades ago sometimes carry incomplete legal descriptions by today's standards - a description that made sense referencing landmarks in an earlier era can require additional work to tie cleanly to a modern survey. None of these are unusual or disqualifying; they're just the kind of thing worth surfacing early rather than discovering midway through a closing timeline."
-      ]
-    }
-  ],
-  "faqs": [
-    {
-      "question": "Does a mineral deed need to be notarized?",
-      "answer": "Yes - notarization is a standard requirement for a mineral deed to be recorded at the county clerk's or recorder's office. Without it, the county typically won't accept the document for recording."
-    },
-    {
-      "question": "What if the legal description on your deed has a typo or doesn't match older records?",
-      "answer": "This is worth fixing before closing, not after - a mismatched legal description can create title problems down the line. A title company or attorney handling the closing should catch and correct this."
-    },
-    {
-      "question": "How long does it take for a courthouse to record a deed?",
-      "answer": "This varies by county, from same-day in some offices to several weeks in busier ones, especially in active drilling counties where recording volume is high. Ask the closing party for that county's typical turnaround."
-    },
-    {
-      "question": "You inherited your minerals informally - can you still get a clean deed to sell?",
-      "answer": "Usually yes, but expect an extra step - an affidavit of heirship or, in some cases, a probate or court proceeding to formally establish your ownership before a buyer will record a deed transferring it onward."
-    }
-  ],
-  "wordCount": 897,
-  "image": {
-    "src": "/images/resources/mineral-rights-resources-mineral-deed-transfer-sellyourgasroyalties-com.jpg",
-    "alt": "Mineral Deeds & Title Transfer mineral rights",
-    "width": 1600,
-    "height": 1000
+ "slug": "mineral-deed-transfer",
+ "title": "Mineral Deeds & Title Transfer",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Mineral Deed & Title Transfer Basics",
+ "metaDescription": "How a mineral deed actually transfers title - recording, legal descriptions, and the title work that determines how fast a sale closes.",
+ "heroLead": "The deed is the whole ballgame. Everything before it is negotiation; everything after it is paperwork.",
+ "intro": [
+  "A mineral sale isn't final because you shook hands on a number - it's final when a deed is signed, notarized, and recorded at the county courthouse where the minerals sit. Understanding what that document actually does, and what slows it down, keeps a straightforward sale from turning into a three-month title chase.",
+  "This is the mechanical side of selling - less about what your minerals are worth, more about how ownership legally moves from you to a buyer."
+ ],
+ "sections": [
+  {
+   "heading": "What a mineral deed does",
+   "paragraphs": [
+    "A mineral deed conveys ownership of the mineral estate - the gas, oil, and associated substances beneath a described tract - separately from the surface. It names the grantor (you), the grantee (the buyer), the legal description of the tract, and the fraction of the mineral interest being conveyed. Recording it at the county clerk's or recorder's office puts the transfer into the public record, which is what protects the buyer's title and closes out your ownership going forward.",
+    "The legal description matters more than people expect - it needs to match the description in your existing chain of title precisely, or the transfer can create a title defect that shows up later, sometimes years later when someone else tries to sell or lease the same tract."
+   ]
+  },
+  {
+   "heading": "The title work that happens before recording",
+   "paragraphs": [
+    "Before a buyer records a deed, they typically run a title check to confirm the chain of ownership from the original patent or first severance down to you, with no unexplained gaps - missing heirs, unrecorded prior conveyances, old liens or judgments still attached to the tract. On clean title with a straightforward ownership history, this can move in days. On a tract that passed through multiple generations without every transfer being recorded, it can take considerably longer.",
+    "This is where inherited interests most often hit friction. If a parent or grandparent's estate was never formally probated, or the minerals were divided informally among siblings without deeds ever being drawn up, a buyer's title work will need that gap closed - sometimes with an affidavit of heirship, sometimes with a court proceeding - before they'll record a clean deed."
+   ]
+  },
+  {
+   "heading": "Types of deeds you might encounter",
+   "paragraphs": [
+    "A warranty deed carries the seller's promise that the title is clear and they'll defend it if a claim surfaces later. A quitclaim or mineral deed without warranty conveys whatever interest the seller actually has, with no such promise - common when title is uncertain or when family members transfer interests among themselves. Which type gets used in your sale is worth understanding, since it affects what protection, if any, the buyer is relying on beyond their own title work."
+   ]
+  },
+  {
+   "heading": "What happens right after recording",
+   "paragraphs": [
+    "Once the deed is recorded, the buyer typically sends a certified copy to the well operator to trigger a new division order in their name - this is a separate step from recording, and it's the one that actually redirects future royalty checks. Expect a payment cycle or two of lag while the operator processes the change; that gap is normal, not a sign anything went wrong."
+   ]
+  },
+  {
+   "heading": "Common gaps that slow a transfer down",
+   "paragraphs": [
+    "A prior conveyance that was signed but never taken to the courthouse to be recorded is one of the most common gaps - the seller may genuinely believe they own something that, on paper, still shows in a prior owner's name. A name that changed through marriage or otherwise without a corrective document linking the old and new name in the record is another frequent snag, small on its own but enough to stall a title check until it's cleared up.",
+    "Mineral interests severed from the surface estate decades ago sometimes carry incomplete legal descriptions by today's standards - a description that made sense referencing landmarks in an earlier era can require additional work to tie cleanly to a modern survey. None of these are unusual or disqualifying; they're just the kind of thing worth surfacing early rather than discovering midway through a closing timeline."
+   ]
   }
+ ],
+ "faqs": [
+  {
+   "question": "Does a mineral deed need to be notarized?",
+   "answer": "Yes - notarization is a standard requirement for a mineral deed to be recorded at the county clerk's or recorder's office. Without it, the county typically won't accept the document for recording."
+  },
+  {
+   "question": "What if the legal description on your deed has a typo or doesn't match older records?",
+   "answer": "This is worth fixing before closing, not after - a mismatched legal description can create title problems down the line. A title company or attorney handling the closing should catch and correct this."
+  },
+  {
+   "question": "How long does it take for a courthouse to record a deed?",
+   "answer": "This varies by county, from same-day in some offices to several weeks in busier ones, especially in active drilling counties where recording volume is high. Ask the closing party for that county's typical turnaround."
+  },
+  {
+   "question": "You inherited your minerals informally - can you still get a clean deed to sell?",
+   "answer": "Usually yes, but expect an extra step - an affidavit of heirship or, in some cases, a probate or court proceeding to formally establish your ownership before a buyer will record a deed transferring it onward."
+  }
+ ],
+ "wordCount": 897,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-deed-transfer-sellyourgasroyalties-com.jpg",
+  "alt": "Mineral Deeds & Title Transfer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
 }
