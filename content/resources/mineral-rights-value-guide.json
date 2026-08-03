@@ -1,72 +1,72 @@
 {
- "slug": "mineral-rights-value-guide",
- "title": "What Are Mineral Rights Worth?",
- "type": "resource",
- "status": "written",
- "metaTitle": "What Are Gas Mineral Rights Worth?",
- "metaDescription": "How gas royalty multiples work, why timing in the price cycle matters, and what actually moves a buyer's number - explained by a working landman.",
- "heroLead": "Ask ten buyers what your minerals are worth and you'll get ten numbers, because the honest answer is a range that depends on the month you ask.",
- "intro": [
-  "Gas mineral value gets quoted two ways in this business: a flat dollar-per-acre figure, or a multiple of trailing royalty income. Both are shorthand for the same underlying math - what a buyer expects the well or unit to pay out over its remaining life, discounted back to today, adjusted for how confident they are in that forecast.",
-  "For gas-weighted interests specifically, that forecast is more volatile than for oil, because gas prices swing wider on a percentage basis and the differential to Henry Hub can shift with pipeline capacity in your basin. That volatility is exactly why timing and documentation matter more here than on an oil-heavy tract."
- ],
- "sections": [
-  {
-   "heading": "The multiple, in plain terms",
-   "paragraphs": [
-    "A royalty multiple is typically expressed as a number of months or years of trailing average royalty income - buyers will ask for twelve to thirty-six months of statements and build a number off the trend, not one good or bad month. Producing gas interests with a stable decline curve command a different multiple than non-producing acreage still waiting on a permit, and the gap between the two can be wide.",
-    "The multiple itself moves with the gas price cycle. In a strong-price stretch, buyers pay up for the same royalty stream because they expect it to hold or grow; in a weak stretch, the same stream gets a lower multiple because near-term cash flow looks thinner. This is the same reason a bond's price moves opposite its yield."
-   ]
-  },
-  {
-   "heading": "Price-cycle timing - the part sellers underweight",
-   "paragraphs": [
-    "Gas prices cycle on both a seasonal basis (winter demand pulls prices up, shoulder seasons soften them) and a multi-year basis tied to storage levels, LNG export capacity, and basin takeaway. Selling into a seasonal or cyclical low locks in a discount you didn't need to take; selling into a strength stretch can mean a materially better number on the identical mineral tract.",
-    "None of this means you should try to time the market to the week - nobody does that reliably, buyers included. It means asking a prospective buyer where current pricing sits relative to the trailing few years before you sign, and understanding that a quoted multiple this quarter isn't a permanent fact about your minerals."
-   ]
-  },
-  {
-   "heading": "What moves the number besides price",
-   "paragraphs": [
-    "Decline stage matters as much as price. A well in year one of production, still on the steep part of its curve, gets valued differently than a well ten years in and stabilized on its tail. Producing versus non-producing status matters even more - undrilled acreage is priced on lease-bonus comparables and permit activity nearby, not on royalty history that doesn't exist yet.",
-    "Title condition affects the number too. A clean, undivided interest with a current deed on record moves faster and prices cleaner than a fractional interest tangled in an old estate, because the buyer's own diligence cost gets baked into what they'll offer."
-   ]
-  },
-  {
-   "heading": "Reading a quoted number against your own statements",
-   "paragraphs": [
-    "Any dollar-per-acre or multiple a buyer quotes you should be checkable against your own royalty statements - ask them to show their math against your trailing volume and price, rather than hand you a round number with no work shown. A buyer unwilling to walk that math with you is worth a second opinion before you sign anything.",
-    "Value figures depend on current market conditions and the specific well's performance, so treat any number quoted here or elsewhere as a starting point for a conversation, not a promise."
-   ]
+  "slug": "mineral-rights-value-guide",
+  "title": "What Are Mineral Rights Worth?",
+  "type": "resource",
+  "status": "written",
+  "metaTitle": "What Are Gas Mineral Rights Worth?",
+  "metaDescription": "How gas royalty multiples work, why timing in the price cycle matters, and what actually moves a buyer's number - explained by a working landman.",
+  "heroLead": "Ask ten buyers what your minerals are worth and you'll get ten numbers, because the honest answer is a range that depends on the month you ask.",
+  "intro": [
+    "Gas mineral value gets quoted two ways in this business: a flat dollar-per-acre figure, or a multiple of trailing royalty income. Both are shorthand for the same underlying math - what a buyer expects the well or unit to pay out over its remaining life, discounted back to today, adjusted for how confident they are in that forecast.",
+    "For gas-weighted interests specifically, that forecast is more volatile than for oil, because gas prices swing wider on a percentage basis and the differential to Henry Hub can shift with pipeline capacity in your basin. That volatility is exactly why timing and documentation matter more here than on an oil-heavy tract."
+  ],
+  "sections": [
+    {
+      "heading": "The multiple, in plain terms",
+      "paragraphs": [
+        "A royalty multiple is typically expressed as a number of months or years of trailing average royalty income - buyers will ask for twelve to thirty-six months of statements and build a number off the trend, not one good or bad month. Producing gas interests with a stable decline curve command a different multiple than non-producing acreage still waiting on a permit, and the gap between the two can be wide.",
+        "The multiple itself moves with the gas price cycle. In a strong-price stretch, buyers pay up for the same royalty stream because they expect it to hold or grow; in a weak stretch, the same stream gets a lower multiple because near-term cash flow looks thinner. This is the same reason a bond's price moves opposite its yield."
+      ]
+    },
+    {
+      "heading": "Price-cycle timing - the part sellers underweight",
+      "paragraphs": [
+        "Gas prices cycle on both a seasonal basis (winter demand pulls prices up, shoulder seasons soften them) and a multi-year basis tied to storage levels, LNG export capacity, and basin takeaway. Selling into a seasonal or cyclical low locks in a discount you didn't need to take; selling into a strength stretch can mean a materially better number on the identical mineral tract.",
+        "None of this means you should try to time the market to the week - nobody does that reliably, buyers included. It means asking a prospective buyer where current pricing sits relative to the trailing few years before you sign, and understanding that a quoted multiple this quarter isn't a permanent fact about your minerals."
+      ]
+    },
+    {
+      "heading": "What moves the number besides price",
+      "paragraphs": [
+        "Decline stage matters as much as price. A well in year one of production, still on the steep part of its curve, gets valued differently than a well ten years in and stabilized on its tail. Producing versus non-producing status matters even more - undrilled acreage is priced on lease-bonus comparables and permit activity nearby, not on royalty history that doesn't exist yet.",
+        "Title condition affects the number too. A clean, undivided interest with a current deed on record moves faster and prices cleaner than a fractional interest tangled in an old estate, because the buyer's own diligence cost gets baked into what they'll offer."
+      ]
+    },
+    {
+      "heading": "Reading a quoted number against your own statements",
+      "paragraphs": [
+        "Any dollar-per-acre or multiple a buyer quotes you should be checkable against your own royalty statements - ask them to show their math against your trailing volume and price, rather than hand you a round number with no work shown. A buyer unwilling to walk that math with you is worth a second opinion before you sign anything.",
+        "Value figures depend on current market conditions and the specific well's performance, so treat any number quoted here or elsewhere as a starting point for a conversation, not a promise."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is there a standard price per acre for gas mineral rights?",
+      "answer": "No. Value depends on producing status, decline stage, current gas pricing, and the differential in your basin. Any flat per-acre figure quoted without looking at your statements is a starting estimate at best."
+    },
+    {
+      "question": "Does selling in winter get a better price than summer?",
+      "answer": "Not automatically, but seasonal demand does move gas prices, and a producing tract's near-term royalty forecast is part of the multiple. It's worth asking a buyer how current conditions compare to the trailing year before signing."
+    },
+    {
+      "question": "Are non-producing minerals worth less than producing ones?",
+      "answer": "Usually, since there's no royalty history to price against - value there leans on lease-bonus comparables and nearby permit or drilling activity instead. That can still be real value, just priced differently."
+    },
+    {
+      "question": "How many months of statements should you bring to get a real number?",
+      "answer": "Twelve to thirty-six months if you have them. One or two statements can be a seasonal high or low and will skew the read; a longer trend gives a buyer - and you - a fairer basis for a multiple."
+    },
+    {
+      "question": "Can NGLs affect the multiple on a gas-weighted interest?",
+      "answer": "Yes. Liquids-rich gas often shows steadier net revenue through a weak gas-price stretch than dry gas does, since NGL pricing moves somewhat independently, and buyers factor that into the multiple they'll pay."
+    }
+  ],
+  "wordCount": 857,
+  "image": {
+    "src": "/images/resources/mineral-rights-resources-mineral-rights-value-guide-sellyourgasroyalties-com.jpg",
+    "alt": "What Are Mineral Rights Worth? mineral rights",
+    "width": 1600,
+    "height": 1000
   }
- ],
- "faqs": [
-  {
-   "question": "Is there a standard price per acre for gas mineral rights?",
-   "answer": "No. Value depends on producing status, decline stage, current gas pricing, and the differential in your basin. Any flat per-acre figure quoted without looking at your statements is a starting estimate at best."
-  },
-  {
-   "question": "Does selling in winter get a better price than summer?",
-   "answer": "Not automatically, but seasonal demand does move gas prices, and a producing tract's near-term royalty forecast is part of the multiple. It's worth asking a buyer how current conditions compare to the trailing year before signing."
-  },
-  {
-   "question": "Are non-producing minerals worth less than producing ones?",
-   "answer": "Usually, since there's no royalty history to price against - value there leans on lease-bonus comparables and nearby permit or drilling activity instead. That can still be real value, just priced differently."
-  },
-  {
-   "question": "How many months of statements should you bring to get a real number?",
-   "answer": "Twelve to thirty-six months if you have them. One or two statements can be a seasonal high or low and will skew the read; a longer trend gives a buyer - and you - a fairer basis for a multiple."
-  },
-  {
-   "question": "Can NGLs affect the multiple on a gas-weighted interest?",
-   "answer": "Yes. Liquids-rich gas often shows steadier net revenue through a weak gas-price stretch than dry gas does, since NGL pricing moves somewhat independently, and buyers factor that into the multiple they'll pay."
-  }
- ],
- "wordCount": 857,
- "image": {
-  "src": "/images/resources/mineral-rights-resources-mineral-rights-value-guide-sellyourgasroyalties-com.jpg",
-  "alt": "What Are Mineral Rights Worth? mineral rights",
-  "width": 1600,
-  "height": 1000
- }
 }

@@ -1,74 +1,74 @@
 {
- "slug": "documents-checklist",
- "title": "Documents You Need to Sell",
- "type": "resource",
- "status": "written",
- "metaTitle": "Documents Needed to Sell Gas Royalties",
- "metaDescription": "The deed, the statements, the lease, and what a title company will actually ask for - a plain checklist for selling gas mineral or royalty interests.",
- "heroLead": "You don't need a filing cabinet. You need four or five specific documents, and knowing which ones speeds everything up.",
- "intro": [
-  "Every sale the gas royalty desk has worked, gas or oil, stalls in the same place - not price, paperwork. Someone finally agrees to a number and then spends three weeks hunting for a deed that's been in a shoebox since an aunt passed it down. Gathering what you can before you start pricing conversations shortens the whole process and, honestly, tends to get you a better first offer, because a buyer prices confidence into the number.",
-  "Here's what actually gets asked for, roughly in the order it matters."
- ],
- "sections": [
-  {
-   "heading": "The deed that shows you own it",
-   "paragraphs": [
-    "This is the document that proves your interest exists - the mineral deed, or the deed reservation if minerals were severed from surface at some point in the chain. If you inherited the interest, this might be a probated will, an affidavit of heirship, or a deed from an estate, depending on how the state you're in handles inherited minerals. If you don't have a copy, the county clerk or recorder's office where the land sits keeps these on record and can usually pull a certified copy for a small fee.",
-    "If the interest passed through more than one generation without ever being formally probated or recorded, that's not disqualifying - it's just a longer title chain a buyer's title work will need to run down. Flag it early rather than let it surface mid-negotiation."
-   ]
-  },
-  {
-   "heading": "Recent royalty statements",
-   "paragraphs": [
-    "If the interest is producing, gather twelve to thirty-six months of royalty statements if you have them. This is the single document that most directly affects your number, since it's what a buyer prices a multiple against. No statements on hand doesn't kill a sale - the operator can usually be identified from the courthouse record and statements requested - but having them ready is the fastest path to an accurate first offer.",
-    "For gas interests specifically, statements that show the volume, price, and deduction lines separately (rather than one lump net figure) let a buyer evaluate the well's decline curve and the deduction pattern faster, which usually works in your favor."
-   ]
-  },
-  {
-   "heading": "The lease, if the tract is leased",
-   "paragraphs": [
-    "A copy of the current oil and gas lease matters because its terms - the royalty fraction, the deduction language, the primary term and any extensions - directly shape what's being valued. If you don't have your copy, it's recorded at the county clerk's office where the minerals sit, same as the deed.",
-    "If your interest is unleased, say so plainly - unleased minerals are valued differently, generally against lease-bonus comparables and permit activity nearby rather than existing royalty income."
-   ]
-  },
-  {
-   "heading": "Division order and current mailing information",
-   "paragraphs": [
-    "A copy of your most recent division order confirms your decimal interest in a specific well, which cross-checks against your statements. Alongside that, have your Social Security number or tax ID and a government ID ready for the closing paperwork itself - not for anything before that - since a sale ultimately closes like a real estate transaction, with a notarized deed recorded at the courthouse."
-   ]
-  },
-  {
-   "heading": "What matters less than owners expect",
-   "paragraphs": [
-    "You don't need a formal survey, a current title insurance policy, or an attorney-prepared abstract before you start a conversation about selling - those are things a buyer's own title work handles, not something you need to commission yourself ahead of time. You also don't need to track down every heir on a family tract before reaching out; a buyer familiar with heirship situations can usually tell you what's needed once they see the deed and understand the ownership history.",
-    "Gathering what you have is more useful than waiting until you have everything. A file with a deed and a couple of statements is enough to start a real conversation and get a preliminary read on value while the rest gets sorted out in parallel."
-   ]
+  "slug": "documents-checklist",
+  "title": "Documents You Need to Sell",
+  "type": "resource",
+  "status": "written",
+  "metaTitle": "Documents Needed to Sell Gas Royalties",
+  "metaDescription": "The deed, the statements, the lease, and what a title company will actually ask for - a plain checklist for selling gas mineral or royalty interests.",
+  "heroLead": "You don't need a filing cabinet. You need four or five specific documents, and knowing which ones speeds everything up.",
+  "intro": [
+    "Every sale the gas royalty desk has worked, gas or oil, stalls in the same place - not price, paperwork. Someone finally agrees to a number and then spends three weeks hunting for a deed that's been in a shoebox since an aunt passed it down. Gathering what you can before you start pricing conversations shortens the whole process and, honestly, tends to get you a better first offer, because a buyer prices confidence into the number.",
+    "Here's what actually gets asked for, roughly in the order it matters."
+  ],
+  "sections": [
+    {
+      "heading": "The deed that shows you own it",
+      "paragraphs": [
+        "This is the document that proves your interest exists - the mineral deed, or the deed reservation if minerals were severed from surface at some point in the chain. If you inherited the interest, this might be a probated will, an affidavit of heirship, or a deed from an estate, depending on how the state you're in handles inherited minerals. If you don't have a copy, the county clerk or recorder's office where the land sits keeps these on record and can usually pull a certified copy for a small fee.",
+        "If the interest passed through more than one generation without ever being formally probated or recorded, that's not disqualifying - it's just a longer title chain a buyer's title work will need to run down. Flag it early rather than let it surface mid-negotiation."
+      ]
+    },
+    {
+      "heading": "Recent royalty statements",
+      "paragraphs": [
+        "If the interest is producing, gather twelve to thirty-six months of royalty statements if you have them. This is the single document that most directly affects your number, since it's what a buyer prices a multiple against. No statements on hand doesn't kill a sale - the operator can usually be identified from the courthouse record and statements requested - but having them ready is the fastest path to an accurate first offer.",
+        "For gas interests specifically, statements that show the volume, price, and deduction lines separately (rather than one lump net figure) let a buyer evaluate the well's decline curve and the deduction pattern faster, which usually works in your favor."
+      ]
+    },
+    {
+      "heading": "The lease, if the tract is leased",
+      "paragraphs": [
+        "A copy of the current oil and gas lease matters because its terms - the royalty fraction, the deduction language, the primary term and any extensions - directly shape what's being valued. If you don't have your copy, it's recorded at the county clerk's office where the minerals sit, same as the deed.",
+        "If your interest is unleased, say so plainly - unleased minerals are valued differently, generally against lease-bonus comparables and permit activity nearby rather than existing royalty income."
+      ]
+    },
+    {
+      "heading": "Division order and current mailing information",
+      "paragraphs": [
+        "A copy of your most recent division order confirms your decimal interest in a specific well, which cross-checks against your statements. Alongside that, have your Social Security number or tax ID and a government ID ready for the closing paperwork itself - not for anything before that - since a sale ultimately closes like a real estate transaction, with a notarized deed recorded at the courthouse."
+      ]
+    },
+    {
+      "heading": "What matters less than owners expect",
+      "paragraphs": [
+        "You don't need a formal survey, a current title insurance policy, or an attorney-prepared abstract before you start a conversation about selling - those are things a buyer's own title work handles, not something you need to commission yourself ahead of time. You also don't need to track down every heir on a family tract before reaching out; a buyer familiar with heirship situations can usually tell you what's needed once they see the deed and understand the ownership history.",
+        "Gathering what you have is more useful than waiting until you have everything. A file with a deed and a couple of statements is enough to start a real conversation and get a preliminary read on value while the rest gets sorted out in parallel."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What if you cannot find your original deed?",
+      "answer": "The county clerk or recorder's office where the minerals are located keeps deed records on file and can typically produce a certified copy. This is public record - it's not lost just because your personal copy is."
+    },
+    {
+      "question": "Can you sell if you inherited the minerals and never formally probated the estate?",
+      "answer": "Often yes, but it adds a step - a buyer's title work will need to trace ownership through the estate, sometimes requiring an affidavit of heirship or a court proceeding depending on your state. Flag this early rather than after a price is agreed."
+    },
+    {
+      "question": "Do you need every royalty statement you have ever received?",
+      "answer": "No - twelve to thirty-six months of recent statements is generally enough to establish a trend. Older statements can help if the well's performance has changed significantly, but they're not required to get started."
+    },
+    {
+      "question": "What if your interest has never produced and there's no lease?",
+      "answer": "You'll have less paperwork, not none - the deed still matters, and any permit or drilling activity nearby becomes part of how the interest gets valued instead of royalty statements."
+    }
+  ],
+  "wordCount": 871,
+  "image": {
+    "src": "/images/resources/mineral-rights-resources-documents-checklist-sellyourgasroyalties-com.jpg",
+    "alt": "Documents You Need to Sell mineral rights",
+    "width": 1600,
+    "height": 1000
   }
- ],
- "faqs": [
-  {
-   "question": "What if you cannot find your original deed?",
-   "answer": "The county clerk or recorder's office where the minerals are located keeps deed records on file and can typically produce a certified copy. This is public record - it's not lost just because your personal copy is."
-  },
-  {
-   "question": "Can you sell if you inherited the minerals and never formally probated the estate?",
-   "answer": "Often yes, but it adds a step - a buyer's title work will need to trace ownership through the estate, sometimes requiring an affidavit of heirship or a court proceeding depending on your state. Flag this early rather than after a price is agreed."
-  },
-  {
-   "question": "Do you need every royalty statement you have ever received?",
-   "answer": "No - twelve to thirty-six months of recent statements is generally enough to establish a trend. Older statements can help if the well's performance has changed significantly, but they're not required to get started."
-  },
-  {
-   "question": "What if your interest has never produced and there's no lease?",
-   "answer": "You'll have less paperwork, not none - the deed still matters, and any permit or drilling activity nearby becomes part of how the interest gets valued instead of royalty statements."
-  }
- ],
- "wordCount": 871,
- "image": {
-  "src": "/images/resources/mineral-rights-resources-documents-checklist-sellyourgasroyalties-com.jpg",
-  "alt": "Documents You Need to Sell mineral rights",
-  "width": 1600,
-  "height": 1000
- }
 }

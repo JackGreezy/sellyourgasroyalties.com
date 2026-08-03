@@ -1,81 +1,81 @@
 {
- "slug": "unsolicited-offer-received",
- "title": "Got an Unsolicited Offer?",
- "type": "situation",
- "note": "benchmarking mailbox offers",
- "metaTitle": "Got an Unsolicited Offer on Your Gas Royalty? Check It First",
- "metaDescription": "A letter showed up offering to buy your gas mineral rights. Before signing, learn what these offers typically leave out and how to get a second number.",
- "heroLead": "A letter shows up offering a flat number for your gas royalty, no explanation of how they arrived at it, and a deadline nudging you to sign fast.",
- "intro": [
-  "Mineral owners with any gas production history get these letters regularly, sometimes several a year from different companies, all offering to buy your interest sight unseen. Some are legitimate, professional operations. Others are working a volume strategy, mailing thousands of letters with lowball numbers hoping enough owners sign without checking, since even a fraction saying yes makes the campaign profitable for them.",
-  "This page isn't about talking you out of selling. It's about making sure whatever number you're looking at, whether it's ours or someone else's, is one you understand and can compare against something."
- ],
- "sections": [
-  {
-   "heading": "What These Letters Usually Leave Out",
-   "paragraphs": [
-    "A cold offer typically arrives without a breakdown of how the number was reached, no reference to your actual decimal interest, no mention of the well's decline stage, no accounting for gas price differential in your specific area. It's often a flat dollar figure pulled from a database estimate of your county and acreage, not your specific check history or division order.",
-    "That doesn't automatically mean it's a bad offer, but it does mean you can't evaluate it on its own. A number with no basis attached is just a number. Ask the sender directly what data they used, what decline curve they're assuming, and what gas price they're pricing against. A legitimate buyer will answer specifically. One working a volume campaign often won't, or will answer vaguely."
-   ]
-  },
-  {
-   "heading": "Red Flags Worth Watching For",
-   "paragraphs": [
-    "A hard deadline pressuring you to sign within days, reluctance to explain how the number was calculated, and refusal to provide references or a way to verify the company's standing are the three most common signs of a lowball, volume-based offer rather than a serious one. Legitimate buyers don't need artificial urgency; a real offer based on real numbers holds up whether you sign this week or take a month to check it.",
-    "Also watch for an offer that references the wrong well, the wrong decimal interest, or acreage figures that don't match your deed. That's a sign the offer was generated from a database without anyone actually pulling your title, which means the number was never grounded in your specific interest at all."
-   ]
-  },
-  {
-   "heading": "How to Get a Second Number",
-   "paragraphs": [
-    "Send us the same deed or division order information you'd send anyone else, and we'll give you a written offer with the reasoning behind it spelled out: the check history we're looking at, the decline stage we're assuming, and how we're weighing the gas price differential in your area. Compare that against the cold letter and you'll have two data points instead of one blind number.",
-    "You're under no obligation to take our offer over theirs, or vice versa. Having a second, transparent number is simply the fastest way to know whether the first one was fair."
-   ]
-  },
-  {
-   "heading": "If You've Already Signed Something",
-   "paragraphs": [
-    "Some purchase and sale agreements include a short rescission or due diligence period before closing is final. Check the paperwork you signed for any such clause and its deadline, and if you're having second thoughts, act before that window closes, not after. Once a deed is recorded, unwinding the transaction gets considerably harder.",
-    "If you're unsure what you signed or whether it's still revocable, an attorney can review it faster than trying to sort it out alone, and that's worth the cost if a meaningful amount of money is on the line."
-   ]
+  "slug": "unsolicited-offer-received",
+  "title": "Got an Unsolicited Offer?",
+  "type": "situation",
+  "note": "benchmarking mailbox offers",
+  "metaTitle": "Got an Unsolicited Offer on Your Gas Royalty? Check It First",
+  "metaDescription": "A letter showed up offering to buy your gas mineral rights. Before signing, learn what these offers typically leave out and how to get a second number.",
+  "heroLead": "A letter shows up offering a flat number for your gas royalty, no explanation of how they arrived at it, and a deadline nudging you to sign fast.",
+  "intro": [
+    "Mineral owners with any gas production history get these letters regularly, sometimes several a year from different companies, all offering to buy your interest sight unseen. Some are legitimate, professional operations. Others are working a volume strategy, mailing thousands of letters with lowball numbers hoping enough owners sign without checking, since even a fraction saying yes makes the campaign profitable for them.",
+    "This page isn't about talking you out of selling. It's about making sure whatever number you're looking at, whether it's ours or someone else's, is one you understand and can compare against something."
+  ],
+  "sections": [
+    {
+      "heading": "What These Letters Usually Leave Out",
+      "paragraphs": [
+        "A cold offer typically arrives without a breakdown of how the number was reached, no reference to your actual decimal interest, no mention of the well's decline stage, no accounting for gas price differential in your specific area. It's often a flat dollar figure pulled from a database estimate of your county and acreage, not your specific check history or division order.",
+        "That doesn't automatically mean it's a bad offer, but it does mean you can't evaluate it on its own. A number with no basis attached is just a number. Ask the sender directly what data they used, what decline curve they're assuming, and what gas price they're pricing against. A legitimate buyer will answer specifically. One working a volume campaign often won't, or will answer vaguely."
+      ]
+    },
+    {
+      "heading": "Red Flags Worth Watching For",
+      "paragraphs": [
+        "A hard deadline pressuring you to sign within days, reluctance to explain how the number was calculated, and refusal to provide references or a way to verify the company's standing are the three most common signs of a lowball, volume-based offer rather than a serious one. Legitimate buyers don't need artificial urgency; a real offer based on real numbers holds up whether you sign this week or take a month to check it.",
+        "Also watch for an offer that references the wrong well, the wrong decimal interest, or acreage figures that don't match your deed. That's a sign the offer was generated from a database without anyone actually pulling your title, which means the number was never grounded in your specific interest at all."
+      ]
+    },
+    {
+      "heading": "How to Get a Second Number",
+      "paragraphs": [
+        "Send us the same deed or division order information you'd send anyone else, and we'll give you a written offer with the reasoning behind it spelled out: the check history we're looking at, the decline stage we're assuming, and how we're weighing the gas price differential in your area. Compare that against the cold letter and you'll have two data points instead of one blind number.",
+        "You're under no obligation to take our offer over theirs, or vice versa. Having a second, transparent number is simply the fastest way to know whether the first one was fair."
+      ]
+    },
+    {
+      "heading": "If You've Already Signed Something",
+      "paragraphs": [
+        "Some purchase and sale agreements include a short rescission or due diligence period before closing is final. Check the paperwork you signed for any such clause and its deadline, and if you're having second thoughts, act before that window closes, not after. Once a deed is recorded, unwinding the transaction gets considerably harder.",
+        "If you're unsure what you signed or whether it's still revocable, an attorney can review it faster than trying to sort it out alone, and that's worth the cost if a meaningful amount of money is on the line."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is a cold offer letter automatically a scam?",
+      "answer": "No, plenty of legitimate buyers use direct mail. The letter itself isn't the problem; a number with no explanation behind it is what deserves scrutiny."
+    },
+    {
+      "question": "How do you know if the offer amount is fair?",
+      "answer": "Ask for the basis behind the number, and get a second offer to compare it against. A fair number should hold up under both."
+    },
+    {
+      "question": "Can you negotiate a cold offer, or is it take-it-or-leave-it?",
+      "answer": "Most offers are negotiable, especially once you can show the buyer a competing number or point out details about your interest they may not have had."
+    },
+    {
+      "question": "What if the letter has a deadline that's already close?",
+      "answer": "A deadline pressuring a fast signature is a reason to slow down, not speed up. Legitimate offers generally survive a short delay while you check the number."
+    },
+    {
+      "question": "Do you charge anything to review an offer you have already received?",
+      "answer": "No. Send us the details and we'll tell you honestly whether it looks reasonable against current market activity in your area."
+    },
+    {
+      "question": "Why does a cold letter never mention gas price differential or NGL uplift?",
+      "answer": "Those details require actually pulling your well's specific production and pricing data, which a mass-mailed campaign generally skips. A serious offer should address both if your well is wet gas."
+    },
+    {
+      "question": "Can you get multiple offers before deciding anything?",
+      "answer": "Yes, and it's a reasonable way to check any single number. Just make sure each offer discloses the actual data and decline assumptions behind it, rather than only a bottom-line figure."
+    }
+  ],
+  "status": "written",
+  "wordCount": 878,
+  "image": {
+    "src": "/images/situations/mineral-rights-situations-unsolicited-offer-received-sellyourgasroyalties-com.jpg",
+    "alt": "Got an Unsolicited Offer? mineral rights",
+    "width": 1600,
+    "height": 1000
   }
- ],
- "faqs": [
-  {
-   "question": "Is a cold offer letter automatically a scam?",
-   "answer": "No, plenty of legitimate buyers use direct mail. The letter itself isn't the problem; a number with no explanation behind it is what deserves scrutiny."
-  },
-  {
-   "question": "How do you know if the offer amount is fair?",
-   "answer": "Ask for the basis behind the number, and get a second offer to compare it against. A fair number should hold up under both."
-  },
-  {
-   "question": "Can you negotiate a cold offer, or is it take-it-or-leave-it?",
-   "answer": "Most offers are negotiable, especially once you can show the buyer a competing number or point out details about your interest they may not have had."
-  },
-  {
-   "question": "What if the letter has a deadline that's already close?",
-   "answer": "A deadline pressuring a fast signature is a reason to slow down, not speed up. Legitimate offers generally survive a short delay while you check the number."
-  },
-  {
-   "question": "Do you charge anything to review an offer you have already received?",
-   "answer": "No. Send us the details and we'll tell you honestly whether it looks reasonable against current market activity in your area."
-  },
-  {
-   "question": "Why does a cold letter never mention gas price differential or NGL uplift?",
-   "answer": "Those details require actually pulling your well's specific production and pricing data, which a mass-mailed campaign generally skips. A serious offer should address both if your well is wet gas."
-  },
-  {
-   "question": "Can you get multiple offers before deciding anything?",
-   "answer": "Yes, and it's a reasonable way to check any single number. Just make sure each offer discloses the actual data and decline assumptions behind it, rather than only a bottom-line figure."
-  }
- ],
- "status": "written",
- "wordCount": 878,
- "image": {
-  "src": "/images/situations/mineral-rights-situations-unsolicited-offer-received-sellyourgasroyalties-com.jpg",
-  "alt": "Got an Unsolicited Offer? mineral rights",
-  "width": 1600,
-  "height": 1000
- }
 }

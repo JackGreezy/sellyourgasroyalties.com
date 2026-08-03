@@ -1,86 +1,86 @@
 {
- "slug": "get-an-offer",
- "title": "Get An Offer",
- "type": "page",
- "status": "written",
- "metaTitle": "Get a Gas Royalty Offer - No Obligation",
- "metaDescription": "Send your gas royalty statements and get a documented offer, no obligation. We explain the volume, price, and deduction lines before we talk numbers.",
- "heroLead": "Send us what you have - statements, a deed, a division order - and we'll come back with a documented number, not a guess.",
- "intro": [
-  "There's no cost and no obligation to request an offer. What we ask for up front is whatever documentation you have, because a number built from your actual volume, price, and deduction history is worth more to you than a generic figure pulled off public production data alone.",
-  "If you're missing something on the list below, send what you do have. We can usually work from partial information and tell you what else, if anything, we'd need."
- ],
- "sections": [
-  {
-   "heading": "What to send",
-   "paragraphs": [
-    "Recent royalty statements, ideally twelve to thirty-six months, are the single most useful document if the interest is producing. Alongside that, a copy of your deed (or the county and legal description if you don't have the deed handy), your most recent division order if you have one, and your lease if the tract is leased.",
-    "If the interest has never produced or isn't currently leased, that's fine - tell us that directly and we'll work from the deed and any permit or lease activity nearby instead."
-   ]
-  },
-  {
-   "heading": "What happens after you send it",
-   "paragraphs": [
-    "We review your file and typically come back with a documented offer within a few business days. The offer will show the trailing period we used and the reasoning behind the number - our gas-price and differential assumptions, how we read your deduction line, and how we're weighing the well's decline stage. You're welcome to ask us to walk through any part of it before you decide anything."
-   ]
-  },
-  {
-   "heading": "If you're comparing offers",
-   "paragraphs": [
-    "We'd genuinely rather you get a second opinion than sign a number you're unsure about. If you already have another offer in hand, send it along - we can tell you honestly whether ours looks comparable, and if it doesn't, we'll explain the difference in assumptions rather than just match a number to win the deal."
-   ]
-  },
-  {
-   "heading": "Fractional and inherited interests",
-   "paragraphs": [
-    "If your ownership came through inheritance and was never formally divided or recorded among heirs, that's common and workable - tell us the situation and we'll explain what documentation, like an affidavit of heirship, might be needed to move toward a clean sale. Small fractional interests are worth asking about even when they feel too small to bother with."
-   ]
-  },
-  {
-   "heading": "What the number in your offer actually reflects",
-   "paragraphs": [
-    "Because we work gas-weighted interests specifically, our review pays particular attention to how your gas has been priced against the differential in your basin, whether NGL revenue is showing up separately or rolled into the gas line, and how the deduction column has trended over the period you send. Two gas interests with identical volume can price differently once those factors are accounted for honestly, and we'd rather explain that difference than smooth it over.",
-    "We'll also tell you where current gas pricing sits relative to the trailing year or two, since that context affects the multiple applied to your interest and is worth knowing regardless of whether you sell now or later."
-   ]
-  },
-  {
-   "heading": "Non-producing and unleased interests",
-   "paragraphs": [
-    "If your mineral interest has never produced, or isn't currently under lease, you can still request an offer - the review just looks at different evidence, primarily comparable lease bonuses and permit or drilling activity near your tract rather than royalty history. Send the deed and county information you have, and mention clearly that the interest is non-producing so we can evaluate it on the right basis from the start."
-   ]
+  "slug": "get-an-offer",
+  "title": "Get An Offer",
+  "type": "page",
+  "status": "written",
+  "metaTitle": "Get a Gas Royalty Offer - No Obligation",
+  "metaDescription": "Send your gas royalty statements and get a documented offer, no obligation. We explain the volume, price, and deduction lines before we talk numbers.",
+  "heroLead": "Send us what you have - statements, a deed, a division order - and we'll come back with a documented number, not a guess.",
+  "intro": [
+    "There's no cost and no obligation to request an offer. What we ask for up front is whatever documentation you have, because a number built from your actual volume, price, and deduction history is worth more to you than a generic figure pulled off public production data alone.",
+    "If you're missing something on the list below, send what you do have. We can usually work from partial information and tell you what else, if anything, we'd need."
+  ],
+  "sections": [
+    {
+      "heading": "What to send",
+      "paragraphs": [
+        "Recent royalty statements, ideally twelve to thirty-six months, are the single most useful document if the interest is producing. Alongside that, a copy of your deed (or the county and legal description if you don't have the deed handy), your most recent division order if you have one, and your lease if the tract is leased.",
+        "If the interest has never produced or isn't currently leased, that's fine - tell us that directly and we'll work from the deed and any permit or lease activity nearby instead."
+      ]
+    },
+    {
+      "heading": "What happens after you send it",
+      "paragraphs": [
+        "We review your file and typically come back with a documented offer within a few business days. The offer will show the trailing period we used and the reasoning behind the number - our gas-price and differential assumptions, how we read your deduction line, and how we're weighing the well's decline stage. You're welcome to ask us to walk through any part of it before you decide anything."
+      ]
+    },
+    {
+      "heading": "If you're comparing offers",
+      "paragraphs": [
+        "We'd genuinely rather you get a second opinion than sign a number you're unsure about. If you already have another offer in hand, send it along - we can tell you honestly whether ours looks comparable, and if it doesn't, we'll explain the difference in assumptions rather than just match a number to win the deal."
+      ]
+    },
+    {
+      "heading": "Fractional and inherited interests",
+      "paragraphs": [
+        "If your ownership came through inheritance and was never formally divided or recorded among heirs, that's common and workable - tell us the situation and we'll explain what documentation, like an affidavit of heirship, might be needed to move toward a clean sale. Small fractional interests are worth asking about even when they feel too small to bother with."
+      ]
+    },
+    {
+      "heading": "What the number in your offer actually reflects",
+      "paragraphs": [
+        "Because we work gas-weighted interests specifically, our review pays particular attention to how your gas has been priced against the differential in your basin, whether NGL revenue is showing up separately or rolled into the gas line, and how the deduction column has trended over the period you send. Two gas interests with identical volume can price differently once those factors are accounted for honestly, and we'd rather explain that difference than smooth it over.",
+        "We'll also tell you where current gas pricing sits relative to the trailing year or two, since that context affects the multiple applied to your interest and is worth knowing regardless of whether you sell now or later."
+      ]
+    },
+    {
+      "heading": "Non-producing and unleased interests",
+      "paragraphs": [
+        "If your mineral interest has never produced, or isn't currently under lease, you can still request an offer - the review just looks at different evidence, primarily comparable lease bonuses and permit or drilling activity near your tract rather than royalty history. Send the deed and county information you have, and mention clearly that the interest is non-producing so we can evaluate it on the right basis from the start."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is requesting an offer free?",
+      "answer": "Yes. There's no cost and no obligation to request or receive a documented offer - it's a starting point for a decision, not a commitment."
+    },
+    {
+      "question": "How quickly will you hear back?",
+      "answer": "Typically within a few business days of us receiving your statements or documentation, depending on how straightforward the file is."
+    },
+    {
+      "question": "What if you do not have any of the documents on the list?",
+      "answer": "Send what you have and tell us what's missing. In many cases we can identify the operator and county records ourselves and work forward from there."
+    },
+    {
+      "question": "Will requesting an offer affect your current royalty payments?",
+      "answer": "No - requesting or reviewing an offer doesn't change anything about your ownership or your existing royalty payments unless and until you decide to sell and the deal closes."
+    },
+    {
+      "question": "Does it matter if your gas is liquids-rich versus mostly dry gas?",
+      "answer": "It can affect the number, since liquids-rich gas often carries a different revenue and deduction pattern than dry gas. Mention it when you send your statements so the review accounts for NGL revenue correctly rather than treating it as ordinary gas volume."
+    },
+    {
+      "question": "Can you request an offer on more than one interest at the same time?",
+      "answer": "Yes - send documentation for each tract or well separately if you have multiple, since each is likely to have its own decline stage, price differential, and deduction pattern worth evaluating on its own terms."
+    }
+  ],
+  "wordCount": 850,
+  "image": {
+    "src": "/images/pages/mineral-rights-pages-get-an-offer-sellyourgasroyalties-com.jpg",
+    "alt": "Get An Offer mineral rights",
+    "width": 1600,
+    "height": 1000
   }
- ],
- "faqs": [
-  {
-   "question": "Is requesting an offer free?",
-   "answer": "Yes. There's no cost and no obligation to request or receive a documented offer - it's a starting point for a decision, not a commitment."
-  },
-  {
-   "question": "How quickly will you hear back?",
-   "answer": "Typically within a few business days of us receiving your statements or documentation, depending on how straightforward the file is."
-  },
-  {
-   "question": "What if you do not have any of the documents on the list?",
-   "answer": "Send what you have and tell us what's missing. In many cases we can identify the operator and county records ourselves and work forward from there."
-  },
-  {
-   "question": "Will requesting an offer affect your current royalty payments?",
-   "answer": "No - requesting or reviewing an offer doesn't change anything about your ownership or your existing royalty payments unless and until you decide to sell and the deal closes."
-  },
-  {
-   "question": "Does it matter if your gas is liquids-rich versus mostly dry gas?",
-   "answer": "It can affect the number, since liquids-rich gas often carries a different revenue and deduction pattern than dry gas. Mention it when you send your statements so the review accounts for NGL revenue correctly rather than treating it as ordinary gas volume."
-  },
-  {
-   "question": "Can you request an offer on more than one interest at the same time?",
-   "answer": "Yes - send documentation for each tract or well separately if you have multiple, since each is likely to have its own decline stage, price differential, and deduction pattern worth evaluating on its own terms."
-  }
- ],
- "wordCount": 850,
- "image": {
-  "src": "/images/pages/mineral-rights-pages-get-an-offer-sellyourgasroyalties-com.jpg",
-  "alt": "Get An Offer mineral rights",
-  "width": 1600,
-  "height": 1000
- }
 }

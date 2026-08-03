@@ -1,71 +1,71 @@
 {
- "slug": "overriding-royalty-interests",
- "title": "Overriding Royalty Interests (ORRI)",
- "type": "interest-type",
- "metaTitle": "ORRI on Gas Wells: Lease-Bound, Deduction-Exposed, Sellable",
- "metaDescription": "An overriding royalty interest ends when its lease does. See how ORRI gas payments work, why deductions still apply, and what makes them worth selling.",
- "heroLead": "An override doesn't own the minerals and doesn't share the drilling cost, but it also doesn't outlive the lease it's carved from, which changes how it should be valued.",
- "intro": [
-  "An overriding royalty interest, ORRI, is a royalty carved out of the working interest rather than out of the mineral estate itself, commonly created when a landman, geologist, or intermediate party assigns a lease to an operator but retains a royalty slice as compensation, or when an operator sells down part of a lease and reserves an override for itself. Like an NPRI, an ORRI holder doesn't pay drilling or operating costs. Unlike a mineral-based royalty, an ORRI is tied to a specific lease and expires when that lease terminates.",
-  "For a gas ORRI owner, that lease-bound nature, plus the same post-production deduction exposure every gas royalty carries, are the two things most worth understanding before deciding to hold or sell."
- ],
- "sections": [
-  {
-   "heading": "Why an ORRI Lives and Dies With Its Lease",
-   "paragraphs": [
-    "Because an override is carved from the working interest under a specific lease, it has no existence independent of that lease. If the well stops producing and the lease terminates, whether from depletion, non-payment of delay rentals, or expiration of its terms, your ORRI terminates along with it, with no reversion to any underlying mineral ownership the way a mineral-based royalty holder would have. There's no fallback position once the lease is gone.",
-    "This makes the remaining productive life of the specific well or unit the ORRI attaches to central to its value in a way that matters more here than for other royalty types. A gas well several years into decline on an ORRI has a genuinely limited remaining income horizon, since there's no underlying mineral estate to fall back on for a future lease once this one ends."
-   ]
-  },
-  {
-   "heading": "Deductions Apply the Same Way They Do to Any Gas Royalty",
-   "paragraphs": [
-    "Being cost-free of drilling and operating expenses doesn't mean an ORRI is free of post-production deductions. Most ORRI assignments either specify deduction treatment directly or default to whatever the underlying lease provides for gathering, compression, dehydration, and transportation costs. Read the assignment document that created your override carefully, since deduction language here varies more than owners expect, and it's the single biggest factor in how much of the gross wellhead value actually reaches your check.",
-    "If the ORRI assignment is silent on deductions, courts in different states have reached different conclusions about default treatment, another reason to have the actual document reviewed if your check seems inconsistent with what you expected."
-   ]
-  },
-  {
-   "heading": "Multiple Overrides Can Stack on the Same Lease",
-   "paragraphs": [
-    "It's common for a single lease to carry more than one ORRI, stacked from different points in the lease's assignment history, along with the working interest owner's retained share. Your specific override fraction sits within that stack, and all overrides plus the landowner's royalty get paid before the working interest owner sees any net revenue. Confirming your exact fraction against the current division order, not an old assignment document that may predate later stacking, is worth doing before assuming what you're owed."
-   ]
-  },
-  {
-   "heading": "Valuing and Selling an ORRI",
-   "paragraphs": [
-    "Because an ORRI's value is capped by the lease's remaining life, valuing one requires an honest read on how much productive life the well realistically has left, based on its decline curve, alongside the same price differential and deduction analysis that applies to any gas royalty. A young, strong well under an ORRI can still carry solid value; an override on a well deep into its tail production has a shorter runway and prices accordingly.",
-    "We'll want the assignment document creating your ORRI, current check history, and information on the well's production trend before making an offer, since the lease-bound nature of the interest is the first thing we account for, not an afterthought."
-   ]
+  "slug": "overriding-royalty-interests",
+  "title": "Overriding Royalty Interests (ORRI)",
+  "type": "interest-type",
+  "metaTitle": "ORRI on Gas Wells: Lease-Bound, Deduction-Exposed, Sellable",
+  "metaDescription": "An overriding royalty interest ends when its lease does. See how ORRI gas payments work, why deductions still apply, and what makes them worth selling.",
+  "heroLead": "An override doesn't own the minerals and doesn't share the drilling cost, but it also doesn't outlive the lease it's carved from, which changes how it should be valued.",
+  "intro": [
+    "An overriding royalty interest, ORRI, is a royalty carved out of the working interest rather than out of the mineral estate itself, commonly created when a landman, geologist, or intermediate party assigns a lease to an operator but retains a royalty slice as compensation, or when an operator sells down part of a lease and reserves an override for itself. Like an NPRI, an ORRI holder doesn't pay drilling or operating costs. Unlike a mineral-based royalty, an ORRI is tied to a specific lease and expires when that lease terminates.",
+    "For a gas ORRI owner, that lease-bound nature, plus the same post-production deduction exposure every gas royalty carries, are the two things most worth understanding before deciding to hold or sell."
+  ],
+  "sections": [
+    {
+      "heading": "Why an ORRI Lives and Dies With Its Lease",
+      "paragraphs": [
+        "Because an override is carved from the working interest under a specific lease, it has no existence independent of that lease. If the well stops producing and the lease terminates, whether from depletion, non-payment of delay rentals, or expiration of its terms, your ORRI terminates along with it, with no reversion to any underlying mineral ownership the way a mineral-based royalty holder would have. There's no fallback position once the lease is gone.",
+        "This makes the remaining productive life of the specific well or unit the ORRI attaches to central to its value in a way that matters more here than for other royalty types. A gas well several years into decline on an ORRI has a genuinely limited remaining income horizon, since there's no underlying mineral estate to fall back on for a future lease once this one ends."
+      ]
+    },
+    {
+      "heading": "Deductions Apply the Same Way They Do to Any Gas Royalty",
+      "paragraphs": [
+        "Being cost-free of drilling and operating expenses doesn't mean an ORRI is free of post-production deductions. Most ORRI assignments either specify deduction treatment directly or default to whatever the underlying lease provides for gathering, compression, dehydration, and transportation costs. Read the assignment document that created your override carefully, since deduction language here varies more than owners expect, and it's the single biggest factor in how much of the gross wellhead value actually reaches your check.",
+        "If the ORRI assignment is silent on deductions, courts in different states have reached different conclusions about default treatment, another reason to have the actual document reviewed if your check seems inconsistent with what you expected."
+      ]
+    },
+    {
+      "heading": "Multiple Overrides Can Stack on the Same Lease",
+      "paragraphs": [
+        "It's common for a single lease to carry more than one ORRI, stacked from different points in the lease's assignment history, along with the working interest owner's retained share. Your specific override fraction sits within that stack, and all overrides plus the landowner's royalty get paid before the working interest owner sees any net revenue. Confirming your exact fraction against the current division order, not an old assignment document that may predate later stacking, is worth doing before assuming what you're owed."
+      ]
+    },
+    {
+      "heading": "Valuing and Selling an ORRI",
+      "paragraphs": [
+        "Because an ORRI's value is capped by the lease's remaining life, valuing one requires an honest read on how much productive life the well realistically has left, based on its decline curve, alongside the same price differential and deduction analysis that applies to any gas royalty. A young, strong well under an ORRI can still carry solid value; an override on a well deep into its tail production has a shorter runway and prices accordingly.",
+        "We'll want the assignment document creating your ORRI, current check history, and information on the well's production trend before making an offer, since the lease-bound nature of the interest is the first thing we account for, not an afterthought."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What happens to your ORRI if the operator sells the lease to a new company?",
+      "answer": "The override typically transfers with the lease and continues to be owed by the new operator, since it's a burden on the working interest itself, not tied to a specific company."
+    },
+    {
+      "question": "Does your ORRI end if the well is temporarily shut in?",
+      "answer": "Usually not immediately, most leases have shut-in provisions that keep the lease alive for a period without production. But an extended shut-in with no lease provision covering it could put the underlying lease, and your override, at risk."
+    },
+    {
+      "question": "Is an ORRI worth less than a mineral-based royalty of the same fraction?",
+      "answer": "Often somewhat less, because of the lease-bound expiration risk, though a young, active well can still make an ORRI a solid asset. We price each on its own production data."
+    },
+    {
+      "question": "How do you find the document that created your ORRI?",
+      "answer": "Check county clerk records for the assignment under which it was created, or ask the operator's owner relations department, which should have a copy on file."
+    },
+    {
+      "question": "Can you sell an ORRI to a different buyer than whoever holds the working interest?",
+      "answer": "Yes, an ORRI can be sold to any buyer independent of the working interest owner, and we regularly purchase them directly from override holders."
+    }
+  ],
+  "status": "written",
+  "wordCount": 875,
+  "image": {
+    "src": "/images/interest-types/mineral-rights-interest-types-overriding-royalty-interests-sellyourgasroyalties-com.jpg",
+    "alt": "Overriding Royalty Interests (ORRI) mineral rights",
+    "width": 1600,
+    "height": 1000
   }
- ],
- "faqs": [
-  {
-   "question": "What happens to your ORRI if the operator sells the lease to a new company?",
-   "answer": "The override typically transfers with the lease and continues to be owed by the new operator, since it's a burden on the working interest itself, not tied to a specific company."
-  },
-  {
-   "question": "Does your ORRI end if the well is temporarily shut in?",
-   "answer": "Usually not immediately, most leases have shut-in provisions that keep the lease alive for a period without production. But an extended shut-in with no lease provision covering it could put the underlying lease, and your override, at risk."
-  },
-  {
-   "question": "Is an ORRI worth less than a mineral-based royalty of the same fraction?",
-   "answer": "Often somewhat less, because of the lease-bound expiration risk, though a young, active well can still make an ORRI a solid asset. We price each on its own production data."
-  },
-  {
-   "question": "How do you find the document that created your ORRI?",
-   "answer": "Check county clerk records for the assignment under which it was created, or ask the operator's owner relations department, which should have a copy on file."
-  },
-  {
-   "question": "Can you sell an ORRI to a different buyer than whoever holds the working interest?",
-   "answer": "Yes, an ORRI can be sold to any buyer independent of the working interest owner, and we regularly purchase them directly from override holders."
-  }
- ],
- "status": "written",
- "wordCount": 875,
- "image": {
-  "src": "/images/interest-types/mineral-rights-interest-types-overriding-royalty-interests-sellyourgasroyalties-com.jpg",
-  "alt": "Overriding Royalty Interests (ORRI) mineral rights",
-  "width": 1600,
-  "height": 1000
- }
 }

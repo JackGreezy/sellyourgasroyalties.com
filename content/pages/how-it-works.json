@@ -1,86 +1,86 @@
 {
- "slug": "how-it-works",
- "title": "How It Works",
- "type": "page",
- "status": "written",
- "metaTitle": "How It Works - Selling Gas Royalties",
- "metaDescription": "The step-by-step process for selling gas mineral or royalty rights direct - from statements to a documented offer to closing.",
- "heroLead": "Five steps, no pressure at any of them: statements, review, documented offer, title work, closing.",
- "intro": [
-  "This is the actual sequence, not a marketing version of it. Some sales move through it in two weeks; some take longer because title needs sorting out. Either way, you'll know at each step where things stand and why."
- ],
- "sections": [
-  {
-   "heading": "Step one - send your statements",
-   "paragraphs": [
-    "Send whatever royalty statements you have, ideally twelve to thirty-six months. If your interest isn't producing, or you don't have statements handy, send your deed or lease instead and we'll work from there - a well operator can usually be identified from county records if needed.",
-    "This step is what lets us look at your actual volume trend, price differential, and deduction history rather than guessing off a public database, which is how a fair number gets built instead of a generic one."
-   ]
-  },
-  {
-   "heading": "Step two - we review the file",
-   "paragraphs": [
-    "We look at the decline stage the well is in, the gas price and differential your statements have been showing, the deduction line as a share of gross revenue, and title condition based on what you've sent. If anything in your file looks unusual - a decimal interest that seems off, a deduction pattern that's climbed sharply without explanation - we'll flag it and explain what we're seeing, whether or not it changes our number.",
-    "This review typically takes a few business days, sometimes less if the file is straightforward and title is clean."
-   ]
-  },
-  {
-   "heading": "Step three - a documented offer",
-   "paragraphs": [
-    "You get a written offer that shows the trailing period we used and the reasoning behind the number - not a flat figure with no math attached. There's no deadline pressure attached to it; take your time, get a second opinion if you want one, and come back with questions. We'd rather answer three rounds of questions than have you sign something you're not sure about."
-   ]
-  },
-  {
-   "heading": "Step four - title work",
-   "paragraphs": [
-    "If you accept, we run title to confirm the chain of ownership matches what's being sold. Clean title with a straightforward history can move quickly; a fractional interest tangled in old inherited land, or a chain with an unrecorded assignment somewhere in it, takes longer to clear. We'll tell you honestly which situation yours looks like once we're into it, rather than promise a timeline we can't back up."
-   ]
-  },
-  {
-   "heading": "Step five - closing",
-   "paragraphs": [
-    "Closing is a notarized mineral deed, recorded at the county courthouse where the minerals sit, with funds disbursed at or near closing. After that, we send a certified copy of the deed to the operator to establish a new division order, and future royalty payments redirect - that transition can take a payment cycle or two on the operator's end, which is normal, not a sign of a problem on our side."
-   ]
-  },
-  {
-   "heading": "What's different about a gas-weighted file",
-   "paragraphs": [
-    "The review step looks slightly different for gas than it would for an oil-heavy interest. We spend more time on the price differential your statements have been showing relative to the regional hub, and on whether NGL revenue - if any - is trending independently of the dry gas line. Deductions also get read against gas-specific norms, since gathering and processing costs on gas typically run differently than on oil, and a fair number accounts for that rather than applying an oil-market assumption to a gas interest.",
-    "None of this changes the sequence of steps above. It changes what we're actually looking at inside steps two and three, which is part of why we ask for statements specifically rather than working off public production data alone."
-   ]
+  "slug": "how-it-works",
+  "title": "How It Works",
+  "type": "page",
+  "status": "written",
+  "metaTitle": "How It Works - Selling Gas Royalties",
+  "metaDescription": "The step-by-step process for selling gas mineral or royalty rights direct - from statements to a documented offer to closing.",
+  "heroLead": "Five steps, no pressure at any of them: statements, review, documented offer, title work, closing.",
+  "intro": [
+    "This is the actual sequence, not a marketing version of it. Some sales move through it in two weeks; some take longer because title needs sorting out. Either way, you'll know at each step where things stand and why."
+  ],
+  "sections": [
+    {
+      "heading": "Step one - send your statements",
+      "paragraphs": [
+        "Send whatever royalty statements you have, ideally twelve to thirty-six months. If your interest isn't producing, or you don't have statements handy, send your deed or lease instead and we'll work from there - a well operator can usually be identified from county records if needed.",
+        "This step is what lets us look at your actual volume trend, price differential, and deduction history rather than guessing off a public database, which is how a fair number gets built instead of a generic one."
+      ]
+    },
+    {
+      "heading": "Step two - we review the file",
+      "paragraphs": [
+        "We look at the decline stage the well is in, the gas price and differential your statements have been showing, the deduction line as a share of gross revenue, and title condition based on what you've sent. If anything in your file looks unusual - a decimal interest that seems off, a deduction pattern that's climbed sharply without explanation - we'll flag it and explain what we're seeing, whether or not it changes our number.",
+        "This review typically takes a few business days, sometimes less if the file is straightforward and title is clean."
+      ]
+    },
+    {
+      "heading": "Step three - a documented offer",
+      "paragraphs": [
+        "You get a written offer that shows the trailing period we used and the reasoning behind the number - not a flat figure with no math attached. There's no deadline pressure attached to it; take your time, get a second opinion if you want one, and come back with questions. We'd rather answer three rounds of questions than have you sign something you're not sure about."
+      ]
+    },
+    {
+      "heading": "Step four - title work",
+      "paragraphs": [
+        "If you accept, we run title to confirm the chain of ownership matches what's being sold. Clean title with a straightforward history can move quickly; a fractional interest tangled in old inherited land, or a chain with an unrecorded assignment somewhere in it, takes longer to clear. We'll tell you honestly which situation yours looks like once we're into it, rather than promise a timeline we can't back up."
+      ]
+    },
+    {
+      "heading": "Step five - closing",
+      "paragraphs": [
+        "Closing is a notarized mineral deed, recorded at the county courthouse where the minerals sit, with funds disbursed at or near closing. After that, we send a certified copy of the deed to the operator to establish a new division order, and future royalty payments redirect - that transition can take a payment cycle or two on the operator's end, which is normal, not a sign of a problem on our side."
+      ]
+    },
+    {
+      "heading": "What's different about a gas-weighted file",
+      "paragraphs": [
+        "The review step looks slightly different for gas than it would for an oil-heavy interest. We spend more time on the price differential your statements have been showing relative to the regional hub, and on whether NGL revenue - if any - is trending independently of the dry gas line. Deductions also get read against gas-specific norms, since gathering and processing costs on gas typically run differently than on oil, and a fair number accounts for that rather than applying an oil-market assumption to a gas interest.",
+        "None of this changes the sequence of steps above. It changes what we're actually looking at inside steps two and three, which is part of why we ask for statements specifically rather than working off public production data alone."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How long does the whole process take?",
+      "answer": "Offers typically come back within a few business days of receiving your statements. Closings commonly run two to six weeks depending on how clean title is - complicated heirship can extend that."
+    },
+    {
+      "question": "Am you obligated to sell once you get an offer?",
+      "answer": "No. The offer is documented and yours to consider - take it, sit with it, or decline it. There's no obligation created by requesting or receiving a number."
+    },
+    {
+      "question": "What if title work finds a problem?",
+      "answer": "We'll explain what we found and what it would take to resolve it - sometimes an affidavit of heirship, sometimes a longer courthouse records search. This doesn't necessarily kill the deal, but it can extend the timeline."
+    },
+    {
+      "question": "Who pays closing costs?",
+      "answer": "This is disclosed clearly in the written offer before you sign, so you know exactly what you're netting at closing with no surprise deductions."
+    },
+    {
+      "question": "Can you back out after accepting an offer but before closing?",
+      "answer": "Terms around this are laid out in the purchase agreement itself, which is worth reading closely - ask us directly before signing if anything about timing or flexibility is unclear."
+    },
+    {
+      "question": "Does the process change if your interest is mostly NGLs rather than dry gas?",
+      "answer": "The review accounts for it, but the five steps stay the same. We'll just weigh your NGL revenue and its own pricing trend alongside the dry gas line rather than treating the interest as one undifferentiated gas stream."
+    }
+  ],
+  "wordCount": 867,
+  "image": {
+    "src": "/images/pages/mineral-rights-pages-how-it-works-sellyourgasroyalties-com.jpg",
+    "alt": "How It Works mineral rights",
+    "width": 1600,
+    "height": 1000
   }
- ],
- "faqs": [
-  {
-   "question": "How long does the whole process take?",
-   "answer": "Offers typically come back within a few business days of receiving your statements. Closings commonly run two to six weeks depending on how clean title is - complicated heirship can extend that."
-  },
-  {
-   "question": "Am you obligated to sell once you get an offer?",
-   "answer": "No. The offer is documented and yours to consider - take it, sit with it, or decline it. There's no obligation created by requesting or receiving a number."
-  },
-  {
-   "question": "What if title work finds a problem?",
-   "answer": "We'll explain what we found and what it would take to resolve it - sometimes an affidavit of heirship, sometimes a longer courthouse records search. This doesn't necessarily kill the deal, but it can extend the timeline."
-  },
-  {
-   "question": "Who pays closing costs?",
-   "answer": "This is disclosed clearly in the written offer before you sign, so you know exactly what you're netting at closing with no surprise deductions."
-  },
-  {
-   "question": "Can you back out after accepting an offer but before closing?",
-   "answer": "Terms around this are laid out in the purchase agreement itself, which is worth reading closely - ask us directly before signing if anything about timing or flexibility is unclear."
-  },
-  {
-   "question": "Does the process change if your interest is mostly NGLs rather than dry gas?",
-   "answer": "The review accounts for it, but the five steps stay the same. We'll just weigh your NGL revenue and its own pricing trend alongside the dry gas line rather than treating the interest as one undifferentiated gas stream."
-  }
- ],
- "wordCount": 867,
- "image": {
-  "src": "/images/pages/mineral-rights-pages-how-it-works-sellyourgasroyalties-com.jpg",
-  "alt": "How It Works mineral rights",
-  "width": 1600,
-  "height": 1000
- }
 }
