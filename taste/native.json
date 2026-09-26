@@ -1,0 +1,31 @@
+{
+  "classes": {
+    "#contact-form button[type=submit]": "btn-blue"
+  },
+  "remove": {
+    "all": [
+      ".section-homepage-v2-info-list-count",
+      "body[data-rr-page=contact] .location-about-v2",
+      ".section-homepage-v2-latest-news .hv2-satellites-slider-bottom",
+      ".section-homepage-v2-performance .platform-image-counter",
+      ".about-history-section .platform-image-counter"
+    ],
+    "slug": [
+      "section.single-product-gallery",
+      "section.single-product-list-section",
+      "section.section-single-product-configurator"
+    ]
+  },
+  "slug_order": [
+    "faq",
+    "related",
+    "cta"
+  ],
+  "templates": {
+    "faq": "<section class=\"single-product-list-section\"><div class=\"intro-content-model\"><span>{kicker}</span></div><div class=\"title-48-36\">{heading}</div><div class=\"text-18-gray-new\">{intro}</div><div class=\"single-product-list\"><ul>{items}</ul></div></section>",
+    "faq_item": "<li><details><summary class=\"title-22\">{q}</summary><div class=\"text-18-gray-new\">{a}</div></details></li>",
+    "related": "<section class=\"section-homepage-v2 section-homepage-v2-needs\"><div class=\"row\"><div class=\"intro-content-model\"><span>{kicker}</span></div><div class=\"title-48-36\">{heading}</div><div class=\"section-homepage-v2-needs-list\"><ul>{items}</ul></div><a class=\"btn-blue\" href=\"{all_href}\">{all_label}</a></div></section>",
+    "related_item": "<li><a class=\"hv2-needs-list-box\" href=\"{href}\"><div><div class=\"title-32-m26\">{name}</div><div class=\"text-18-gray-new\">{teaser}</div></div><div class=\"hv2-needs-list-box-btn\"><span class=\"link-blue\">Learn more</span></div></a></li>",
+    "cta": "<section class=\"blue-form-wrap-v2\"><div class=\"intro-content-model text-white\"><span>{kicker}</span></div><div class=\"title-48-36 text-white\">{title}</div><div class=\"text-18-gray-new text-white\">{intro}</div><div class=\"section-homepage-v2-intro-btns\"><ul><li><a class=\"btn-blue-lighter btn-blue-lighter-ondark\" href=\"{contact_href}\">{label}</a></li><li><a class=\"link-blue-lighter\" href=\"{tel_href}\">Call {phone}</a></li></ul></div></section>"
+  }
+}
