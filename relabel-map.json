@@ -53,7 +53,10 @@
       "utility_links": {
         "selector": "#contact-link",
         "keep": [
-          ["Request a Gas Royalty Review", "/contact"]
+          [
+            "Request a Gas Royalty Review",
+            "/contact"
+          ]
         ]
       },
       "repair_css": "header.header{position:relative!important;z-index:1000!important;width:100%!important}header.header .row-full{display:flex!important;align-items:center!important;min-height:78px!important}header.header .bread-c-list{display:none!important}header.header .rr-wordmark{display:inline-flex!important;flex-direction:column!important;gap:1px!important;color:#101010!important;text-decoration:none!important;line-height:1!important;letter-spacing:.01em!important}header.header.white .rr-wordmark,header.header.template-dark .rr-wordmark{color:#fff!important}header.header .rr-wm-1{font-size:17px!important;font-weight:500!important}header.header .rr-wm-2{font-size:11px!important;letter-spacing:.18em!important;text-transform:uppercase!important}header.header .nav-wrap{display:flex!important;align-items:center!important;justify-content:flex-end!important}header.header #contact-link{white-space:nowrap!important}@media(min-width:1024px){header.header .logo{flex:0 0 150px!important;width:150px!important}header.header .nav{flex:1 1 auto!important;width:auto!important;min-width:0!important}header.header .nav-wrap{width:100%!important}header.header .menu-nav-bar-container>.nav-hold{display:flex!important;align-items:center!important;justify-content:flex-end!important;margin:0!important}header.header .menu-nav-bar-container>.nav-hold>li{margin-right:clamp(12px,1.4vw,22px)!important}header.header .menu-nav-bar-container>.nav-hold>li>a,header.header #contact-link{font-size:13px!important}header.header #contact-link{padding-left:clamp(12px,1.2vw,20px)!important}}@media(max-width:1023px){header.header .row-full{padding-inline:22px!important}.mob-nav-hold[data-rr-mobile]{background:#090909!important;color:#fff!important}.mob-nav-hold[data-rr-mobile] .rr-m-link{color:#fff!important}}"
@@ -75,20 +78,50 @@
         "source"
       ],
       "link_map": {
-        "about": ["About", "/about"],
-        "satellite buses": ["Owner Situations", "/situations"],
-        "mission services": ["Royalty Interests", "/interest-types"],
-        "cubesat subsystems": ["Gas Basins", "/basins"],
-        "careers": ["Gas Royalty States", "/locations"],
-        "news": ["Owner Resources", "/resources"],
-        "events": ["Buyer Underwriting", "/investing"],
-        "terms & conditions": ["Terms", "/terms"],
-        "environmental policy": ["Mineral 1031 Guides", "/exchange-1031"],
-        "see open positions": ["Request a Gas Royalty Review", "/contact"]
+        "about": [
+          "About",
+          "/about"
+        ],
+        "satellite buses": [
+          "Owner Situations",
+          "/situations"
+        ],
+        "mission services": [
+          "Royalty Interests",
+          "/interest-types"
+        ],
+        "cubesat subsystems": [
+          "Gas Basins",
+          "/basins"
+        ],
+        "careers": [
+          "Gas Royalty States",
+          "/locations"
+        ],
+        "news": [
+          "Owner Resources",
+          "/resources"
+        ],
+        "events": [
+          "Buyer Underwriting",
+          "/investing"
+        ],
+        "terms & conditions": [
+          "Terms",
+          "/terms"
+        ],
+        "environmental policy": [
+          "Mineral 1031 Guides",
+          "/exchange-1031"
+        ],
+        "see open positions": [
+          "Request a Gas Royalty Review",
+          "/contact"
+        ]
       },
-    "text_map": {
-      "Submit your e-mail for our news and announcements": "Title. Decimal. Well. Netback. Transfer.",
-      "At NanoAvionics we are always looking for talented people to join our professional team. Sounds like you?": "A Pittsburgh gas-royalty desk connecting title, owner decimals, wells, realized netbacks, complete offer terms, and the recorded transfer."
+      "text_map": {
+        "Submit your e-mail for our news and announcements": "Title. Decimal. Well. Netback. Transfer.",
+        "At NanoAvionics we are always looking for talented people to join our professional team. Sounds like you?": "A Pittsburgh gas-royalty desk connecting title, owner decimals, wells, realized netbacks, complete offer terms, and the recorded transfer."
       },
       "regex_text_map": {
         "At NanoAvionics we are always looking.*Sounds like you\\?": "A Pittsburgh gas-royalty desk connecting title, owner decimals, wells, realized netbacks, complete offer terms, and the recorded transfer."
@@ -126,8 +159,8 @@
       "spacecraft",
       "satellite",
       "orbital",
-      "payload",
-      "mission"
+      "\\bpayload\\b",
+      "\\bmission\\b"
     ],
     "strip_selectors": [
       "php",
@@ -206,19 +239,19 @@
               "sel": ".text-18-lgrey.hide-for-large",
               "text": "A gas-royalty sale should connect recorded title, the owner decimal, well performance, the actual netback, and the exact interest transferred."
             },
-        {
-          "sel": ".section-homepage-v2-intro-btns span.link-blue-lighter",
-          "tag": "a",
-          "attr": {
-            "href": "/about"
-          },
-          "text": "See the review process"
-        }
+            {
+              "sel": ".section-homepage-v2-intro-btns span.link-blue-lighter",
+              "tag": "a",
+              "attr": {
+                "href": "/about"
+              },
+              "text": "See the review process"
+            }
           ]
         },
-      {
-        "selector": ".section-homepage-v2-development",
-        "action": "card-grid",
+        {
+          "selector": ".section-homepage-v2-development",
+          "action": "card-grid",
           "source": "situations",
           "limit": 4,
           "heading": ".title-48-36",
@@ -230,35 +263,35 @@
           "card_fields": {
             "title": ".hv2-development-owl-textbox",
             "image": ".hv2-development-owl-img",
-          "_link_card": true
-        }
-      },
-      {
-        "selector": ".section-homepage-v2-development",
-        "action": "relabel",
-        "ops": [
-          {
-            "sel": ".hv2-development-owl-dots > ul > li",
-            "nth": 0,
-            "html": "Inherited mineral rights <span><span></span></span>"
-          },
-          {
-            "sel": ".hv2-development-owl-dots > ul > li",
-            "nth": 1,
-            "html": "Unsolicited gas royalty offers <span><span></span></span>"
-          },
-          {
-            "sel": ".hv2-development-owl-dots > ul > li",
-            "nth": 2,
-            "html": "Fractional and small interests <span><span></span></span>"
-          },
-          {
-            "sel": ".hv2-development-owl-dots > ul > li",
-            "nth": 3,
-            "html": "Probate and estate minerals <span><span></span></span>"
+            "_link_card": true
           }
-        ]
-      },
+        },
+        {
+          "selector": ".section-homepage-v2-development",
+          "action": "relabel",
+          "ops": [
+            {
+              "sel": ".hv2-development-owl-dots > ul > li",
+              "nth": 0,
+              "html": "Inherited mineral rights <span><span></span></span>"
+            },
+            {
+              "sel": ".hv2-development-owl-dots > ul > li",
+              "nth": 1,
+              "html": "Unsolicited gas royalty offers <span><span></span></span>"
+            },
+            {
+              "sel": ".hv2-development-owl-dots > ul > li",
+              "nth": 2,
+              "html": "Fractional and small interests <span><span></span></span>"
+            },
+            {
+              "sel": ".hv2-development-owl-dots > ul > li",
+              "nth": 3,
+              "html": "Probate and estate minerals <span><span></span></span>"
+            }
+          ]
+        },
         {
           "selector": ".section-homepage-v2-performance",
           "action": "card-grid",
@@ -361,10 +394,10 @@
               "img": "/ours/resources/mineral-rights-resources-mineral-deed-transfer-sellyourgasroyalties-com.jpg",
               "alt": "Gas royalty conveyance"
             },
-        {
-          "sel": ".section-homepage-v2-info-list-last > .text-18-gray-new",
-          "text": "Carry the same five lines through title review, settlement, recording, funding, and payor notice."
-        },
+            {
+              "sel": ".section-homepage-v2-info-list-last > .text-18-gray-new",
+              "text": "Carry the same five lines through title review, settlement, recording, funding, and payor notice."
+            },
             {
               "sel": ".section-homepage-v2-info-list-last a",
               "text": "About the desk",
@@ -512,8 +545,21 @@
             "_link_card": true,
             "summary_chars": 150
           },
-          "view_all": ["View all owner resources", "/resources"],
+          "view_all": [
+            "View all owner resources",
+            "/resources"
+          ],
           "view_all_selector": ".hv2-latest-news-slider-bottom a"
+        },
+        {
+          "selector": ".section-homepage-v2-latest-news",
+          "action": "relabel",
+          "ops": [
+            {
+              "sel": ".intro-content-model span",
+              "text": "Owner library"
+            }
+          ]
         }
       ],
       "carousels": [
@@ -523,24 +569,10 @@
           "slides": ".item",
           "visible": 1,
           "autoplay": 6500
-        },
-        {
-          "selector": ".hv2-performance-owl",
-          "type": "direct",
-          "slides": ".item",
-          "visible": 1,
-          "autoplay": 6500
-        },
-        {
-          "selector": ".hv2-latest-news-owl",
-          "type": "direct",
-          "slides": ".hv2-latest-news-item",
-          "visible": 2,
-          "autoplay": 7000
         }
       ],
       "semantic_title_selector": ".section-homepage-v2-intro .title-84",
-    "repair_css": "header.header{position:absolute!important;top:0!important;left:0!important;background:linear-gradient(90deg,rgba(0,0,0,.72),rgba(0,0,0,.38))!important}header.header .rr-wordmark,header.header.white .rr-wordmark,header.header .menu-nav-bar-container>.nav-hold>li>a{color:#fff!important;text-shadow:0 1px 8px rgba(0,0,0,.3)!important}header.header .nav-trigger span{background:#fff!important}.section-homepage-v2-intro{position:relative!important;min-height:clamp(720px,92vh,1120px)!important;background:#050505!important;color:#fff!important;overflow:hidden!important}.section-homepage-v2-intro-video{position:absolute!important;inset:0!important;display:block!important;background-position:center!important;background-size:cover!important;background-repeat:no-repeat!important;opacity:.42!important}.section-homepage-v2-intro>.row{position:relative!important;z-index:2!important}.section-homepage-v2-intro .title-84{color:#fff!important}.section-homepage-v2-development .hv2-development-owl-img{display:block!important;min-height:clamp(360px,56vw,760px)!important;background-position:center!important;background-size:cover!important}.section-homepage-v2-development .hv2-development-owl-textbox{display:block!important;color:#111!important;font-size:clamp(1.2rem,2.3vw,2rem)!important;line-height:1.2!important;margin-top:1rem!important}.section-homepage-v2-performance .hv2-performance-owl>.item{display:block!important}.section-homepage-v2-info-list.show-for-large,.section-homepage-v2-needs-list.show-for-large{display:block!important}.section-homepage-v2-configurator .hv2-configurator-img{display:block!important;min-height:clamp(380px,48vw,680px)!important;background-position:center!important;background-size:cover!important}.hv2-latest-news-owl{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:clamp(1rem,2vw,2rem)!important}.hv2-latest-news-item{width:auto!important}.hv2-latest-news-item .news-list-image{display:block!important;min-height:280px!important;background-position:center!important;background-size:cover!important}.section-homepage-v2-needs-list a,.section-homepage-v2-info-list a{text-decoration:none!important}@media(max-width:767px){.section-homepage-v2-intro{min-height:760px!important}.section-homepage-v2-intro-box{padding-inline:22px!important}.section-homepage-v2-info-list>ul,.section-homepage-v2-needs-list>ul{display:grid!important;grid-template-columns:1fr!important}.hv2-latest-news-owl{grid-template-columns:1fr!important}.section-homepage-v2-development .hv2-development-owl-img{min-height:430px!important}}"
+      "repair_css": "header.header{position:absolute!important;top:0!important;left:0!important;background:linear-gradient(90deg,rgba(0,0,0,.72),rgba(0,0,0,.38))!important}header.header .rr-wordmark,header.header.white .rr-wordmark,header.header .menu-nav-bar-container>.nav-hold>li>a{color:#fff!important;text-shadow:0 1px 8px rgba(0,0,0,.3)!important}header.header .nav-trigger span{background:#fff!important}.section-homepage-v2-intro{position:relative!important;min-height:clamp(720px,92vh,1120px)!important;background:#050505!important;color:#fff!important;overflow:hidden!important}.section-homepage-v2-intro-video{position:absolute!important;inset:0!important;display:block!important;background-position:center!important;background-size:cover!important;background-repeat:no-repeat!important;opacity:.42!important}.section-homepage-v2-intro>.row{position:relative!important;z-index:2!important}.section-homepage-v2-intro .title-84{color:#fff!important}.section-homepage-v2-development .hv2-development-owl-img{display:block!important;min-height:clamp(360px,56vw,760px)!important;background-position:center!important;background-size:cover!important}.section-homepage-v2-development .hv2-development-owl-textbox{display:block!important;color:#111!important;font-size:clamp(1.2rem,2.3vw,2rem)!important;line-height:1.2!important;margin-top:1rem!important}.section-homepage-v2-performance .hv2-performance-owl>.item{display:block!important}.section-homepage-v2-info-list.show-for-large,.section-homepage-v2-needs-list.show-for-large{display:block!important}.section-homepage-v2-configurator .hv2-configurator-img{display:block!important;min-height:clamp(380px,48vw,680px)!important;background-position:center!important;background-size:cover!important}.hv2-latest-news-owl{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:clamp(1rem,2vw,2rem)!important}.hv2-latest-news-item{width:auto!important}.hv2-latest-news-item .news-list-image{display:block!important;min-height:280px!important;background-position:center!important;background-size:cover!important}.section-homepage-v2-needs-list a,.section-homepage-v2-info-list a{text-decoration:none!important}@media(max-width:767px){.section-homepage-v2-intro{min-height:760px!important}.section-homepage-v2-intro-box{padding-inline:22px!important}.section-homepage-v2-info-list>ul,.section-homepage-v2-needs-list>ul{display:grid!important;grid-template-columns:1fr!important}.hv2-latest-news-owl{grid-template-columns:1fr!important}.section-homepage-v2-development .hv2-development-owl-img{min-height:430px!important}}"
     },
     "index": {
       "signature": [
@@ -852,6 +884,11 @@
           "action": "relabel",
           "ops": [
             {
+              "sel": ".text-14-black p",
+              "nth": 0,
+              "copy": "about_p1"
+            },
+            {
               "sel": ".intro-content-model span",
               "text": "About the gas royalty desk"
             },
@@ -951,8 +988,6 @@
       ],
       "title": ".intro-about-v2 .title-84",
       "title_as_h1": true,
-      "intro": ".intro-about-v2 .text-14-black p:first-child",
-      "intro_copy": "about_p1",
       "block_template": ".about-history-carousel-item",
       "block_host": ".about-history-carousel",
       "block_remove_selector": ".about-history-carousel-item",
@@ -960,15 +995,7 @@
       "block_body": ".about-history-carousel-item-text",
       "block_image": ".about-history-carousel-item-image img",
       "block_image_tax": "basins",
-      "carousels": [
-        {
-          "selector": ".about-history-carousel",
-          "type": "direct",
-          "slides": ".about-history-carousel-item",
-          "visible": 2,
-          "autoplay": 7500
-        }
-      ],
+      "carousels": [],
       "repair_css": ".intro-about-v2 .section-products-v2-intro-bg img{display:block!important;width:100%!important;height:100%!important;object-fit:cover!important;opacity:1!important}.about-features-section .about-features-image img{display:block!important;width:100%!important;height:100%!important;object-fit:cover!important;opacity:1!important}.about-history-carousel{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:clamp(1.2rem,3vw,3rem)!important}.about-history-carousel-item{width:auto!important}.about-history-carousel-item-image img{display:block!important;width:100%!important;height:clamp(300px,40vw,520px)!important;object-fit:cover!important;opacity:1!important}.about-history-carousel-item-year{font-size:clamp(1.5rem,2.6vw,2.4rem)!important;line-height:1.15!important;margin-top:1rem!important}.about-history-carousel-item-text{font-size:clamp(1rem,1.3vw,1.15rem)!important;line-height:1.7!important}@media(max-width:720px){.about-history-carousel{grid-template-columns:1fr!important}}"
     },
     "contact": {
@@ -1055,7 +1082,7 @@
             },
             {
               "sel": ".title-48-36",
-              "copy": "contact_title"
+              "text": "Send the property file"
             },
             {
               "sel": ".blue-form-button-text p",
