@@ -121,10 +121,10 @@
       },
       "text_map": {
         "Submit your e-mail for our news and announcements": "Title. Decimal. Well. Netback. Transfer.",
-        "At NanoAvionics we are always looking for talented people to join our professional team. Sounds like you?": "A Pittsburgh gas-royalty desk connecting title, owner decimals, wells, realized netbacks, complete offer terms, and the recorded transfer."
+        "At NanoAvionics we are always looking for talented people to join our professional team. Sounds like you?": "A gas-royalty desk for owners in every producing state, connecting title, owner decimals, wells, realized netbacks, complete offer terms, and the recorded transfer."
       },
       "regex_text_map": {
-        "At NanoAvionics we are always looking.*Sounds like you\\?": "A Pittsburgh gas-royalty desk connecting title, owner decimals, wells, realized netbacks, complete offer terms, and the recorded transfer."
+        "At NanoAvionics we are always looking.*Sounds like you\\?": "A gas-royalty desk for owners in every producing state, connecting title, owner decimals, wells, realized netbacks, complete offer terms, and the recorded transfer."
       },
       "drop_link_pattern": "Facebook|LinkedIn|Twitter|X|Instagram|ISO",
       "ensure_ia": true,
@@ -895,7 +895,7 @@
             {
               "sel": ".section-products-v2-intro-bg img",
               "img": "/ours/pages/mineral-rights-pages-about-sellyourgasroyalties-com.jpg",
-              "alt": "Gas royalty review in Pittsburgh"
+              "alt": "Gas royalty review desk"
             },
             {
               "sel": ".text-14-black p",
@@ -905,7 +905,7 @@
             {
               "sel": ".text-14-black p",
               "nth": 2,
-              "text": "The desk serves Pittsburgh, the Appalachian Basin, and gas-royalty owners nationwide."
+              "text": "The desk serves gas-royalty owners in every producing state, from the Appalachian Basin to the Haynesville."
             },
             {
               "sel": "a.btn-blue",
@@ -1064,7 +1064,7 @@
           "ops": [
             {
               "sel": ".section-subtitle-line span",
-              "text": "Pittsburgh contact map"
+              "text": "Contact map"
             },
             {
               "sel": ".locations-wrap",

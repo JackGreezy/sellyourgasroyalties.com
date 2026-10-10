@@ -5,8 +5,8 @@
  "intent": "seller",
  "tier": "Strong test",
  "available": true,
- "voice": "Pittsburgh gas-netback desk: title, decimal, well, netback, transfer; institutional third person only",
- "angle": "gas-weighted underwriting; basis, NGL, deduction, decline, title, and transfer evidence kept separate",
+ "voice": "gas-netback desk for owners in every producing state: title, decimal, well, netback, transfer; institutional third person only",
+ "angle": "gas-weighted underwriting for owners in any gas-producing state; basis, NGL, deduction, decline, title, and transfer evidence kept separate",
  "taxonomyCounts": {
   "locations": 24,
   "basins": 6,

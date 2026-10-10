@@ -1,5 +1,5 @@
 {
-  "_": "This voice belongs only to sellyourgasroyalties.com. Sell Gas Royalties speaks as a Pittsburgh gas-royalty underwriting desk organized around a five-line netback ledger: title, decimal, well, netback, and transfer. The language is disciplined about dry gas, wet gas, NGLs, basis, gathering, compression, processing, decline, title, and deed terms. Singular first-person language is forbidden, and this voice must never become a shared pack.",
+  "_": "This voice belongs only to sellyourgasroyalties.com. Sell Gas Royalties speaks as a gas-royalty underwriting desk for owners in every gas-producing state, run on a five-line netback ledger: title, decimal, well, netback, and transfer. The language is disciplined about dry gas, wet gas, NGLs, basis, gathering, compression, processing, decline, title, and deed terms. Singular first-person language is forbidden, and this voice must never become a shared pack.",
   "taxonomy_titles": {
     "situations": "Gas Royalty Owner Situations",
     "locations": "Gas Royalty Reviews by State",
@@ -69,7 +69,7 @@
   ],
   "heroes": [
     [
-      "Sell Gas Royalties in Pittsburgh, PA",
+      "Sell Gas Royalties From Any Producing Basin",
       "A gas-royalty sale should connect recorded title, the owner decimal, well performance, the actual netback, and the exact interest transferred."
     ],
     [
@@ -82,9 +82,9 @@
     ]
   ],
   "copy": {
-    "home_title": "Sell Gas Royalties in Pittsburgh, PA | Gas Royalty Buyer",
-    "home_meta": "Sell gas royalties through a Pittsburgh buyer that reviews title, owner decimals, well history, NGL revenue, basis, deductions, offer terms, and closing documents.",
-    "home_hero_title": "Sell Gas Royalties in Pittsburgh, PA",
+    "home_title": "Sell Gas Royalties From Any Producing Basin | Gas Royalty Buyer",
+    "home_meta": "Sell gas royalties through a buyer that reviews title, owner decimals, well history, NGL revenue, basis, deductions, offer terms, and closing documents.",
+    "home_hero_title": "Sell Gas Royalties From Any Producing Basin",
     "home_intro_title": "A Gas-Royalty Offer Needs More Than a Check Multiple",
     "home_intro": "Sell Gas Royalties builds a five-line netback ledger for the interest under review: title, decimal, well, netback, and transfer. That structure keeps a recent statement from standing in for the deed, a gross benchmark from standing in for the owner's realized price, or a headline offer from standing in for the complete transaction.",
     "home_situations_title": "Start With the Event That Changed the Owner's Decision",
@@ -105,19 +105,19 @@
     "home_resources": "Practical guides translate statements, deductions, deeds, division orders, appraisals, taxes, and sale documents into questions that can be carried into a real decision.",
     "home_exchange_title": "Protect the Sale File While Tax Options Are Reviewed",
     "home_exchange": "A possible exchange adds intermediary, vesting, identification, and acquisition deadlines. The property schedule, title, revenue cutoff, offer terms, and conveyance still have to match.",
-    "home_about_title": "A Buyer Built Around the Netback Ledger",
-    "home_about": "The Pittsburgh desk keeps land records, payor evidence, well performance, gas-market assumptions, sale terms, and closing documents in one review that an owner and advisers can follow.",
+    "home_about_title": "A Buyer Organized on the Netback Ledger",
+    "home_about": "The desk keeps land records, payor evidence, well performance, gas-market assumptions, sale terms, and closing documents in one review that an owner and advisers can follow.",
     "hero_cta": "Request a Gas Royalty Review",
     "index_tagline": "Each guide traces the title, decimal, well, netback, and transfer questions behind a gas-royalty decision.",
     "detail_cta_title": "Ready to place this gas-royalty interest on one clear netback ledger?",
     "faq_heading": "Questions Gas Royalty Owners Commonly Ask",
-    "about_title": "A Pittsburgh Gas Royalty Desk Built Around Five Lines of Evidence",
+    "about_title": "A Gas Royalty Desk Organized on Five Lines of Evidence",
     "about_p1": "Sell Gas Royalties reviews each file through five connected lines: recorded title, the owner decimal, the wells and units, the realized gas-and-liquids netback, and the exact interest a deed would transfer. None of those lines is allowed to stand in for another.",
     "about_p2": "The objective is a transaction that remains legible from the first statement through funding. Facts, forecasts, title findings, pricing assumptions, deductions, adjustments, retained rights, and closing conditions stay labeled so an owner can compare the complete sale rather than one headline number.",
     "contact_title": "Request a Gas Royalty Review",
     "contact_intro": "Share the county and state, record-owner name, operator or payor, recent statements, deed or lease if available, and the question the review should answer. Sensitive identifiers and bank credentials should not be submitted.",
     "contact_section_title": "Bring the Ownership Record and the Net Revenue Evidence",
-    "footer_tagline": "A Pittsburgh gas-royalty desk connecting title, owner decimals, wells, realized netbacks, complete offer terms, and the recorded transfer.",
+    "footer_tagline": "A gas-royalty desk for owners in every producing state, connecting title, owner decimals, wells, realized netbacks, complete offer terms, and the recorded transfer.",
     "privacy": "Sell Gas Royalties uses submitted contact, ownership, property, production, statement, lease, title, operator, payor, offer, and timing information only to respond to an inquiry and evaluate a possible royalty transaction. Submitted personal information is not sold. Bank credentials, government identification numbers, and original documents should not be submitted through this website.",
     "terms": "This website provides general educational and transaction information, not legal, title, tax, accounting, investment, engineering, reserve, appraisal, or exchange advice. Production, ownership, commodity prices, basis, deductions, title findings, offers, and closing amounts can change. Owners should consult qualified professionals before signing a mineral or royalty conveyance.",
     "nf_title": "That Gas Royalty Guide Is Outside This Ledger",
@@ -254,7 +254,7 @@
       ],
       [
         "Treat Decline as a Range",
-        "A gas decline case is shaped by completion design, pressure behavior, choke strategy, offset interference, workovers, curtailment, operating practice, and data gaps. The file should state the history used, forecast start date, method, terminal behavior, downtime allowance, and sensitivity range. Recent production should be read beside cumulative production and the well's place on its decline path. A short run of stronger volumes may reflect a return from downtime rather than a new trend. Low, base, and high cases should keep their assumptions visible, including the month when each curve begins and the point where operating or economic limits are applied."
+        "A gas decline case depends on completion design, pressure behavior, choke strategy, offset interference, workovers, curtailment, operating practice, and data gaps. The file should state the history used, forecast start date, method, terminal behavior, downtime allowance, and sensitivity range. Recent production should be read beside cumulative production and the well's place on its decline path. A short run of stronger volumes may reflect a return from downtime rather than a new trend. Low, base, and high cases should keep their assumptions visible, including the month when each curve begins and the point where operating or economic limits are applied."
       ],
       [
         "Keep Future Development in a Separate Layer",
@@ -297,7 +297,7 @@
     "related_heading": "Move to the next line of the gas ledger",
     "related_intro": "Carry the same title, decimal, well, netback, deduction, and offer evidence into these connected gas-royalty reviews.",
     "related_action": "Open the Gas Royalty Ledger",
-    "faq_kicker": "Appalachian gas file",
+    "faq_kicker": "Gas stream file",
     "faq_intro": "Each answer helps reconcile the paid gas stream with the well, product, price, deduction, decimal, and transfer record behind it."
   },
   "business_subject": "the gas royalty desk",

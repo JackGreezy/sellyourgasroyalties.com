@@ -1,6 +1,6 @@
 # Sell Gas Royalties
 
-> Sell gas royalties through a Pittsburgh buyer that reviews title, owner decimals, well history, NGL revenue, basis, deductions, offer terms, and closing documents.
+> Sell gas royalties through a buyer that reviews title, owner decimals, well history, NGL revenue, basis, deductions, offer terms, and closing documents.
 
 ## Gas Royalty Reviews by State
 - https://sellyourgasroyalties.com/locations/pennsylvania
